@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Czech and Slovak Students in Zurich//Events//EN
+URL:webcal://cssz.ch/events/summer-grill.ics
+NAME:CSSZ Events
+X-WR-CALNAME:CSSZ Events
+X-WR-CALDESC:
+X-WR-TIMEZONE:Europe/Zurich
+X-PUBLISHED-TTL:PT6H
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+X-LIC-LOCATION:Europe/Zurich
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Friday grill at Zürisee
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/summer-grill/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/jbaMyd8VYPYQ1Dbj7" target="_blank" rel="noopener">Saffa-Insel</a>\n<strong>Coordinator:</strong> Timon Fopp (<a class="link" href="mailto:timon.fopp@cssz.ch" target="_blank" rel="noopener">timon.fopp@cssz.ch</a>, <a class="link" href="tel:&#43;41783309888">+41783309888</a>)\n\nThe end of the semester is here again! Lets meet for a grill session on Friday, June 20th, 2025, from 19:00 until at least 23:00 at the Saffa-Insel near the Landiwiese, where you can find arrive by bus or by train at the train station Wollishofen. Since the weather should be warm and sweet, we will also swim, barbeque, play volleyball, drink some fine wine, beer or drinks, do some boat voyages till the sunset and have a lot of fun.
+UID:20250620T190000-summer-grill@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20250620T000000
+DTSTART:20250620T190000
+DTEND:20250620T230000
+LOCATION;ALTREP="https://maps.app.goo.gl/jbaMyd8VYPYQ1Dbj7":Saffa-Insel
+URL:https://cssz.ch/events/summer-grill/
+END:VEVENT
+
+END:VCALENDAR
+
