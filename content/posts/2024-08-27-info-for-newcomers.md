@@ -77,12 +77,14 @@ Studenti již zapsaní před zimním semestrem 2025 mohou pokračovat v placení
 * **Bakalářští studenti:** Předchozí poplatky platí až do dokončení bakalářského programu
 * **Magisterští studenti:** Předchozí poplatky platí až do dokončení magisterského programu
 
-Následující tabulka shrnuje oficiální **odhad** nákladů na studium pro mezinárodní studenty na ETH. Rozdíl na UZH je minimální. Jedná se o orientační čísla (spíše přestřelená), která se mohou lišit podle konkrétních potřeb a životního stylu studenta.
+**Zvýšení školného se týká pouze ETH.** Současní i budoucí studenti UZH budou i nadále platit 720 CHF za semestr + 500 CHF za semestr (bakalářské studium) nebo 100 CHF za semestr (magisterské studium), pokud nesplňujete výše uvedené podmínky.
+
+Následující tabulka shrnuje oficiální **odhad** nákladů na studium pro mezinárodní studenty na ETH. Rozdíl na UZH je kromě školného minimální. Jedná se o orientační čísla (spíše přestřelená), která se mohou lišit podle konkrétních potřeb a životního stylu studenta.
 
 | **Category**                                | **Cost per Month (CHF)** | **Cost per Year (CHF)** |
 |---------------------------------------------|--------------------------|-------------------------|
 | **Compulsory Study Costs (per semester)**   |                          |                         |
-| Tuition fee (including exam fees)           | -                        | 2,190                     |
+| Tuition fee (including exam fees)           | -                        | 2,190 (720)             |
 | [ASVZ](http://asvz.ch) + Scholarship Fund + [VSETH](https://vseth.ethz.ch/en)             | -                        | 74                     |
 | **Total Compulsory Study Costs (per semester)** |                        | **804**                 |
 ||||
