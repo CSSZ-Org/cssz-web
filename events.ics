@@ -29,6 +29,19 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Semester Welcome Event (Autumn 2025)
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/welcome-event-autumn25/\n<strong>Location:</strong> <a href="https://goo.gl/maps/bqDsM5dpDLDDRoGg8" target="_blank" rel="noopener">bQm Culture Café & Bar</a>\n<strong>Coordinator:</strong> Zdeněk Šnajdr (<a class="link" href="mailto:zdenek.snajdr@cssz.ch" target="_blank" rel="noopener">zdenek.snajdr@cssz.ch</a>, <a class="link" href="tel:&#43;41762254840">+41762254840</a>)\n\nJoin us for a lively kick-off to the Autumn semester 2024 at the bQm bar 🍻, where the Czech and Slovak Students in Zurich will meet up for a beer⭐. This is a great opportunity for both new and existing students to meet🤝. We look forward to seeing you there! 🎉
+UID:20250919T183000-welcome-event-autumn25@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20250919T000000
+DTSTART:20250919T183000
+DTEND:20250919T230000
+LOCATION;ALTREP="https://goo.gl/maps/bqDsM5dpDLDDRoGg8":bQm Culture Café & Bar
+URL:https://cssz.ch/events/welcome-event-autumn25/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
 SUMMARY:Friday grill at Zürisee
 DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/summer-grill/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/jbaMyd8VYPYQ1Dbj7" target="_blank" rel="noopener">Saffa-Insel</a>\n<strong>Coordinator:</strong> Timon Fopp (<a class="link" href="mailto:timon.fopp@cssz.ch" target="_blank" rel="noopener">timon.fopp@cssz.ch</a>, <a class="link" href="tel:&#43;41783309888">+41783309888</a>)\n\nThe end of the semester is here again! Lets meet for a grill session on Friday, June 20th, 2025, from 19:00 until at least 23:00 at the Saffa-Insel near the Landiwiese, where you can find arrive by bus or by train at the train station Wollishofen. Since the weather should be warm and sweet, we will also swim, barbeque, play volleyball, drink some fine wine, beer or drinks, do some boat voyages till the sunset and have a lot of fun.
 UID:20250620T190000-summer-grill@cssz.ch
