@@ -51,12 +51,38 @@ Snad všechny banky nabízí výhodné podmínky pro studenty. Zde je přehled h
 
 ## Náklady na studium
 
+**Od zimního semestru 2025 (HS25) bude většina českých a slovenských studentů začínajících studium na ETH platit trojnásobné školné (2 190 CHF za semestr).** Můžete však mít nárok na snížené základní školné (730 CHF za semestr), pokud splňujete určitá kritéria.
+
+**Občané s dvojím občanstvím:**
+* **Čeští/slovenští studenti se švýcarským občanstvím**
+* **Čeští/slovenští studenti s lichtenštejnským občanstvím**
+* Studenti, kteří měli bydliště ve Švýcarsku nebo Lichtenštejnsku v době, kdy získali maturitní vysvědčení opravňující ke studiu na vysoké škole (např. Matura, Abitur atd.), bez ohledu na jejich státní příslušnost
+
+**Čeští/slovenští studenti se švýcarskými/EU povoleními:**
+Základní školné se vztahuje na české a slovenské studenty **POUZE** pokud splňují jedno z následujících kritérií:
+
+* **Občané EU** (čeští/slovenští) s povolením B, L nebo G s poznámkou "oprávnění k výdělečné činnosti" nebo s povolením k trvalému pobytu C
+* **Děti rodičů z EU**, jejichž rodiče mají povolení B nebo L (oboje s poznámkou "oprávnění k výdělečné činnosti") nebo povolení k trvalému pobytu C a student má povolení k pobytu ve Švýcarsku před začátkem studia
+* **Případy sloučení rodiny** podle dohody o volném pohybu osob s EU/EFTA
+* **Uprchlíci a osoby pod ochranou** s povoleními F, S nebo B
+
+**Důležité:** Pouhé občanství České republiky nebo Slovenska (EU) vás neopravňuje k základnímu školnému. Musíte mít také příslušné švýcarské povolení k pobytu s pracovním oprávněním.
+
+*V případě dotazů ohledně statusu pobytu kontaktujte místní kantonální migrační nebo obecní úřad.*
+
+Všichni studenti, kteří nesplňují výše uvedená kritéria pro základní školné, budou platit trojnásobnou sazbu. ETH Zurich ověří vaši kategorii školného během přijímacího řízení.
+
+Studenti již zapsaní před zimním semestrem 2025 mohou pokračovat v placení předchozích poplatků za těchto podmínek:
+
+* **Bakalářští studenti:** Předchozí poplatky platí až do dokončení bakalářského programu
+* **Magisterští studenti:** Předchozí poplatky platí až do dokončení magisterského programu
+
 Následující tabulka shrnuje oficiální **odhad** nákladů na studium pro mezinárodní studenty na ETH. Rozdíl na UZH je minimální. Jedná se o orientační čísla (spíše přestřelená), která se mohou lišit podle konkrétních potřeb a životního stylu studenta.
 
 | **Category**                                | **Cost per Month (CHF)** | **Cost per Year (CHF)** |
 |---------------------------------------------|--------------------------|-------------------------|
 | **Compulsory Study Costs (per semester)**   |                          |                         |
-| Tuition fee (including exam fees)           | -                        | 730                     |
+| Tuition fee (including exam fees)           | -                        | 2,190                     |
 | [ASVZ](http://asvz.ch) + Scholarship Fund + [VSETH](https://vseth.ethz.ch/en)             | -                        | 74                     |
 | **Total Compulsory Study Costs (per semester)** |                        | **804**                 |
 ||||

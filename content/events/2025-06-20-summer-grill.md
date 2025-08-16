@@ -5,7 +5,6 @@ description: |
 image: images/events/2025-06-20-summer-grill/staffa-insel.png
 semesters: 2025-spring
 pubdate: 2025-06-20
-pinned: True
 
 event_details:
   date_start: 2025-06-20T19:00:00
