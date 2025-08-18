@@ -85,8 +85,8 @@ Následující tabulka shrnuje oficiální **odhad** nákladů na studium pro me
 |---------------------------------------------|--------------------------|-------------------------|
 | **Compulsory Study Costs (per semester)**   |                          |                         |
 | Tuition fee (including exam fees)           | -                        | 2,190 (720)             |
-| [ASVZ](http://asvz.ch) + Scholarship Fund + [VSETH](https://vseth.ethz.ch/en)             | -                        | 74                     |
-| **Total Compulsory Study Costs (per semester)** |                        | **804**                 |
+| [ASVZ](http://asvz.ch) + Scholarship Fund + [VSETH](https://vseth.ethz.ch/en)             | -                        | 74 (59)                |
+| **Total Compulsory Study Costs (per semester)** |                        | **2,264 (779)**                 |
 ||||
 | **Living Costs Estimate**                 |                          |                         |
 | Rent (room incl. heating, etc.)             | 944                      | 11,300                  |
@@ -95,7 +95,7 @@ Následující tabulka shrnuje oficiální **odhad** nákladů na studium pro me
 | Health insurance                            | *(informace o pojištění níže)*      | ~150 |
 | Individual expenses                         | 200                      | 2400                 |
 ||||
-| **Total Study and Living Costs**            |   ~1,870                | ~22,440                 |
+| **Total Study and Living Costs**            |   ~1,980 (1,860)                | ~23,900 (~22,415)                 |
 
 
 Více informací o finanční náročnosti studia, ale i možných způsobech financování na [UZH zde](https://www.internationals.uzh.ch/en/living-in-zurich/cost-of-living.html) a [ETH zde](https://ethz.ch/students/en/studies/financial.html).
@@ -109,7 +109,7 @@ ETH Zurich nabízí stipendia zahraničním studentům jako sekundární zdroj f
 - Stipendia se udělují do konce řádné doby studia plus další dva semestry.
 
 ### Proces žádosti
-- Termín přihlášek pro akademický rok 2024/25 je **od 1. září do 31. října 2024**.
+- Termín přihlášek pro akademický rok 2025/26 je **od 1. září do 31. října 2025**.
 - Přihlášky je nutné podat elektronicky přes portál eStip, kam je potřeba nahrát všechny potřebné dokumenty ve formátu PDF.
 
 
