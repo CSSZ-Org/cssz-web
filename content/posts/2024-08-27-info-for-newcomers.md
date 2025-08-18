@@ -95,7 +95,7 @@ Následující tabulka shrnuje oficiální **odhad** nákladů na studium pro me
 | Health insurance                            | *(informace o pojištění níže)*      | ~150 |
 | Individual expenses                         | 200                      | 2400                 |
 ||||
-| **Total Study and Living Costs**            |   ~1,980 (1,860)                | ~23,900 (~22,415)                 |
+| **Total Study and Living Costs**            |   ~1,980 (~1,860)                | ~23,900 (~22,415)                 |
 
 
 Více informací o finanční náročnosti studia, ale i možných způsobech financování na [UZH zde](https://www.internationals.uzh.ch/en/living-in-zurich/cost-of-living.html) a [ETH zde](https://ethz.ch/students/en/studies/financial.html).
