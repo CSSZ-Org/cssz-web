@@ -5,7 +5,7 @@ description: |
 image: images/events/2025-06-02-jam-session/guitar.jpeg
 semesters: 2025-spring
 pubdate: 2025-05-30
-pinned: True
+pinned: False
 
 event_details:
   date_start: 2025-06-02T19:00:00
