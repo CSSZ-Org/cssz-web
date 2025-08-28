@@ -8,7 +8,7 @@ pubdate: 2025-08-28
 pinned: True
 
 event_details:
-  date_start: 2025-10-04T8:00:00
+  date_start: 2025-10-04T7:00:00
   date_end: 2025-10-04T20:00:00
   location:
     text: Lugano, Bellinzona
@@ -24,6 +24,8 @@ event_details:
 Join us in exploring the beauty of Ticino, where picturesque lakeside towns meet colourful architecture and Mediterranean flair, and experience the unique blend of Swiss precision and Italian atmosphere. We will start with a walk through the old town of Lugano, followed by a boat ride on the lake. In the lakeside park we will have pizza for lunch and enjoy some ice cream, and those interested will also have the chance to swim in the lake. Then we will decide whether to stay longer in Lugano or continue to Bellinzona, where one can admire the medieval castles listed as a UNESCO World Heritage Site.
 
 ## **Connections:**
+
+We will take a direct train from Zurich HB at 7:05, arriving at 8:58. [Connection Link](https://www.sbb.ch/de?stops=[{%22value%22:%228503000%22,%22type%22:%22ID%22,%22label%22:%22Z%C3%BCrich+HB%22},{%22value%22:%228505300%22,%22type%22:%22ID%22,%22label%22:%22Lugano%22}]&date=%222025-10-04%22&time=%2200:48%22&moment=%22DEPARTURE%22&selected_trip=2)
 
 We will take a train back at 17:17 or 18:17 arriving in Zurich at 18:55 or 19:55, respectively, depending on the situation.
 
