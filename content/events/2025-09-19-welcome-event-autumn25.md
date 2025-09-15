@@ -17,4 +17,4 @@ event_details:
     - zdenek.snajdr
 ---
 
-Join us for a lively kick-off to the Autumn semester 2024 at the bQm bar 🍻, where the Czech and Slovak Students in Zurich will meet up for a beer⭐. This is a great opportunity for both new and existing students to meet🤝. We look forward to seeing you there! 🎉
+Join us for a lively kick-off to the Autumn semester 2025 at the bQm bar 🍻, where the Czech and Slovak Students in Zurich will meet up for a beer⭐. This is a great opportunity for both new and existing students to meet🤝. We look forward to seeing you there! 🎉
