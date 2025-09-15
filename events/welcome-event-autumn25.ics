@@ -31,7 +31,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
 SUMMARY:Semester Welcome Event (Autumn 2025)
-DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/welcome-event-autumn25/\n<strong>Location:</strong> <a href="https://goo.gl/maps/bqDsM5dpDLDDRoGg8" target="_blank" rel="noopener">bQm Culture Café & Bar</a>\n<strong>Coordinator:</strong> Zdeněk Šnajdr (<a class="link" href="mailto:zdenek.snajdr@cssz.ch" target="_blank" rel="noopener">zdenek.snajdr@cssz.ch</a>, <a class="link" href="tel:&#43;41762254840">+41762254840</a>)\n\nJoin us for a lively kick-off to the Autumn semester 2024 at the bQm bar 🍻, where the Czech and Slovak Students in Zurich will meet up for a beer⭐. This is a great opportunity for both new and existing students to meet🤝. We look forward to seeing you there! 🎉
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/welcome-event-autumn25/\n<strong>Location:</strong> <a href="https://goo.gl/maps/bqDsM5dpDLDDRoGg8" target="_blank" rel="noopener">bQm Culture Café & Bar</a>\n<strong>Coordinator:</strong> Zdeněk Šnajdr (<a class="link" href="mailto:zdenek.snajdr@cssz.ch" target="_blank" rel="noopener">zdenek.snajdr@cssz.ch</a>, <a class="link" href="tel:&#43;41762254840">+41762254840</a>)\n\nJoin us for a lively kick-off to the Autumn semester 2025 at the bQm bar 🍻, where the Czech and Slovak Students in Zurich will meet up for a beer⭐. This is a great opportunity for both new and existing students to meet🤝. We look forward to seeing you there! 🎉
 UID:20250919T183000-welcome-event-autumn25@cssz.ch
 SEQUENCE:0
 STATUS:CONFIRMED
