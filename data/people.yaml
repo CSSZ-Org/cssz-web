@@ -95,6 +95,11 @@ all:
     role: Events
     phone: "+41 78 238 21 84"
     email: "ondrej.peterka@email.cz"
+
+  - id: matej.kratky
+    name: Matěj Krátký
+    role: Events
+    phone: "+420728050060"
   
 
 board:
