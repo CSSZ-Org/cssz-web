@@ -2,7 +2,7 @@ all:
   - id: radim.urban
     name: Radim Urban
     role: Infrastructure
-    about: Radim is a co-founding member of CSSZ. He studies BSc Computer Science at ETH. In his free time he likes to play tennis or guitar.
+    about: Radim studies MSc Computer Science at ETH. In his free time he likes to play tennis or guitar.
     image: images/members/radim-urban.jpeg
   - id: juraj.micko
     name: Juraj Mičko
@@ -42,7 +42,7 @@ all:
 
   - id: zdenek.snajdr
     name: Zdeněk Šnajdr
-    role: President
+    role: Events
     about: Zdeněk studies MSc Computer Science at ETH Zurich. He enjoys traveling and likes swimming and learning new languages.
     phone: "+41762254840"
     image: images/members/zdenek-snajdr.jpg
@@ -100,18 +100,22 @@ all:
     name: Matěj Krátký
     role: Events
     phone: "+420728050060"
+
+  - id: klara.kolarova
+    name: Klára Kolářová
+    role: President
+    about: Klára studies MSc Science, Technology and Policy at ETH after a BSc in Computer Science in Vienna. In her free time, she enjoys food and coffee dates with friends, listening to and playing music and yoga.
+    image: images/members/klara-kolarova.png
   
 
 board:
+  - klara.kolarova
+  - ales.kubicek
   - zdenek.snajdr
   - radim.urban
-  - ales.kubicek
-  - michal.krkoska
   - max.kellenberger
   
 team:
   - juraj.micko
   - timon.fopp
-  - emma.hubekova
-  - ondrej.cernin
   - vu.nguyen
