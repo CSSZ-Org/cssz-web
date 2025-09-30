@@ -19,6 +19,17 @@ summary: |
   On September 26th we will host a General Assembly (GA). We will look back at our activities of the last year, discuss the direction the society should take and elect a new board. In addition, we will vote on the new version of the statutes.
 ---
 
+## Conclusions from the General Meeting
+
+Thanks to everyone who joined the General Assembly. We are very happy so many of you help us run CSSZ.
+
+The General Assembly voted and passed the following agenda points:
+
+1. Elect Klára Kolářová as the president of CSSZ for the next term.
+2. Elect Radim Urban, Max Kellenberger, Aleš Kubíček and Zdeněk Šnajdr as Board members.
+
+## Initial Invitation
+
 Dear CSSZ members,
 
 On September 26th we will host a General Assembly (GA). We will look back at our activities of the last year, discuss the direction the society should take and elect a new board. In addition, we will vote on the new version of the statutes.
