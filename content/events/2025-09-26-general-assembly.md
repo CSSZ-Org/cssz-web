@@ -25,8 +25,9 @@ Thanks to everyone who joined the General Assembly. We are very happy so many of
 
 The General Assembly voted and passed the following agenda points:
 
-1. Elect Klára Kolářová as the president of CSSZ for the next term.
-2. Elect Radim Urban, Max Kellenberger, Aleš Kubíček and Zdeněk Šnajdr as Board members.
+1. Elected Klára Kolářová as the president of CSSZ for the next term.
+2. Elected Radim Urban, Max Kellenberger, Aleš Kubíček and Zdeněk Šnajdr as Board members.
+3. Accepted the proposed changes of current statutes.
 
 ## Initial Invitation
 
