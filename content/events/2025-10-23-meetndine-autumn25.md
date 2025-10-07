@@ -5,7 +5,8 @@ description: |
 image: images/events/2023-10-20-meetndine-autumn23/knedliky.jpeg
 semesters: 2025-autumn
 pubdate: 2025-10-06
-permalink: /knedliky
+slug: knedliky
+permalink: /knedliky/
 
 event_details:
   date_start: 2025-10-23T19:00:00
@@ -49,3 +50,4 @@ The registration fee includes the meal and a beer.
 
 
 For directions, click [here](https://maps.app.goo.gl/WpyMr8Uv8sHp9nEg9).
+
