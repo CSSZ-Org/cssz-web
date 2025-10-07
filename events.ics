@@ -29,6 +29,19 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Meet'n'Dine 5 - Dupmlings and Pilsner!
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/meetndine-autumn25/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/WpyMr8Uv8sHp9nEg9" target="_blank" rel="noopener">University of Zurich, KOL-K-Küche</a>\n<strong>Coordinator:</strong> Radim Urban (<a class="link" href="mailto:radim.urban@cssz.ch" target="_blank" rel="noopener">radim.urban@cssz.ch</a>), Aleš Kubiček (<a class="link" href="mailto:ales.kubicek@cssz.ch" target="_blank" rel="noopener">ales.kubicek@cssz.ch</a>)\n<strong>Registration:</strong> <a href="https://forms.gle/6J8HZN7weRa99Q739" target="_blank" rel="noopener">Google Form (Payment required)</a>\n<strong>Notes:</strong>\n• Registration is now open. Please pay the registration fee within 2 days. <strong>Signup available till the 21st of October.</strong> Later only upon request per email.\n\nIt’s that time of the year again!!! On October 23, we will meet in the beautiful kitchen space at UZH (K floor with incredible view over the oldtown and lake) and we’ll be cooking a traditional Czech dish: Plněné knedlíky uzeným se zelím (Stuffed dumplings with smoked cabbage). Czech Beer on tap is provided and included in your registration fee. What is that dish? Plněné knedlíky uzeným se zelím is a traditional Czech dish.
+UID:20251023T190000-meetndine-autumn25@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251023T000000
+DTSTART:20251023T190000
+DTEND:20251023T220000
+LOCATION;ALTREP="https://maps.app.goo.gl/WpyMr8Uv8sHp9nEg9":University of Zurich, KOL-K-Küche
+URL:https://cssz.ch/events/meetndine-autumn25/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
 SUMMARY:Sightseeing trip to Ticino
 DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/ticino-trip/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/54efBHM6SkjFigLm9" target="_blank" rel="noopener">Lugano, Bellinzona</a>\n<strong>Coordinator:</strong> Ondřej Peterka (<a class="link" href="mailto:ondrej.peterka@email.cz" target="_blank" rel="noopener">ondrej.peterka@email.cz</a>, <a class="link" href="tel:&#43;41782382184">+41 78 238 21 84</a>)\n<strong>Registration:</strong> <a href="https://chat.whatsapp.com/FOfDPDLK9nFCJh96XDCgTd?mode=ems_copy_t" target="_blank" rel="noopener">Whatsapp Group</a>\n\nJoin us in exploring the beauty of Ticino, where picturesque lakeside towns meet colourful architecture and Mediterranean flair, and experience the unique blend of Swiss precision and Italian atmosphere. We will start with a walk through the old town of Lugano, followed by a boat ride on the lake. In the lakeside park we will have pizza for lunch and enjoy some ice cream, and those interested will also have the chance to swim in the lake.
 UID:20251004T070000-ticino-trip@cssz.ch
