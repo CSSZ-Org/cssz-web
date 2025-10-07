@@ -1,5 +1,5 @@
 ---
-title: Meet'n'Dine 5 - Dupmlings and Pilsner!
+title: Meet'n'Dine 5 - Dumplings and Pilsner!
 description: |
   Join a cultural dinner with fellow students. We'll be cooking Filled Dumplings and enjoy Pilsner on tap!
 image: images/events/2023-10-20-meetndine-autumn23/knedliky.jpeg
@@ -51,5 +51,6 @@ The registration fee includes the meal and a beer.
 
 
 For directions, click [here](https://maps.app.goo.gl/WpyMr8Uv8sHp9nEg9).
+
 
 
