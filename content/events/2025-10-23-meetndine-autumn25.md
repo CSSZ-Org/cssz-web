@@ -31,26 +31,25 @@ event_details:
 ## It’s that time of the year again!!!
 On October 23, we will meet in the beautiful kitchen space at UZH (K floor with incredible view over the oldtown and lake) and we’ll be cooking a traditional Czech dish: *Plněné knedlíky uzeným se zelím* (Stuffed dumplings with smoked cabbage). Czech Beer on tap is provided and included in your registration fee.
 
+![Knedlik](images/events/2025-10-23-meetndine-autumn25/poster.png)
+
 ## What is that dish?
 Plněné knedlíky uzeným se zelím is a traditional Czech dish. It consists of potato dumplings stuffed with smoked meat and served with smoked/cooked cabbage. It is a very popular dish in the Czech Republic / Slovakia and is often served in restaurants and pubs. The dumplings are filled with smoked meat and served on cabbage. The dish is often garnished with parsley and served with a glass of beer. We offer vegetarian alternative as well (smoked tofu), indicate this choice in the form.
 
 ## Registration Fee
 The registration fee includes the meal and a beer.
 
-- 10CHF Active Members (= CSSZ student members: BSc + MSc + PhD)
-- 15CHF Other Members
+- 10CHF Active CSSZ Members (= enrolled in any BSc/MSc/PhD program)
+- 15CHF Other CSSZ Members
 - 20CHF External
 
-
-![Knedlik](images/events/2025-10-23-meetndine-autumn25/poster.png)
+**How do I become a CSSZ Member**? You can become a CSSZ member by filling out [this form](https://docs.google.com/forms/d/e/1FAIpQLSeo2aFQFMGMKH2_5Mt2Kh2Z8TsMb0cf2ykdRiKz9vMHPpgHMQ/viewform). If you are a student you are automatically an **Active Member**.
 
 ## FAQ
-- If you’re bringing a friend, they need to be registered as well.
+- If you’re bringing a friend, they need to be registered as well!
 - Please note that your signup is invalid if you fail to correctly indicate your membership.
-- Due to organizational difficulty we won’t guarantee to be able to refund your entry fee if you can’t come, but feel free to reach out.
-
+- Due to organizational difficulty, we don’t guarantee to refund your entry fee if you can’t come. But we are nice people, so try to reach out anyways.
 
 For directions, click [here](https://maps.app.goo.gl/WpyMr8Uv8sHp9nEg9).
-
 
 
