@@ -5,7 +5,7 @@ description: |
 image: images/events/2025-10-04-ticino-trip/lake_city.jpg
 semesters: 2025-autumn
 pubdate: 2025-08-28
-pinned: True
+
 
 event_details:
   date_start: 2025-10-04T7:00:00
