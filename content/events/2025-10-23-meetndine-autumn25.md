@@ -7,6 +7,7 @@ semesters: 2025-autumn
 pubdate: 2025-10-06
 slug: knedliky
 permalink: /knedliky/
+pinned: True
 
 event_details:
   date_start: 2025-10-23T19:00:00
@@ -50,4 +51,5 @@ The registration fee includes the meal and a beer.
 
 
 For directions, click [here](https://maps.app.goo.gl/WpyMr8Uv8sHp9nEg9).
+
 
