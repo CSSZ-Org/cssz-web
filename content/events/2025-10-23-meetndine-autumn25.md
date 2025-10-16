@@ -20,12 +20,12 @@ event_details:
     - ales.kubicek
   registration:
     link: https://forms.gle/6J8HZN7weRa99Q739
-    text: Google Form (Payment required)
+    text: Join Waiting List
   notes:
     - alert_type: warning
       icon: solid/info
       text: |
-        Registration is now open. Please pay the registration fee within 2 days. **Signup available till the 21st of October.** Later only upon request per email.
+        **We reached the event's capacity.** Waiting list is now open. You will be notified by email if spots free up.
 ---
 
 ## It’s that time of the year again!!!
@@ -51,5 +51,6 @@ The registration fee includes the meal and a beer.
 - Due to organizational difficulty, we don’t guarantee to refund your entry fee if you can’t come. But we are nice people, so try to reach out anyways.
 
 For directions, click [here](https://maps.app.goo.gl/WpyMr8Uv8sHp9nEg9).
+
 
 
