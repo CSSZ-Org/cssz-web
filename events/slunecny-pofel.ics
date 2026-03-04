@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Czech and Slovak Students in Zurich//Events//EN
+URL:webcal://cssz.ch/events/slunecny-pofel.ics
+NAME:CSSZ Events
+X-WR-CALNAME:CSSZ Events
+X-WR-CALDESC:
+X-WR-TIMEZONE:Europe/Zurich
+X-PUBLISHED-TTL:PT6H
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+X-LIC-LOCATION:Europe/Zurich
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Slunečný pofel @ Bqm
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/slunecny-pofel/\n<strong>Location:</strong> <a href="https://goo.gl/maps/bqDsM5dpDLDDRoGg8" target="_blank" rel="noopener">bQm Culture Café & Bar</a>\n<strong>Coordinator:</strong> Klára Kolářová (<a class="link" href="mailto:klara.kolarova@cssz.ch" target="_blank" rel="noopener">klara.kolarova@cssz.ch</a>)\n\nJoin us for Slunečný pofel at the bQm bar! ☀️ Whether you want to take a break from your studies or just catch up with the Czech and Slovak community in Zurich over a beer, this is the place to be 🍻. It’s a great chance to meet new faces and enjoy the relaxed atmosphere of bQm. We look forward to seeing you all there! 🎉
+UID:20260313T190000-slunecny-pofel@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20260313T000000
+DTSTART:20260313T190000
+DTEND:20260313T220000
+LOCATION;ALTREP="https://goo.gl/maps/bqDsM5dpDLDDRoGg8":bQm Culture Café & Bar
+URL:https://cssz.ch/events/slunecny-pofel/
+END:VEVENT
+
+END:VCALENDAR
+

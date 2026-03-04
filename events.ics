@@ -29,6 +29,32 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Pub Quiz 💡
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/pub-quiz-spring26/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/sX2RepNzvCMx4c8v7" target="_blank" rel="noopener">Cooper's Pub</a>\n<strong>Coordinator:</strong> Zdeněk Šnajdr (<a class="link" href="mailto:zdenek.snajdr@cssz.ch" target="_blank" rel="noopener">zdenek.snajdr@cssz.ch</a>, <a class="link" href="tel:&#43;41762254840">+41762254840</a>)\n<strong>Registration:</strong> <a href="https://forms.gle/SpoBedEydjNaysyC7" target="_blank" rel="noopener">Google Form</a>\n\n🎉 Brain-teasing night with your favourite people from CSSZ! Join us for yet another Pub Quiz night on March 30th at the Cooper&rsquo;s Pub in Oerlikon! 🍻 🏆 Put your knowledge to the test and compete with friends or make new ones as you tackle a wide range of exciting and diverse questions. From pop culture and history to sports and general knowledge, there&rsquo;s something for everyone.
+UID:20260330T183000-pub-quiz-spring26@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20260330T000000
+DTSTART:20260330T183000
+DTEND:20260330T223000
+LOCATION;ALTREP="https://maps.app.goo.gl/sX2RepNzvCMx4c8v7":Cooper's Pub
+URL:https://cssz.ch/events/pub-quiz-spring26/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Slunečný pofel @ Bqm
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/slunecny-pofel/\n<strong>Location:</strong> <a href="https://goo.gl/maps/bqDsM5dpDLDDRoGg8" target="_blank" rel="noopener">bQm Culture Café & Bar</a>\n<strong>Coordinator:</strong> Klára Kolářová (<a class="link" href="mailto:klara.kolarova@cssz.ch" target="_blank" rel="noopener">klara.kolarova@cssz.ch</a>)\n\nJoin us for Slunečný pofel at the bQm bar! ☀️ Whether you want to take a break from your studies or just catch up with the Czech and Slovak community in Zurich over a beer, this is the place to be 🍻. It’s a great chance to meet new faces and enjoy the relaxed atmosphere of bQm. We look forward to seeing you all there! 🎉
+UID:20260313T190000-slunecny-pofel@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20260313T000000
+DTSTART:20260313T190000
+DTEND:20260313T220000
+LOCATION;ALTREP="https://goo.gl/maps/bqDsM5dpDLDDRoGg8":bQm Culture Café & Bar
+URL:https://cssz.ch/events/slunecny-pofel/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
 SUMMARY:Christmas Gingerbread Baking
 DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/pernik/\n<strong>Location:</strong> Paul-Feyerabend-Hof, 8049 Zürich, Student Village (Common Room)\n<strong>Coordinator:</strong> Max Kellenberger (<a class="link" href="mailto:max.kellenberger@cssz.ch" target="_blank" rel="noopener">max.kellenberger@cssz.ch</a>), Klára Kolářová (<a class="link" href="mailto:klara.kolarova@cssz.ch" target="_blank" rel="noopener">klara.kolarova@cssz.ch</a>)\n<strong>Registration:</strong> <a href="https://forms.gle/3jHRnLG5sfQ6S1aG7" target="_blank" rel="noopener">Registration required</a>\n<strong>Notes:</strong>\n• Limited to 20 participants due to capacity reasons.\n\nChristmas Gingerbread Baking As is tradition in the Czech and Slovak republics before Christmas, we will be baking gingerbread in various sizes and shapes. Come and join us for an evening full of creativity, mulled wine and Christmas atmosphere! Registration and Prices Registration is required as the event is limited to 20 participants. Price includes ingredients to make gingerbread cookies and drinks. Active CSSZ Members (enrolled in any BSc/MSc/PhD program): CHF 5 Other CSSZ Members: CHF 10 External: CHF 15 Please register as soon as possible if you are planning on coming to the event.
 UID:20251203T183000-pernik@cssz.ch
