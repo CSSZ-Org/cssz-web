@@ -4,7 +4,6 @@ description: |
   Come and enjoy the spring vibes at our "Slunečný pofel" at bQm! A perfect time for a chill chat and a drink with the community ☀️🍻
 image: images/events/2026-03-13-slunecny-pofel/bqm_vibes.png
 semesters: 2026-spring
-pinned: True
 
 event_details:
   date_start: 2026-03-13T19:00:00
