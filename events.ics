@@ -29,6 +29,19 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Sightseeing trip to Lac Léman
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/lac-leman-trip/\n<strong>Location:</strong> Lac Léman (Montreux, Lausanne)\n<strong>Coordinator:</strong> Ondřej Peterka (<a class="link" href="mailto:ondrej.peterka@email.cz" target="_blank" rel="noopener">ondrej.peterka@email.cz</a>, <a class="link" href="tel:&#43;41782382184">+41 78 238 21 84</a>)\n<strong>Registration:</strong> <a href="https://chat.whatsapp.com/HV7kJe9bxrG7oEXw8eK7nR?mode=gi_t" target="_blank" rel="noopener">Whatsapp Group</a>\n\nAfter the great success of the excursion to Ticino last autumn, we are bringing you another sightseeing tour. This time, we will explore the beauty of the banks of Lac Léman in the french-speaking canton of Vaud. We will start our trip by visiting the Château de Chillon (entrance fee 12,5 Fr. for students). Then we will move to nearby Montreux where we will check out the lake promenade with a famous statue of Freddie Mercury.
+UID:20260523T070000-lac-leman-trip@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20260523T000000
+DTSTART:20260523T070000
+DTEND:20260523T200000
+LOCATION:Lac Léman (Montreux, Lausanne)
+URL:https://cssz.ch/events/lac-leman-trip/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
 SUMMARY:Pub Quiz 💡
 DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/pub-quiz-spring26/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/sX2RepNzvCMx4c8v7" target="_blank" rel="noopener">Cooper's Pub</a>\n<strong>Coordinator:</strong> Zdeněk Šnajdr (<a class="link" href="mailto:zdenek.snajdr@cssz.ch" target="_blank" rel="noopener">zdenek.snajdr@cssz.ch</a>, <a class="link" href="tel:&#43;41762254840">+41762254840</a>)\n<strong>Registration:</strong> <a href="https://forms.gle/SpoBedEydjNaysyC7" target="_blank" rel="noopener">Google Form</a>\n\n🎉 Brain-teasing night with your favourite people from CSSZ! Join us for yet another Pub Quiz night on March 30th at the Cooper&rsquo;s Pub in Oerlikon! 🍻 🏆 Put your knowledge to the test and compete with friends or make new ones as you tackle a wide range of exciting and diverse questions. From pop culture and history to sports and general knowledge, there&rsquo;s something for everyone.
 UID:20260330T193000-pub-quiz-spring26@cssz.ch
