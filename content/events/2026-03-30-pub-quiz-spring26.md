@@ -4,7 +4,6 @@ description: |
   Another brain-teasing, laughter-filled night of fun! (and beer)
 image: images/events/2023-04-03-pub-quiz/pub_quiz.png
 semesters: 2026-spring
-pinned: true
 
 event_details:
   date_start: 2026-03-30T19:30:00
