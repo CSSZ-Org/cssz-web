@@ -42,6 +42,19 @@ URL:https://cssz.ch/events/lac-leman-trip/
 END:VEVENT
 BEGIN:VEVENT
 ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Hot dogs (Párek v rohlíku)
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/parek/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/hVLRLxZ5p19p8rrHA" target="_blank" rel="noopener">KOL-K-Küche (outside if the weather is nice)</a>\n<strong>Coordinator:</strong> Max Kellenberger (<a class="link" href="mailto:max.kellenberger@cssz.ch" target="_blank" rel="noopener">max.kellenberger@cssz.ch</a>)\n<strong>Registration:</strong> <a href="https://forms.gle/8tX5R2m8p5y4pPzC7" target="_blank" rel="noopener">Google Form</a>\n\nDo you also reminisce of the old days when life seemed oh so simple? 😌 When afternoons were filled with exploration and little adventures. One of those childhood adventures might just have been grabbing a hot dog otherwise known as &ldquo;párek v rohlíku&rdquo; and sitting in the sun talking about what cartoon you are going to watch when you get home. If you want to experience a small taste of the past alongside that of a real párek v rohlíku (and Czech beer 🍻, of course), then you are wholeheartedly invited to come to this transformative experience, bring your friends and loved ones, it will be a feast unlike anything UZH has seen before.
+UID:20260508T173000-parek@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20260508T000000
+DTSTART:20260508T173000
+DTEND:20260508T213000
+LOCATION;ALTREP="https://maps.app.goo.gl/hVLRLxZ5p19p8rrHA":KOL-K-Küche (outside if the weather is nice)
+URL:https://cssz.ch/events/parek/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
 SUMMARY:Pub Quiz 💡
 DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/pub-quiz-spring26/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/sX2RepNzvCMx4c8v7" target="_blank" rel="noopener">Cooper's Pub</a>\n<strong>Coordinator:</strong> Zdeněk Šnajdr (<a class="link" href="mailto:zdenek.snajdr@cssz.ch" target="_blank" rel="noopener">zdenek.snajdr@cssz.ch</a>, <a class="link" href="tel:&#43;41762254840">+41762254840</a>)\n<strong>Registration:</strong> <a href="https://forms.gle/SpoBedEydjNaysyC7" target="_blank" rel="noopener">Google Form</a>\n\n🎉 Brain-teasing night with your favourite people from CSSZ! Join us for yet another Pub Quiz night on March 30th at the Cooper&rsquo;s Pub in Oerlikon! 🍻 🏆 Put your knowledge to the test and compete with friends or make new ones as you tackle a wide range of exciting and diverse questions. From pop culture and history to sports and general knowledge, there&rsquo;s something for everyone.
 UID:20260330T193000-pub-quiz-spring26@cssz.ch

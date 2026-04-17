@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Czech and Slovak Students in Zurich//Events//EN
+URL:webcal://cssz.ch/events/parek.ics
+NAME:CSSZ Events
+X-WR-CALNAME:CSSZ Events
+X-WR-CALDESC:
+X-WR-TIMEZONE:Europe/Zurich
+X-PUBLISHED-TTL:PT6H
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+X-LIC-LOCATION:Europe/Zurich
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Hot dogs (Párek v rohlíku)
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/parek/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/hVLRLxZ5p19p8rrHA" target="_blank" rel="noopener">KOL-K-Küche (outside if the weather is nice)</a>\n<strong>Coordinator:</strong> Max Kellenberger (<a class="link" href="mailto:max.kellenberger@cssz.ch" target="_blank" rel="noopener">max.kellenberger@cssz.ch</a>)\n<strong>Registration:</strong> <a href="https://forms.gle/8tX5R2m8p5y4pPzC7" target="_blank" rel="noopener">Google Form</a>\n\nDo you also reminisce of the old days when life seemed oh so simple? 😌 When afternoons were filled with exploration and little adventures. One of those childhood adventures might just have been grabbing a hot dog otherwise known as &ldquo;párek v rohlíku&rdquo; and sitting in the sun talking about what cartoon you are going to watch when you get home. If you want to experience a small taste of the past alongside that of a real párek v rohlíku (and Czech beer 🍻, of course), then you are wholeheartedly invited to come to this transformative experience, bring your friends and loved ones, it will be a feast unlike anything UZH has seen before.
+UID:20260508T173000-parek@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20260508T000000
+DTSTART:20260508T173000
+DTEND:20260508T213000
+LOCATION;ALTREP="https://maps.app.goo.gl/hVLRLxZ5p19p8rrHA":KOL-K-Küche (outside if the weather is nice)
+URL:https://cssz.ch/events/parek/
+END:VEVENT
+
+END:VCALENDAR
+
