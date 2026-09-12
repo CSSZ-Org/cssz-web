@@ -29,6 +29,19 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Semester Welcome Event (Autumn 2026)
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/welcome-event-autumn26/\n<strong>Location:</strong> <a href="https://goo.gl/maps/bqDsM5dpDLDDRoGg8" target="_blank" rel="noopener">bQm Culture Café & Bar</a>\n<strong>Coordinator:</strong> Zdeněk Šnajdr (<a class="link" href="mailto:zdenek.snajdr@cssz.ch" target="_blank" rel="noopener">zdenek.snajdr@cssz.ch</a>, <a class="link" href="tel:&#43;41762254840">+41762254840</a>)\n\nJoin us for a lively kick-off to the Autumn semester 2026 at the bQm bar 🍻, where the Czech and Slovak Students in Zurich will meet up for a beer ⭐. This is a great opportunity for both new and existing students to meet 🤝. We look forward to seeing you there! 🎉
+UID:20260918T183000-welcome-event-autumn26@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20260918T000000
+DTSTART:20260918T183000
+DTEND:20260918T230000
+LOCATION;ALTREP="https://goo.gl/maps/bqDsM5dpDLDDRoGg8":bQm Culture Café & Bar
+URL:https://cssz.ch/events/welcome-event-autumn26/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
 SUMMARY:Sightseeing trip to Lac Léman
 DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/lac-leman-trip/\n<strong>Location:</strong> Lac Léman (Montreux, Lausanne)\n<strong>Coordinator:</strong> Ondřej Peterka (<a class="link" href="mailto:ondrej.peterka@email.cz" target="_blank" rel="noopener">ondrej.peterka@email.cz</a>, <a class="link" href="tel:&#43;41782382184">+41 78 238 21 84</a>)\n<strong>Registration:</strong> <a href="https://chat.whatsapp.com/HV7kJe9bxrG7oEXw8eK7nR?mode=gi_t" target="_blank" rel="noopener">Whatsapp Group</a>\n\nAfter the great success of the excursion to Ticino last autumn, we are bringing you another sightseeing tour. This time, we will explore the beauty of the banks of Lac Léman in the french-speaking canton of Vaud. We will start our trip by visiting the Château de Chillon (entrance fee 12,5 Fr. for students). Then we will move to nearby Montreux where we will check out the lake promenade with a famous statue of Freddie Mercury.
 UID:20260523T070000-lac-leman-trip@cssz.ch
