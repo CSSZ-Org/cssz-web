@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Czech and Slovak Students in Zurich//Events//EN
+URL:webcal://cssz.ch/events/general-assembly-hs26.ics
+NAME:CSSZ Events
+X-WR-CALNAME:CSSZ Events
+X-WR-CALDESC:
+X-WR-TIMEZONE:Europe/Zurich
+X-PUBLISHED-TTL:PT6H
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+X-LIC-LOCATION:Europe/Zurich
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:General Assembly
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/general-assembly-hs26/\n<strong>Location:</strong> Online (registered members will get an invitation)\n<strong>Coordinator:</strong> Klára Kolářová (<a class="link" href="mailto:klara.kolarova@cssz.ch" target="_blank" rel="noopener">klara.kolarova@cssz.ch</a>)\n\nOn September 29th we will host a General Assembly (GA). We will look back at our activities of the last year, discuss the direction the society should take and elect a new board. In addition, we will vote on the new version of the statutes.
+UID:20260929T130000-general-assembly-hs26@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20260929T000000
+DTSTART:20260929T130000
+DTEND:20260929T140000
+LOCATION:Online (registered members will get an invitation)
+URL:https://cssz.ch/events/general-assembly-hs26/
+END:VEVENT
+
+END:VCALENDAR
+

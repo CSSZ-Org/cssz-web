@@ -29,6 +29,19 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:General Assembly
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/general-assembly-hs26/\n<strong>Location:</strong> Online (registered members will get an invitation)\n<strong>Coordinator:</strong> Klára Kolářová (<a class="link" href="mailto:klara.kolarova@cssz.ch" target="_blank" rel="noopener">klara.kolarova@cssz.ch</a>)\n\nOn September 29th we will host a General Assembly (GA). We will look back at our activities of the last year, discuss the direction the society should take and elect a new board. In addition, we will vote on the new version of the statutes.
+UID:20260929T130000-general-assembly-hs26@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20260929T000000
+DTSTART:20260929T130000
+DTEND:20260929T140000
+LOCATION:Online (registered members will get an invitation)
+URL:https://cssz.ch/events/general-assembly-hs26/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
 SUMMARY:Semester Welcome Event (Autumn 2026)
 DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/welcome-event-autumn26/\n<strong>Location:</strong> <a href="https://goo.gl/maps/bqDsM5dpDLDDRoGg8" target="_blank" rel="noopener">bQm Culture Café & Bar</a>\n<strong>Coordinator:</strong> Zdeněk Šnajdr (<a class="link" href="mailto:zdenek.snajdr@cssz.ch" target="_blank" rel="noopener">zdenek.snajdr@cssz.ch</a>, <a class="link" href="tel:&#43;41762254840">+41762254840</a>)\n\nJoin us for a lively kick-off to the Autumn semester 2026 at the bQm bar 🍻, where the Czech and Slovak Students in Zurich will meet up for a beer ⭐. This is a great opportunity for both new and existing students to meet 🤝. We look forward to seeing you there! 🎉
 UID:20260918T183000-welcome-event-autumn26@cssz.ch
