@@ -8,12 +8,17 @@ image: images/events/2023-05-25-general-meeting/meeting2.jpg
 semesters: 2026-autumn
 
 event_details:
-  date_start: 2026-09-29T13:00:00
-  date_end: 2026-09-29T14:00:00
+  date_start: 2026-10-06T13:00:00
+  date_end: 2026-10-06T14:00:00
   location:
     text: Online (registered members will get an invitation)
   coordinator:
     - klara.kolarova
+  notes:
+    - alert_type: warning
+      icon: solid/exclamation
+      text: |
+        This event was rescheduled from 29. Sep to 6. Oct.
 
 summary: |
   On September 29th we will host a General Assembly (GA). We will look back at our activities of the last year, discuss the direction the society should take and elect a new board. In addition, we will vote on the new version of the statutes.
