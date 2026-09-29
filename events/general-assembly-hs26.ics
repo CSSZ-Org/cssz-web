@@ -31,14 +31,14 @@ END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
 SUMMARY:General Assembly
-DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/general-assembly-hs26/\n<strong>Location:</strong> Online (registered members will get an invitation)\n<strong>Coordinator:</strong> Klára Kolářová (<a class="link" href="mailto:klara.kolarova@cssz.ch" target="_blank" rel="noopener">klara.kolarova@cssz.ch</a>)\n<strong>Notes:</strong>\n• This event was rescheduled from 29. Sep to 6. Oct.\n\nOn September 29th we will host a General Assembly (GA). We will look back at our activities of the last year, discuss the direction the society should take and elect a new board. In addition, we will vote on the new version of the statutes.
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/general-assembly-hs26/\n<strong>Location:</strong> UZH + Online (members will get an invitation with location information)\n<strong>Coordinator:</strong> Klára Kolářová (<a class="link" href="mailto:klara.kolarova@cssz.ch" target="_blank" rel="noopener">klara.kolarova@cssz.ch</a>)\n<strong>Notes:</strong>\n• This event was rescheduled from 29. Sep to 6. Oct.\n\nOn September 29th we will host a General Assembly (GA). We will look back at our activities of the last year, discuss the direction the society should take and elect a new board. In addition, we will vote on the new version of the statutes.
 UID:20261006T130000-general-assembly-hs26@cssz.ch
 SEQUENCE:0
 STATUS:CONFIRMED
 DTSTAMP:20260929T000000
 DTSTART:20261006T130000
 DTEND:20261006T140000
-LOCATION:Online (registered members will get an invitation)
+LOCATION:UZH + Online (members will get an invitation with location information)
 URL:https://cssz.ch/events/general-assembly-hs26/
 END:VEVENT
 
