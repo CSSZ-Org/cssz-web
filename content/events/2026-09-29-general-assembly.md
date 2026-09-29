@@ -11,7 +11,7 @@ event_details:
   date_start: 2026-10-06T13:00:00
   date_end: 2026-10-06T14:00:00
   location:
-    text: Online (registered members will get an invitation)
+    text: UZH + Online (members will get an invitation with location information)
   coordinator:
     - klara.kolarova
   notes:
