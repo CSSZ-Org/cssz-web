@@ -12,7 +12,7 @@ menu:
 image: images/posts/2024-08-27-info-for-newcomers/zurich.jpeg
 ---
 
-> Na této stránce najdete všechny potřebné informace ohledně ubytování, bankovnictví, pojištění, SIM karet a veřejné dopravy v Curychu. Pokud máte jakékoliv dotazy, neváhejte nás kontaktovat. Informace na této stránce mají tendenci se rychle měnit. Pokud naleznete nepřesné nebo nekompletní informace, dejte nám vědět na info@cssz.ch.
+> Na této stránce najdete všechny potřebné informace ohledně ubytování, bankovnictví, pojištění, SIM karet a veřejné dopravy v Curychu. Pokud máte jakékoliv dotazy, neváhejte nás kontaktovat. Informace na této stránce mají tendenci se rychle měnit. Pokud naleznete nepřesné nebo nekompletní informace, dejte nám vědět na info@cssz.ch. (naposledy aktualizováno 2026-10-01)
 
 ## Ubytování
 Sehnat ubytování v Curychu může být velmi složité, vyplácí se proto začít včas, ideálně aspoň 2-4 měsíce před začátkem studia, protože potávka po studentském bydlení je extrémně vysoká. Studenti ETH/UZH bydlí převážně ve sdílených bytech (WG). Nejpopulárnější webové stránky pro hledání ubytování jsou: 
@@ -118,7 +118,7 @@ Další podrobnosti najdete na [webové stránce finanční pomoci ETH Zurich](h
 
 ## Pojištění
 
-Studenti ze zemí EU s „Evropským průkazem zdravotního pojištění“ (EHIC) mohou ve Švýcarsku požádat o výjimku z jinak povinného zdravotního pojištění. O tuto výjimku je třeba požádat do do tří měsíců po příjezdu do Švýcarska. K vyplnění žádosti budete potřebovat digitální kopie následujících dokumentů:
+Čeští a slovenští studenti s „Evropským průkazem zdravotního pojištění“ (EHIC) mohou ve Švýcarsku požádat o výjimku z jinak povinného zdravotního pojištění. O tuto výjimku je třeba požádat do do tří měsíců po příjezdu do Švýcarska. K vyplnění žádosti budete potřebovat digitální kopie následujících dokumentů:
 
 1. **Povolení k pobytu**: Naskenujte přední i zadní stranu. Pokud toto povolení ještě nemáte, poskytněte potvrzení o registraci („Meldebestätigung“).
 2. **Evropská karta zdravotního pojištění**.
@@ -137,12 +137,12 @@ Níže nabízíme seznam populárních mobilních operátorů a odkaz na jejich 
 Nejpopulárnější:
 - [**Swisscom**](https://www.swisscom.ch/en/residential/mobile-subscription.html)
 - [**Salt**](https://www.salt.ch/en/)
-- [**Sunrise**](https://www.sunrise.ch/business/de/shop/mobile-abos)
+- [**Sunrise**](https://www.sunrise.ch/en/mobile/mobile-subscription)
 - [**Yallo**](https://www.yallo.ch/en)
 - [**Swype**](https://www.swype.ch/en)
 
 Ostatní:
-- [**M-Budget**](https://www.m-budget-mobile.ch/en)
+- [**Migros Mobile**](https://mobile.migros.ch/en) (dříve M-Budget Mobile)
 - [**Coop Mobile**](https://www.coopmobile.ch/de/mobile-abo)
 - [**Lebara**](https://www.lebara.ch/en)
 - [**Lycamobile**](https://www.lycamobile.ch/en)
@@ -157,10 +157,64 @@ ZVV (Zürcher Verkehrsverbund) je společnost, která spravuje veřejnou dopravu
 
 | **Typ předplátného** | **Doba platnosti** | **Cena** |
 |----------------------|---------------------|----------|
-| 1–2 zones | 1 **month** | 63.00 CHF |
-| 1–2 zones | 1 **year** | 586.00 CHF |
+| 1–2 zones | 1 **month** | 64.00 CHF |
+| 1–2 zones | 1 **year** | 589.00 CHF |
 
 Často využívané alternativy:
 
 - **[Night GA Travelcard](https://www.sbb.ch/en/tickets-offers/travelcards/ga-travelcard/night-ga-travelcard.html)**: Pro ty, kteří cestují především ve večerních hodinách, je Night GA Travelcard skvělou volbou. Nabízí neomezené cestování všemi druhy dopravy v rámci sítě ZVV po 19:00 a platí napříč všemi tarifními zónami ZVV za 99 CHF ročně.
 - **[Half Fare Travelcard (Halbtax)](https://www.sbb.ch/en/tickets-offers/travelcards/half-fare-travelcard.html)**: Tato cestovní karta vám umožní užít si cestování po Švýcarsku za poloviční cenu za 190 CHF ročně. Počínaje druhým rokem můžete ušetřit dalších 20 CHF, když si obnovíte cestovní kartu s polovičním tarifem.
+
+## Řidičský průkaz
+
+Pokud přijíždíte do Švýcarska s řidičským průkazem z České republiky nebo Slovenska, můžete jej používat po dobu **12 měsíců od prvního vstupu** do Švýcarska. Po uplynutí této doby **musíte mít švýcarský řidičský průkaz**, jinak budete považováni za řidiče bez platného řidičského průkazu.
+
+### Výměna řidičského průkazu
+
+**Důležité:** Podejte žádost včas! Doporučujeme podat žádost **nejpozději 2-3 měsíce před uplynutím 12měsíční lhůty**, aby vám švýcarský průkaz stihl přijít do 12 měsíců od příjezdu. Datum vašeho příjezdu je zaznamenáno na vašem povolení k pobytu.
+
+### Postup výměny v Curychu
+
+**Žádné zkoušky!** Držitelé českých a slovenských řidičských průkazů výměnu provedou **bez teoretické i praktické zkoušky**.
+
+#### Krok za krokem:
+
+1. **Stáhněte a vyplňte formulář**
+   - [Gesuch für Umtausch eines ausländischen Führerausweises (PDF)](https://www.zh.ch/content/dam/zhweb/bilder-dokumente/themen/mobilitaet/fuehrerausweis-fahren-lernen/Gesuch%20f%C3%BCr%20Umtausch%20ausl.%20F%C3%BChrerausweis.pdf)
+   - Vyplňte formulář na počítači, vytiskněte a podepište
+
+2. **Absolvujte test zraku (Sehtest)**
+   - Zajděte s vytištěným formulářem k optikovi nebo do lékařské ordinace ve Švýcarsku
+   - Test je platný 2 roky
+
+3. **Připravte si pasovou fotografii**
+   - Formát: 35 x 45 mm
+   - Barevná fotografie z automatu nebo fotoateliéru
+   - Buď nalepte na formulář, nebo ji můžete nahrát digitálně přímo na Strassenverkehrsamt
+
+4. **Připravte si dokumenty**
+   - Vyplněný a podepsaný formulář s testem zraku
+   - Originál českého/slovenského řidičského průkazu
+   - Originál povolení k pobytu (Ausländerausweis)
+   - Pasová fotografie
+
+5. **Podejte žádost osobně**
+   
+   Máte 2 možnosti:
+   
+   **A) Na úřadě bydliště (Einwohnerkontrolle)** vaší obce  
+   **B) Přímo na Strassenverkehrsamt** (některá z 6 poboček v Curychu)
+   
+   Při prvním podání musíte potvrdit identitu osobně. Poplatek za kontrolu identity: **CHF 20**
+
+6. **Obdržíte švýcarský řidičský průkaz**
+   - Doručeno poštou během **10-14 pracovních dnů**
+   - Váš původní řidičský průkaz bude odeslán zpět do ČR/SR
+
+#### Kontakt na Strassenverkehrsamt Zürich
+- **Adresa:** Uetlibergstrasse 301, 8036 Zürich
+- **Telefon:** +41 43 257 00 00
+- **Otevírací doba:** Po-Út 7:15-17:00, St-Pá 7:15-16:00
+- **Web:** [zh.ch/de/mobilitaet/fuehrerausweis-fahren-lernen/auslaendischer-fuehrerausweis/auslaendischen-fuehrerausweis-umtauschen.html](https://www.zh.ch/de/mobilitaet/fuehrerausweis-fahren-lernen/auslaendischer-fuehrerausweis/auslaendischen-fuehrerausweis-umtauschen.html)
+
+**Poznámka:** Po výměně bude váš původní řidičský průkaz odeslán zpět do České republiky nebo na Slovensko.
