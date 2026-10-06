@@ -4,6 +4,7 @@ description: |
   Reflecting on last year, voting on new statutes, and electing a new board
 slug: general-assembly-hs26
 pubdate: 2026-09-29
+pinned: true
 image: images/events/2023-05-25-general-meeting/meeting2.jpg
 semesters: 2026-autumn
 

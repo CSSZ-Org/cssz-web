@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>General Assembly - CSSZ Online Meeting</title>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      body {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+        color: rgb(30, 30, 30);
+        line-height: 160%;
+        background: linear-gradient(135deg, #f5f7fa 0%, #e8edf2 100%);
+        padding: 20px 0;
+      }
+
+      .email-container {
+        max-width: 680px;
+        margin: 0 auto;
+        background: white;
+        border-radius: 8px;
+        box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+        overflow: hidden;
+      }
+
+      .header {
+        background: #ffffff;
+        padding: 30px 20px;
+        text-align: center;
+        border-bottom: 3px solid #bf2a2a;
+      }
+
+      .logo {
+        max-width: 280px;
+        width: 80%;
+        height: auto;
+        display: block;
+        margin: 0 auto;
+      }
+
+      h1 {
+        padding: 30px 0 10px 0;
+        font-size: 28px;
+        color: #2c2c2c;
+        border-bottom: 2px solid #e0e0e0;
+        padding-bottom: 15px;
+        margin-bottom: 20px;
+      }
+
+      h3 {
+        margin-top: 30px;
+        margin-bottom: 12px;
+        color: #4a4a4a;
+        font-size: 18px;
+        font-weight: 600;
+      }
+
+      a {
+        color: #bf2a2a;
+        text-decoration: none;
+        font-weight: 500;
+      }
+
+      a:hover {
+        text-decoration: underline;
+      }
+
+      .content {
+        padding: 30px 25px;
+        text-align: left;
+      }
+
+      .content p {
+        margin-bottom: 15px;
+      }
+
+      .meeting-box {
+        background: #f8f9fa;
+        border: 2px solid #e9ecef;
+        border-radius: 6px;
+        padding: 20px;
+        margin: 25px 0;
+      }
+
+      .meeting-box h3 {
+        margin-top: 0;
+        color: #2c2c2c;
+        font-size: 20px;
+      }
+
+      .meeting-detail {
+        margin: 12px 0;
+        padding-left: 10px;
+      }
+
+      .meeting-detail strong {
+        display: inline-block;
+        min-width: 80px;
+        color: #4a4a4a;
+      }
+
+      .join-button {
+        display: inline-block;
+        background: #bf2a2a;
+        color: white !important;
+        padding: 14px 28px;
+        border-radius: 6px;
+        text-decoration: none;
+        font-weight: 600;
+        margin: 15px 0;
+        transition: background 0.2s;
+      }
+
+      .join-button:hover {
+        background: #9a2222;
+        text-decoration: none;
+      }
+
+      .phone-info {
+        background: white;
+        border-left: 4px solid #bf2a2a;
+        padding: 12px 15px;
+        margin: 15px 0;
+        border-radius: 4px;
+      }
+
+      .phone-info p {
+        margin-bottom: 8px;
+        font-size: 14px;
+      }
+
+      ol {
+        margin-left: 20px;
+        line-height: 200%;
+        margin-bottom: 15px;
+      }
+
+      li {
+        margin-bottom: 8px;
+      }
+
+      .footer {
+        text-align: center;
+        padding: 25px 20px;
+        background: #f8f9fa;
+        color: #666;
+        font-size: 14px;
+        border-top: 1px solid #e9ecef;
+      }
+
+      .footer a {
+        color: #666;
+        margin: 0 8px;
+      }
+
+      @media (max-width: 600px) {
+        body {
+          padding: 10px;
+        }
+
+        .content {
+          padding: 20px 15px;
+        }
+
+        h1 {
+          font-size: 24px;
+        }
+
+        .logo {
+          max-width: none;
+        }
+
+        .meeting-box {
+          padding: 15px;
+        }
+
+        .join-button {
+          display: block;
+          text-align: center;
+        }
+      }
+    </style>
+</head>
+<body>
+
+    <div class="email-container">
+        <div class="header">
+            <img class="logo" src="https://www.radimurban.com/assets/images/cssz-h.png" alt="CSSZ Logo">
+        </div>
+
+        <div class="content">
+            <h1>General Assembly – Online Meeting</h1>
+
+            <p>Ahoj všem,</p>
+
+            <p>připomínáme, že dnes v 13:00 se koná <strong>General Assembly</strong> spolku CSSZ. Setkání se koná online přes Google Meet.</p>
+
+            <div class="meeting-box">
+                <h3>📅 Informace o schůzce</h3>
+                
+                <div class="meeting-detail">
+                    <strong>Datum:</strong> Úterý, 6. října 2026
+                </div>
+                
+                <div class="meeting-detail">
+                    <strong>Čas:</strong> 13:00 – 14:00
+                </div>
+                
+                <div class="meeting-detail">
+                    <strong>Časové pásmo:</strong> Europe/Zurich
+                </div>
+
+                <div style="text-align: center; margin-top: 20px;">
+                    <a href="https://meet.google.com/fcq-omws-ftb" class="join-button">Připojit se přes Google Meet</a>
+                </div>
+
+                <div class="phone-info">
+                    <p><strong>📞 Připojení telefonem:</strong></p>
+                    <p>Vytočte: <strong>+41 43 430 98 63</strong></p>
+                    <p>PIN: <strong>763 660 142#</strong></p>
+                    <p><a href="https://tel.meet/fcq-omws-ftb?pin=3275683290542">Další telefonní čísla</a></p>
+                </div>
+            </div>
+
+            <h3>📋 Program:</h3>
+            <ol>
+              <li>Shrnutí posledního akademického roku</li>
+              <li>Volba nového boardu CSSZ</li>
+              <li>Hlasování o nových stanovách</li>
+              <li>Diskuze a návrhy členů</li>
+            </ol>
+
+            <p><strong>Máte návrh k diskuzi?</strong> Můžete ho stále podat zde: <a href="https://forms.gle/yfUGbZiRoNVJGkQU7">forms.gle/yfUGbZiRoNVJGkQU7</a></p>
+
+            <p>Těšíme se na vás!</p>
+
+            <br>
+            <strong>Board Czech and Slovak Students in Zurich</strong>
+        </div>
+
+        <div class="footer">
+            <a href="https://cssz.ch/">Web</a> |
+            <a href="https://cssz.ch/events">Events</a> |
+            <a href="https://www.instagram.com/cssz.ch/">Instagram</a> |
+            <a href="https://cssz.ch/events/general-assembly-hs26/">Event Details</a>
+        </div>
+    </div>
+
+</body>
+</html>
