@@ -31,7 +31,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
 SUMMARY:Semester Welcome Event (Autumn 2024)
-DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/welcome-event-autumn24/\n<strong>Location:</strong> <a href="https://goo.gl/maps/bqDsM5dpDLDDRoGg8" target="_blank" rel="noopener">bQm Culture Café & Bar</a>\n<strong>Coordinator:</strong> Radim Urban (<a class="link" href="mailto:radim.urban@cssz.ch" target="_blank" rel="noopener">radim.urban@cssz.ch</a>), Michal Krkoška (<a class="link" href="mailto:michal.krkoska@cssz.ch" target="_blank" rel="noopener">michal.krkoska@cssz.ch</a>)\n\nJoin us for a lively kick-off to the Autumn semester 2024 at the bQm bar 🍻, where the Czech and Slovak Students in Zurich will meet up for a beer⭐. This is a great opportunity for both new and existing students to meet🤝. We look forward to seeing you there! 🎉
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/welcome-event-autumn24/\n<strong>Location:</strong> <a href="https://goo.gl/maps/bqDsM5dpDLDDRoGg8" target="_blank" rel="noopener">bQm Culture Café & Bar</a>\n<strong>Coordinator:</strong> Radim Urban (<a class="link" href="mailto:radim.urban@cssz.ch" target="_blank" rel="noopener">radim.urban@cssz.ch</a>), Michal Krkoška (<a class="link" href="mailto:michal.krkoska@cssz.ch" target="_blank" rel="noopener">michal.krkoska@cssz.ch</a>)\n\n<p>Join us for a lively kick-off to the Autumn semester 2024 at the bQm bar 🍻, where the Czech and Slovak Students in Zurich will meet up for a beer⭐. This is a great opportunity for both new and existing students to meet🤝. We look forward to seeing you there! 🎉</p>
 UID:20240927T183000-welcome-event-autumn24@cssz.ch
 SEQUENCE:0
 STATUS:CONFIRMED

@@ -1,0 +1,992 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Czech and Slovak Students in Zurich//Events//EN
+URL:webcal://cssz.ch/events/index.ics
+NAME:CSSZ Events
+X-WR-CALNAME:CSSZ Events
+X-WR-CALDESC:
+X-WR-TIMEZONE:Europe/Zurich
+X-PUBLISHED-TTL:PT6H
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+X-LIC-LOCATION:Europe/Zurich
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:General Assembly
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/general-assembly-hs26/\n<strong>Location:</strong> UZH + Online (members will get an invitation with location information)\n<strong>Coordinator:</strong> Klára Kolářová (<a class="link" href="mailto:klara.kolarova@cssz.ch" target="_blank" rel="noopener">klara.kolarova@cssz.ch</a>)\n<strong>Notes:</strong>\n• This event was rescheduled from 29. Sep to 6. Oct.\n\nOn September 29th we will host a General Assembly (GA). We will look back at our activities of the last year, discuss the direction the society should take and elect a new board. In addition, we will vote on the new version of the statutes.
+UID:20261006T130000-general-assembly-hs26@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20260929T000000
+DTSTART:20261006T130000
+DTEND:20261006T140000
+LOCATION:UZH + Online (members will get an invitation with location information)
+URL:https://cssz.ch/events/general-assembly-hs26/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Semester Welcome Event (Autumn 2026)
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/welcome-event-autumn26/\n<strong>Location:</strong> <a href="https://goo.gl/maps/bqDsM5dpDLDDRoGg8" target="_blank" rel="noopener">bQm Culture Café & Bar</a>\n<strong>Coordinator:</strong> Zdeněk Šnajdr (<a class="link" href="mailto:zdenek.snajdr@cssz.ch" target="_blank" rel="noopener">zdenek.snajdr@cssz.ch</a>, <a class="link" href="tel:&#43;41762254840">+41762254840</a>)\n\n<p>Join us for a lively kick-off to the Autumn semester 2026 at the bQm bar 🍻, where the Czech and Slovak Students in Zurich will meet up for a beer ⭐. This is a great opportunity for both new and existing students to meet 🤝. We look forward to seeing you there! 🎉</p>
+UID:20260918T183000-welcome-event-autumn26@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20260918T000000
+DTSTART:20260918T183000
+DTEND:20260918T230000
+LOCATION;ALTREP="https://goo.gl/maps/bqDsM5dpDLDDRoGg8":bQm Culture Café & Bar
+URL:https://cssz.ch/events/welcome-event-autumn26/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Sightseeing trip to Lac Léman
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/lac-leman-trip/\n<strong>Location:</strong> Lac Léman (Montreux, Lausanne)\n<strong>Coordinator:</strong> Ondřej Peterka (<a class="link" href="mailto:ondrej.peterka@email.cz" target="_blank" rel="noopener">ondrej.peterka@email.cz</a>, <a class="link" href="tel:&#43;41782382184">+41 78 238 21 84</a>)\n<strong>Registration:</strong> <a href="https://chat.whatsapp.com/HV7kJe9bxrG7oEXw8eK7nR?mode=gi_t" target="_blank" rel="noopener">Whatsapp Group</a>\n\n<p>After the great success of the excursion to Ticino last autumn, we are bringing you another sightseeing tour. This time, we will explore the beauty of the banks of Lac Léman in the french-speaking canton of Vaud. We will start our trip by visiting the Château de Chillon (entrance fee 12,5 Fr. for students). Then we will move to nearby Montreux where we will check out the lake promenade with a famous statue of Freddie Mercury. For lunch, we will grab some food in the centre. Afterwards we will embark on a boat to get back to the city of Lausanne while admiring the characteristic vineyards (even part of the UNESCO World Heritage) from the surface of the lake. In Lausanne we can stroll through the city centre and visit the cathedral or the Olympia museum.</p>
+UID:20260523T070000-lac-leman-trip@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20260523T000000
+DTSTART:20260523T070000
+DTEND:20260523T200000
+LOCATION:Lac Léman (Montreux, Lausanne)
+URL:https://cssz.ch/events/lac-leman-trip/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Hot dogs (Párek v rohlíku)
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/parek/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/hVLRLxZ5p19p8rrHA" target="_blank" rel="noopener">KOL-K-Küche (outside if the weather is nice)</a>\n<strong>Coordinator:</strong> Max Kellenberger (<a class="link" href="mailto:max.kellenberger@cssz.ch" target="_blank" rel="noopener">max.kellenberger@cssz.ch</a>)\n<strong>Registration:</strong> <a href="https://forms.gle/8tX5R2m8p5y4pPzC7" target="_blank" rel="noopener">Google Form</a>\n\n<p>Do you also reminisce of the old days when life seemed oh so simple? 😌 When afternoons were filled with exploration and little adventures. One of those childhood adventures might just have been grabbing a hot dog otherwise known as &ldquo;párek v rohlíku&rdquo; and sitting in the sun talking about what cartoon you are going to watch when you get home.</p> <p>If you want to experience a small taste of the past alongside that of a real párek v rohlíku (and Czech beer 🍻, of course), then you are wholeheartedly invited to come to this transformative experience, bring your friends and loved ones, it will be a feast unlike anything UZH has seen before.</p>
+UID:20260508T173000-parek@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20260508T000000
+DTSTART:20260508T173000
+DTEND:20260508T213000
+LOCATION;ALTREP="https://maps.app.goo.gl/hVLRLxZ5p19p8rrHA":KOL-K-Küche (outside if the weather is nice)
+URL:https://cssz.ch/events/parek/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Pub Quiz 💡
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/pub-quiz-spring26/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/sX2RepNzvCMx4c8v7" target="_blank" rel="noopener">Cooper's Pub</a>\n<strong>Coordinator:</strong> Zdeněk Šnajdr (<a class="link" href="mailto:zdenek.snajdr@cssz.ch" target="_blank" rel="noopener">zdenek.snajdr@cssz.ch</a>, <a class="link" href="tel:&#43;41762254840">+41762254840</a>)\n<strong>Registration:</strong> <a href="https://forms.gle/SpoBedEydjNaysyC7" target="_blank" rel="noopener">Google Form</a>\n\n<p>🎉 Brain-teasing night with your favourite people from CSSZ! Join us for yet another Pub Quiz night on March 30th at the Cooper&rsquo;s Pub in Oerlikon! 🍻</p> <p>🏆 Put your knowledge to the test and compete with friends or make new ones as you tackle a wide range of exciting and diverse questions. From pop culture and history to sports and general knowledge, there&rsquo;s something for everyone.</p>
+UID:20260330T193000-pub-quiz-spring26@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20260330T000000
+DTSTART:20260330T193000
+DTEND:20260330T223000
+LOCATION;ALTREP="https://maps.app.goo.gl/sX2RepNzvCMx4c8v7":Cooper's Pub
+URL:https://cssz.ch/events/pub-quiz-spring26/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Slunečný pofel @ Bqm
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/slunecny-pofel/\n<strong>Location:</strong> <a href="https://goo.gl/maps/bqDsM5dpDLDDRoGg8" target="_blank" rel="noopener">bQm Culture Café & Bar</a>\n<strong>Coordinator:</strong> Klára Kolářová (<a class="link" href="mailto:klara.kolarova@cssz.ch" target="_blank" rel="noopener">klara.kolarova@cssz.ch</a>)\n\n<p>Join us for <strong>Slunečný pofel</strong> at the bQm bar! ☀️ Whether you want to take a break from your studies or just catch up with the Czech and Slovak community in Zurich over a beer, this is the place to be 🍻.</p> <p>It’s a great chance to meet new faces and enjoy the relaxed atmosphere of bQm. We look forward to seeing you all there! 🎉</p>
+UID:20260313T190000-slunecny-pofel@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20260313T000000
+DTSTART:20260313T190000
+DTEND:20260313T220000
+LOCATION;ALTREP="https://goo.gl/maps/bqDsM5dpDLDDRoGg8":bQm Culture Café & Bar
+URL:https://cssz.ch/events/slunecny-pofel/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Christmas Gingerbread Baking
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/pernik/\n<strong>Location:</strong> Paul-Feyerabend-Hof, 8049 Zürich, Student Village (Common Room)\n<strong>Coordinator:</strong> Max Kellenberger (<a class="link" href="mailto:max.kellenberger@cssz.ch" target="_blank" rel="noopener">max.kellenberger@cssz.ch</a>), Klára Kolářová (<a class="link" href="mailto:klara.kolarova@cssz.ch" target="_blank" rel="noopener">klara.kolarova@cssz.ch</a>)\n<strong>Registration:</strong> <a href="https://forms.gle/3jHRnLG5sfQ6S1aG7" target="_blank" rel="noopener">Registration required</a>\n<strong>Notes:</strong>\n• Limited to 20 participants due to capacity reasons.\n\n<p><strong>Christmas Gingerbread Baking</strong></p> <p>As is tradition in the Czech and Slovak republics before Christmas, we will be baking gingerbread in various sizes and shapes. Come and join us for an evening full of creativity, mulled wine and Christmas atmosphere!</p> <p>  <picture class="img" style="background: url(data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIAA8AFAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5&#43;gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4&#43;Tl5ufo6ery8/T19vf4&#43;fr/2gAMAwEAAhEDEQA/AOr1XV9J0y&#43;aG4UsVIyGJUYJ656HFZGreKZ0hRLKBoI4pAoM5Lqitn5uOnT9a4PxNoOoTeJftF1KLpbpAbra20ID91BnqeM5FO8TW1/baIrGc7XCRyJ0AwMDoea5b3aVzpaS6Hb2PiK5lWYT6jEWjlKAw4CkYH19atf243/QRP5j/CvJhqQsY44IkniQLkKr/n39c0f26/8Afuf&#43;&#43;/8A69YVIS53Zs1hOPKro//Z); background-size: cover; display: inline;">             <source srcset='/images/events/2024-12-06-gingerbread/ginger_group_hu_3bb0acc1c4e512df.webp 2048w, /images/events/2024-12-06-gingerbread/ginger_group_hu_3bb0acc1c4e512df.webp 2048w, /images/events/2024-12-06-gingerbread/ginger_group_hu_a75232280c57a3b2.webp 640w, /images/events/2024-12-06-gingerbread/ginger_group_hu_ff1543bf35af9e20.webp 1024w, /images/events/2024-12-06-gingerbread/ginger_group_hu_fa69f62df3da038c.webp 1600w, /images/events/2024-12-06-gingerbread/ginger_group_hu_5b2f8f77ab168982.webp 2000w'                     sizes="(max-width: 2048px) 100vw, 2048px"                     type="image/webp"             /><source srcset='/images/events/2024-12-06-gingerbread/ginger_group_hu_96f32c9d06425167.jpeg 2048w, /images/events/2024-12-06-gingerbread/ginger_group_hu_96f32c9d06425167.jpeg 2048w, /images/events/2024-12-06-gingerbread/ginger_group_hu_c747b464ed58f2e8.jpeg 640w, /images/events/2024-12-06-gingerbread/ginger_group_hu_351f10840ee5b5dc.jpeg 1024w, /images/events/2024-12-06-gingerbread/ginger_group_hu_f8b63414d39668c2.jpeg 1600w, /images/events/2024-12-06-gingerbread/ginger_group_hu_42a1cb3986ee4283.jpeg 2000w'                     sizes="(max-width: 2048px) 100vw, 2048px"                     type="image/jpeg"             /><img src="/images/events/2024-12-06-gingerbread/ginger_group_hu_96f32c9d06425167.jpeg"                  width="2048"                  height="1536"                                                       alt="Gingerbread Group 2024"                               /></picture> </p>
+UID:20251203T183000-pernik@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251127T000000
+DTSTART:20251203T183000
+DTEND:20251203T220000
+LOCATION:Paul-Feyerabend-Hof, 8049 Zürich, Student Village (Common Room)
+URL:https://cssz.ch/events/pernik/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Meet'n'Dine 5 - Dumplings and Pilsner!
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/knedliky/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/WpyMr8Uv8sHp9nEg9" target="_blank" rel="noopener">University of Zurich, KOL-K-Küche</a>\n<strong>Coordinator:</strong> Radim Urban (<a class="link" href="mailto:radim.urban@cssz.ch" target="_blank" rel="noopener">radim.urban@cssz.ch</a>), Aleš Kubiček (<a class="link" href="mailto:ales.kubicek@cssz.ch" target="_blank" rel="noopener">ales.kubicek@cssz.ch</a>)\n<strong>Registration:</strong> <a href="https://forms.gle/6J8HZN7weRa99Q739" target="_blank" rel="noopener">Join Waiting List</a>\n<strong>Notes:</strong>\n• <strong>We reached the event&rsquo;s capacity.</strong> Waiting list is now open. You will be notified by email if spots free up.\n\n<h2 id="its-that-time-of-the-year-again">It’s that time of the year again!!!</h2> <p>On October 23, we will meet in the beautiful kitchen space at UZH (K floor with incredible view over the oldtown and lake) and we’ll be cooking a traditional Czech dish: <em>Plněné knedlíky uzeným se zelím</em> (Stuffed dumplings with smoked cabbage). Czech Beer on tap is provided and included in your registration fee.</p> <p>  <picture class="img" style="background: url(data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAZCAIAAAC&#43;dZmEAAAFaElEQVR4nATAW28cVwEA4HPOnJnZue7MXhx7L2Nn1zbxrSqikR0lStIQpw0qQkiogr7xwgv8BR6QEEKCB16gSICQqFSB&#43;gQlgTaQxHZct8Vx8KXx2k18X&#43;&#43;ux7uzt9mZnZlzTj9Mgg5jDADAGEAcWn9RzySldEIGlCGEAACUUgghYwxCwBhgjEEIIGAAIIR4nhNinBDDYgxhpdamH605CHERpW6r1et2EQBBGAJCopAgnucEFfEy5TXG8XBvd9P3fQhREAStZsuIa3a9yUh0YWhwYnLKdTurn69aw5bv&#43;ZTRWEysVG0rpVp8mxl5&#43;Muf/XTx8ZIkS77nj44VPc/P5jKl7Z0bN69/&#43;WJvenry/ffeHxy6gDE&#43;PDjK5zJnbvTz7069Wv139PZvcHog3ev1EELpgZSqaRDCTDYzMDCQs3If/O0DVZFfefUV&#43;8yWZNlxnIGBlKlrUu4SEG14uIajMBIEQRTFXs/zel673XG7ru/79up5t&#43;v2er3nW891XWeMpdPpwO&#43;HhPOqB/T8BdFy8GS/1O50AABu1z04OFRVJQyjTDYjy9Ley71EMlE9rVrDlud5CCGMuZpdnylmR&#43;ApsObgr3/1C9/vx0RhZmb6zpt3aeQjLAAAAGAAAAAAADwABLCIRqTf7z/5ZOXDex/fnH9D4hi&#43;cf1apVIVeH5kxKqfVQRBqNX2KuUKpbQwWqhVaxzHNZ1mJjuUy&#43;f7/b4iy&#43;PF4UQMmIkkbrbaCwtLHMf9cMRKplMkDO0ze3lp2UyYURSVtksIIVVVBUEojBZbrdbGxlYQhKtr69NTk9zEpfHj4xPbPn/2//XFxeVUKiXyvN/3fc9PJpONegMAIElSJjckiOKDBw/v/&#43;ujf3x4f272cqPh4Dvzt0wjLstyLCamkslcNtNpt8fGx0gUWSPDqXQKIUQIGcoMkYhks5n527fGx0dnZ19jlMGNZyuqpq6sfA4AKBZGhoYGDcPgeZ7DXN/vY4wppQhBz/MZY42GY9vnfr/vuu5osYD/899Huq69&#43;/s/xY34d779rRvXr6mqUi6Xfc8XBIEyKsUkv&#43;/nctmTcuV37/6hXncoJRBCy8rjYvGibdffeedtEpErV2YzmUHG2MMHD48Ojy8MXjBMo3xcLowWLCvvdl1FVmRJvnt3vl5vdLsuzmWzjDKMuVQqmUyYUUTEGNbjccCOIASAMYw5w4hTyjRdm5u7HASBosipZCIII7z1xXNFUe7d//ja1bmZ6SlRFLyeNzt3eWp6AvM8o0yMiTzGhET7&#43;wfb2zsNx1lf3ywULrquy129OkcJURTl&#43;Phku7Rj2&#43;djY8W4GTcTZjweTyRMWZElSfI8L5fLvvaNrwdB8GT504mJr5mmAT9ZeoAxxxg7ODzq94PJyUu6pq6tPkskE4yxbqfLC3wYhNMzU4qqBEG4u/vlaaUq8PzFi8P46dozXdcTpvHy5X5pZzeZNBVZCoLA7boAsCAIKKWUUkopAKzTaa9vboVBqOs65jEulyuPHi8RQjDGsiRRQk3TvHX79X/&#43;/R4v8L7vi6J45815hFCj4SwurXz22dP/rT79yY9/dHxShl9sfLpd2hUEXhQEwzBSqQSEkBDaaXcIIQAwhDg9rnMcF4ZhrXZ2Uj5tNJwrc5cppdz87ZtGXF9YWC6XT3mBV2RZkmIAMFVTFVWRFVlRZEopY4AxVqlWHadJCN0u7fI8xpubz1VVefR4URRFXdfy&#43;SyEcPHRkuM4mqZBCM9qds7Kvv7Nm&#43;WyvbDwpN5w2u0OQtBpNuGf//jb7dJOp&#43;sqsvzWW29Y&#43;VwYhk2nGUUR5nmMcc/tybKk6RoAIJkwj47Lf3nvrxubWz/4/ve&#43;GgDghMUpkqvuUwAAAABJRU5ErkJggg==); background-size: cover; display: inline;">             <source srcset='/images/events/2025-10-23-meetndine-autumn25/poster_hu_1b36a833ae287dc9.webp 1350w, /images/events/2025-10-23-meetndine-autumn25/poster_hu_1b36a833ae287dc9.webp 1350w, /images/events/2025-10-23-meetndine-autumn25/poster_hu_4a94f3309a75b306.webp 640w, /images/events/2025-10-23-meetndine-autumn25/poster_hu_cfe2eba9ba247f8f.webp 1024w'                     sizes="(max-width: 1350px) 100vw, 1350px"                     type="image/webp"             /><source srcset='/images/events/2025-10-23-meetndine-autumn25/poster_hu_7826d17d98516036.jpg 1350w, /images/events/2025-10-23-meetndine-autumn25/poster_hu_7826d17d98516036.jpg 1350w, /images/events/2025-10-23-meetndine-autumn25/poster_hu_2f067221897dc9a0.jpg 640w, /images/events/2025-10-23-meetndine-autumn25/poster_hu_422b28ea4167d69d.jpg 1024w'                     sizes="(max-width: 1350px) 100vw, 1350px"                     type="image/jpeg"             /><img src="/images/events/2025-10-23-meetndine-autumn25/poster_hu_7826d17d98516036.jpg"                  width="1350"                  height="1688"                                                       alt="Knedlik"                               /></picture> </p>
+UID:20251023T190000-knedliky@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251023T000000
+DTSTART:20251023T190000
+DTEND:20251023T220000
+LOCATION;ALTREP="https://maps.app.goo.gl/WpyMr8Uv8sHp9nEg9":University of Zurich, KOL-K-Küche
+URL:https://cssz.ch/events/knedliky/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Sightseeing trip to Ticino
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/ticino-trip/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/54efBHM6SkjFigLm9" target="_blank" rel="noopener">Lugano, Bellinzona</a>\n<strong>Coordinator:</strong> Ondřej Peterka (<a class="link" href="mailto:ondrej.peterka@email.cz" target="_blank" rel="noopener">ondrej.peterka@email.cz</a>, <a class="link" href="tel:&#43;41782382184">+41 78 238 21 84</a>)\n<strong>Registration:</strong> <a href="https://chat.whatsapp.com/FOfDPDLK9nFCJh96XDCgTd?mode=ems_copy_t" target="_blank" rel="noopener">Whatsapp Group</a>\n\n<p>Join us in exploring the beauty of Ticino, where picturesque lakeside towns meet colourful architecture and Mediterranean flair, and experience the unique blend of Swiss precision and Italian atmosphere. We will start with a walk through the old town of Lugano, followed by a boat ride on the lake. In the lakeside park we will have pizza for lunch and enjoy some ice cream, and those interested will also have the chance to swim in the lake. Then we will decide whether to stay longer in Lugano or continue to Bellinzona, where one can admire the medieval castles listed as a UNESCO World Heritage Site.</p>
+UID:20251004T070000-ticino-trip@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251004T000000
+DTSTART:20251004T070000
+DTEND:20251004T200000
+LOCATION;ALTREP="https://maps.app.goo.gl/54efBHM6SkjFigLm9":Lugano, Bellinzona
+URL:https://cssz.ch/events/ticino-trip/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:General Assembly
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/general-assembly-hs25/\n<strong>Location:</strong> Online (registered members will get an invitation)\n<strong>Coordinator:</strong> Zdeněk Šnajdr (<a class="link" href="mailto:zdenek.snajdr@cssz.ch" target="_blank" rel="noopener">zdenek.snajdr@cssz.ch</a>, <a class="link" href="tel:&#43;41762254840">+41762254840</a>)\n\nOn September 26th we will host a General Assembly (GA). We will look back at our activities of the last year, discuss the direction the society should take and elect a new board. In addition, we will vote on the new version of the statutes.
+UID:20250926T130000-general-assembly-hs25@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20250926T000000
+DTSTART:20250926T130000
+DTEND:20250926T140000
+LOCATION:Online (registered members will get an invitation)
+URL:https://cssz.ch/events/general-assembly-hs25/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:VSUZH Activity Fair HS25 – Day 1
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/uzh-activity-fair-hs25/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/qGfTv7kCa4gTFp239" target="_blank" rel="noopener">Atrium UZH center</a>\n<strong>Coordinator:</strong> Zdeněk Šnajdr (<a class="link" href="mailto:zdenek.snajdr@cssz.ch" target="_blank" rel="noopener">zdenek.snajdr@cssz.ch</a>, <a class="link" href="tel:&#43;41762254840">+41762254840</a>)\n\n<p>Come and support CSSZ at the VSUZH Activity Fair!</p> <p>This is the right place to learn and ask in person who we are, what we do, how to join us and how to help our efforts.</p> <h2 id="vsuzh-activity-fair">VSUZH Activity Fair</h2> <p>Do you have a passion and want to share it with other students? Looking for experiences that complement the knowledge you gained during your studies? The VSUZH Activity Fair is THE fair for student engagement at the University of Zurich.</p>
+UID:20250924T093000-uzh-activity-fair-hs25@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20250924T000000
+DTSTART:20250924T093000
+DTEND:20250924T153000
+LOCATION;ALTREP="https://maps.app.goo.gl/qGfTv7kCa4gTFp239":Atrium UZH center
+URL:https://cssz.ch/events/uzh-activity-fair-hs25/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:VSUZH Activity Fair HS25 – Day 2
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/uzh-activity-fair-hs25/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/rfFmoPU4MLPzuTpj8" target="_blank" rel="noopener">Lichthof UZH Irchel</a>\n<strong>Coordinator:</strong> Zdeněk Šnajdr (<a class="link" href="mailto:zdenek.snajdr@cssz.ch" target="_blank" rel="noopener">zdenek.snajdr@cssz.ch</a>, <a class="link" href="tel:&#43;41762254840">+41762254840</a>)\n\n<p>Come and support CSSZ at the VSUZH Activity Fair!</p> <p>This is the right place to learn and ask in person who we are, what we do, how to join us and how to help our efforts.</p> <h2 id="vsuzh-activity-fair">VSUZH Activity Fair</h2> <p>Do you have a passion and want to share it with other students? Looking for experiences that complement the knowledge you gained during your studies? The VSUZH Activity Fair is THE fair for student engagement at the University of Zurich.</p>
+UID:20250925T093000-uzh-activity-fair-hs25-2@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20250924T000000
+DTSTART:20250925T093000
+DTEND:20250925T153000
+LOCATION;ALTREP="https://maps.app.goo.gl/rfFmoPU4MLPzuTpj8":Lichthof UZH Irchel
+URL:https://cssz.ch/events/uzh-activity-fair-hs25/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Semester Welcome Event (Autumn 2025)
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/welcome-event-autumn25/\n<strong>Location:</strong> <a href="https://goo.gl/maps/bqDsM5dpDLDDRoGg8" target="_blank" rel="noopener">bQm Culture Café & Bar</a>\n<strong>Coordinator:</strong> Zdeněk Šnajdr (<a class="link" href="mailto:zdenek.snajdr@cssz.ch" target="_blank" rel="noopener">zdenek.snajdr@cssz.ch</a>, <a class="link" href="tel:&#43;41762254840">+41762254840</a>)\n\n<p>Join us for a lively kick-off to the Autumn semester 2025 at the bQm bar 🍻, where the Czech and Slovak Students in Zurich will meet up for a beer⭐. This is a great opportunity for both new and existing students to meet🤝. We look forward to seeing you there! 🎉</p>
+UID:20250919T183000-welcome-event-autumn25@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20250919T000000
+DTSTART:20250919T183000
+DTEND:20250919T230000
+LOCATION;ALTREP="https://goo.gl/maps/bqDsM5dpDLDDRoGg8":bQm Culture Café & Bar
+URL:https://cssz.ch/events/welcome-event-autumn25/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Friday grill at Zürisee
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/summer-grill/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/jbaMyd8VYPYQ1Dbj7" target="_blank" rel="noopener">Saffa-Insel</a>\n<strong>Coordinator:</strong> Timon Fopp (<a class="link" href="mailto:timon.fopp@cssz.ch" target="_blank" rel="noopener">timon.fopp@cssz.ch</a>, <a class="link" href="tel:&#43;41783309888">+41783309888</a>)\n\n<p>The end of the semester is here again! Lets meet for a grill session on Friday, June 20th, 2025, from 19:00 until at least 23:00 at the Saffa-Insel near the Landiwiese, where you can find arrive by bus or by train at the train station Wollishofen.</p> <p>Since the weather should be warm and sweet, we will also swim, barbeque, play volleyball, drink some fine wine, beer or drinks, do some boat voyages till the sunset and have a lot of fun. Entrance is free of course, but it will be welcomed if you bring also some food, snacks or beverages (you can also bring a boat, if you have one 😃).</p>
+UID:20250620T190000-summer-grill@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20250620T000000
+DTSTART:20250620T190000
+DTEND:20250620T230000
+LOCATION;ALTREP="https://maps.app.goo.gl/jbaMyd8VYPYQ1Dbj7":Saffa-Insel
+URL:https://cssz.ch/events/summer-grill/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Jam Session
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/jamming-session/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/1qYm5MY4yq24GU6v7" target="_blank" rel="noopener">Probsteistrasse 99, Zurich (close to Bahnhof Stettbach)</a>\n<strong>Coordinator:</strong> Matěj Mrázek (<a class="link" href="mailto:mrazekmates@gmail.com" target="_blank" rel="noopener">mrazekmates@gmail.com</a>, <a class="link" href="tel:&#43;420734643958">+420734643958</a>)\n<strong>Registration:</strong> <a href="https://docs.google.com/forms/d/e/1FAIpQLSfX30AiFDOuVTM_1R8seFAR85WoiNnuGRMv4J05M_MTgcApHQ/viewform?usp=sharing&ouid=104836480148266218699" target="_blank" rel="noopener">Google Form</a>\n\n<p>Join a great evening of playing guitar, piano &amp; singing! We shall meet on <strong>Tuesday, June 3, 2024</strong>, from <strong>19:00 to 23:00</strong>. Everybody is welcome, no matter how much experience with music you have :D</p> <h2 id="instruments"><strong>Instruments</strong></h2> <p>A piano and a guitar are already present, I&rsquo;ll be really happy if you bring any instruments you enjoy playing as well.</p> <h2 id="registration--disclaimer"><strong>Registration &amp; Disclaimer</strong></h2> <p>You can register using the link above. The entrance is free, though if you have some spare time on the way here, please stop at Coop and bring some food/beer!</p>
+UID:20250603T190000-jamming-session@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20250602T000000
+DTSTART:20250603T190000
+DTEND:20250603T230000
+LOCATION;ALTREP="https://maps.app.goo.gl/1qYm5MY4yq24GU6v7":Probsteistrasse 99, Zurich (close to Bahnhof Stettbach)
+URL:https://cssz.ch/events/jamming-session/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Walk around Oberweningen
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/walk-oberweningen/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/FsJRJDukk3GNd1gX7" target="_blank" rel="noopener">Oberweningen</a>\n<strong>Coordinator:</strong> Ondřej Peterka (<a class="link" href="mailto:ondrej.peterka@email.cz" target="_blank" rel="noopener">ondrej.peterka@email.cz</a>, <a class="link" href="tel:&#43;41782382184">+41 78 238 21 84</a>)\n\n<p>Join us for a chill circular walk in the forested landscape north of Oberweningen, located relatively close to Zurich. The trip shouldn’t be very demanding so that we can slow down and enjoy chatting together.</p> <h2 id="connections">Connections:</h2> <picture class="img" style="background: url(data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIAAoAFAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5&#43;gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4&#43;Tl5ufo6ery8/T19vf4&#43;fr/2gAMAwEAAhEDEQA/APO4mRZ5ldGKqPkVAg5&#43;pU1TcRqSPLkVx6sCM/lTRcTL92aQfRjSm4nZSrTSFTwQWOKAGu5cgtjOOwAptKWJ6knHApKAP//Z); background-size: cover; display: inline;">             <source srcset='/images/events/2025-05-24-walk-oberweningen/connection_hu_d7ecfb7b1dcd0b38.webp 1053w, /images/events/2025-05-24-walk-oberweningen/connection_hu_d7ecfb7b1dcd0b38.webp 1053w, /images/events/2025-05-24-walk-oberweningen/connection_hu_ab1466635e73105.webp 640w, /images/events/2025-05-24-walk-oberweningen/connection_hu_3bb0d56f13b1c6f4.webp 1024w'                     sizes="(max-width: 1053px) 100vw, 1053px"                     type="image/webp"             /><source srcset='/images/events/2025-05-24-walk-oberweningen/connection_hu_3edc8916de2cc33d.jpg 1053w, /images/events/2025-05-24-walk-oberweningen/connection_hu_3edc8916de2cc33d.jpg 1053w, /images/events/2025-05-24-walk-oberweningen/connection_hu_de74de89dbb9f7cb.jpg 640w, /images/events/2025-05-24-walk-oberweningen/connection_hu_8902d9348f5858c0.jpg 1024w'                     sizes="(max-width: 1053px) 100vw, 1053px"                     type="image/jpeg"             /><img src="/images/events/2025-05-24-walk-oberweningen/connection_hu_3edc8916de2cc33d.jpg"                  width="1053"                  height="501"                                                                                     /></picture> <p>There is a direct train back to Zurich every 30 minutes. The actual time will depend on the route and our pace. You will need a ticket for 4 ZVV zones. One way costs up to 9.20 Fr. depending on your abos.</p>
+UID:20250524T105200-walk-oberweningen@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20250524T000000
+DTSTART:20250524T105200
+DTEND:20250524T170000
+LOCATION;ALTREP="https://maps.app.goo.gl/FsJRJDukk3GNd1gX7":Oberweningen
+URL:https://cssz.ch/events/walk-oberweningen/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:VSETH Summer Bar
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/summerbar/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/FbBC5vRfJ8EM7FfN7" target="_blank" rel="noopener">ETH Polyterrasse</a>\n<strong>Coordinator:</strong> Zdeněk Šnajdr (<a class="link" href="mailto:zdenek.snajdr@cssz.ch" target="_blank" rel="noopener">zdenek.snajdr@cssz.ch</a>, <a class="link" href="tel:&#43;41762254840">+41762254840</a>)\n<strong>Registration:</strong> <a href="https://forms.gle/eDXspzRcvFVs2zDm8" target="_blank" rel="noopener">Sign up for helpers</a>\n\n<h1 id="summerbar-2025--helpers-needed">Summerbar 2025 – Helpers Needed!</h1> <p>We&rsquo;re teaming up with <strong>POLANA</strong> and <strong>Schwung</strong> to host the <strong>VSETH Summer Bar</strong> on the <strong>Polyterrasse</strong> – and we need your help to make it awesome!</p> <hr> <h2 id="volunteer-and-get-perks">Volunteer and Get Perks</h2> <p>To keep everything running smoothly, we’re looking for volunteers to help with:</p> <ul> <li>Setup</li> <li>Grill &amp; Bar</li> <li>Clean-up</li> </ul> <p>Each shift is <strong>3 hours</strong>, and as a thank-you, <strong>you’ll get free drinks during your shift and one free meal per shift</strong>.  You&rsquo;re welcome to do more than one shift if you like – we really appreciate your support!</p>
+UID:20250515T150000-summerbar@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20250515T000000
+DTSTART:20250515T150000
+DTEND:20250515T220000
+LOCATION;ALTREP="https://maps.app.goo.gl/FbBC5vRfJ8EM7FfN7":ETH Polyterrasse
+URL:https://cssz.ch/events/summerbar/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Board Game Evening
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/board-game-evening/\n<strong>Location:</strong> <a href="https://www.uniability.uzh.ch/static/current/buildings/RAA/" target="_blank" rel="noopener">UZH, RAA-E-12</a>\n<strong>Coordinator:</strong> Matěj Mrázek (<a class="link" href="mailto:mrazekmates@gmail.com" target="_blank" rel="noopener">mrazekmates@gmail.com</a>, <a class="link" href="tel:&#43;420734643958">+420734643958</a>)\n<strong>Registration:</strong> <a href="https://docs.google.com/forms/d/e/1FAIpQLScmjSI0wbKnePylLNyLrSoDiK26ei1xIth-Lkp_sVwMg1TXaA/viewform?usp=sharingGNnUekmLfLSjyrw/viewform" target="_blank" rel="noopener">Google Form</a>\n\n<p>Join us for a fun and exciting evening of card and board games on <strong>Wednesday, May 14, 2024</strong>, from <strong>18:00 to 22:00</strong>. Everybody is welcome, whether experienced players or somebody who wants to stroll in for a card game, a beer, and a chat.</p> <h2 id="the-games"><strong>The Games</strong></h2> <p>The following games will be available (we will update the list as more people choose to bring their own):</p> <ul> <li>Dobble</li> <li>6 takes! (6 nimmt!)</li> <li>Dice</li> <li>Cabo</li> <li>Bananagrams</li> <li>Werewolves</li> <li>Secretly Hitler</li> <li>Blood on the Clocktower</li> <li>Poker/Mariáš cards</li> </ul> <p>No prior experience needed - we will be sure to explain the rules before each game!</p>
+UID:20250514T180000-board-game-evening@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20250514T000000
+DTSTART:20250514T180000
+DTEND:20250514T220000
+LOCATION;ALTREP="https://www.uniability.uzh.ch/static/current/buildings/RAA/":UZH, RAA-E-12
+URL:https://cssz.ch/events/board-game-evening/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Movie Night
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/movienight-spring25/\n<strong>Location:</strong> UZH RAA-G-15\n<strong>Coordinator:</strong> Timon Fopp (<a class="link" href="mailto:timon.fopp@cssz.ch" target="_blank" rel="noopener">timon.fopp@cssz.ch</a>, <a class="link" href="tel:&#43;41783309888">+41783309888</a>)\n\n<h3 id="movie-night-černák">Movie Night: Černák</h3> <p>Join us in watching the 2025 Slovak film Černák, directed by Jakub Kroner. It is a gritty crime thriller chronicling Miki Černák&rsquo;s ruthless ascent from a small-town gangster to Slovakia&rsquo;s most feared mafia boss, ultimately clashing with the nation&rsquo;s political elite and secret services.</p> <p><strong>No registration needed. Just come and enjoy.</strong></p> <p><strong>The movie starts at 19:00.</strong></p>
+UID:20250506T184500-movienight-spring25@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20250506T000000
+DTSTART:20250506T184500
+DTEND:20250506T210000
+LOCATION:UZH RAA-G-15
+URL:https://cssz.ch/events/movienight-spring25/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Mid-semester lunch in Untere mensa
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/mensa-spring25/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/H1iUeh2DAa6N7djf6" target="_blank" rel="noopener">Mercato Mensa A (untere Mensa)</a>\n<strong>Coordinator:</strong> Zdeněk Šnajdr (<a class="link" href="mailto:zdenek.snajdr@cssz.ch" target="_blank" rel="noopener">zdenek.snajdr@cssz.ch</a>, <a class="link" href="tel:&#43;41762254840">+41762254840</a>)\n\n<p>What a time saver! Meet your favourite people while you would be eating anyway!</p> <p>Join us for a brief lunch in the mensa. We&rsquo;ll be there from 13:00 to 14:00. Invite your friends to join, too!</p>
+UID:20250402T130000-mensa-spring25@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20250402T000000
+DTSTART:20250402T130000
+DTEND:20250402T140000
+LOCATION;ALTREP="https://maps.app.goo.gl/H1iUeh2DAa6N7djf6":Mercato Mensa A (untere Mensa)
+URL:https://cssz.ch/events/mensa-spring25/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:CSSZ Ski Day at Flumserberg 🎿🏔️
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/ski-day-flumserberg/\n<strong>Location:</strong> <a href="https://www.bergfex.ch/flumserberg/" target="_blank" rel="noopener">Flumserberg</a>\n<strong>Coordinator:</strong> Michal Krkoška (<a class="link" href="mailto:michal.krkoska@cssz.ch" target="_blank" rel="noopener">michal.krkoska@cssz.ch</a>), Zdeněk Šnajdr (<a class="link" href="mailto:zdenek.snajdr@cssz.ch" target="_blank" rel="noopener">zdenek.snajdr@cssz.ch</a>, <a class="link" href="tel:&#43;41762254840">+41762254840</a>)\n<strong>Registration:</strong> <a href="https://forms.gle/ZjLafkY97wSYoxAZA" target="_blank" rel="noopener">Registration form</a>\n\n<p>Join us for an exciting ski day at Flumserberg, just 1 hour from Zurich! With 65 km of slopes and stunning panoramic views, Flumserberg is the perfect spot for a one-day ski adventure. Whether you&rsquo;re a beginner or an expert, this is a great opportunity to hit the slopes and enjoy the snow with fellow students! ⛷️❄️</p> <h2 id="meeting-point--travel">Meeting Point &amp; Travel</h2> <p>All participants must book their own tickets. We meet at <strong>6:50 AM at Zurich HB, Platform 8.</strong> ⏰ Be on time! The train is often full, and it&rsquo;s best to board early to get a seat.</p>
+UID:20250308T065000-ski-day-flumserberg@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20250308T000000
+DTSTART:20250308T065000
+DTEND:20250308T190000
+LOCATION;ALTREP="https://www.bergfex.ch/flumserberg/":Flumserberg
+URL:https://cssz.ch/events/ski-day-flumserberg/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:VSUZH Activity Fair FS25 and Lunch at Aki – Activity Fair
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/uzh-activity-fair-fs25/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/qGfTv7kCa4gTFp239" target="_blank" rel="noopener">Atrium UZH center</a>\n<strong>Coordinator:</strong> Radim Urban (<a class="link" href="mailto:radim.urban@cssz.ch" target="_blank" rel="noopener">radim.urban@cssz.ch</a>), Zdeněk Šnajdr (<a class="link" href="mailto:zdenek.snajdr@cssz.ch" target="_blank" rel="noopener">zdenek.snajdr@cssz.ch</a>, <a class="link" href="tel:&#43;41762254840">+41762254840</a>)\n\n<p>Come and support CSSZ at the VSUZH Activity Fair!</p> <p>This is the right place to learn and ask in person who we are, what we do, how to join us and how to help our efforts.</p> <h2 id="vsuzh-activity-fair">VSUZH Activity Fair</h2> <p>Do you have a passion and want to share it with other students? Looking for experiences that complement the knowledge you gained during your studies? The VSUZH Activity Fair is THE fair for student engagement at the University of Zurich.</p>
+UID:20250226T093000-uzh-activity-fair-fs25@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20250226T000000
+DTSTART:20250226T093000
+DTEND:20250226T163000
+LOCATION;ALTREP="https://maps.app.goo.gl/qGfTv7kCa4gTFp239":Atrium UZH center
+URL:https://cssz.ch/events/uzh-activity-fair-fs25/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:VSUZH Activity Fair FS25 and Lunch at Aki – Lunch
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/uzh-activity-fair-fs25/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/jHENj5Emf3iiwsr26" target="_blank" rel="noopener">Aki</a>\n<strong>Coordinator:</strong> Zdeněk Šnajdr (<a class="link" href="mailto:zdenek.snajdr@cssz.ch" target="_blank" rel="noopener">zdenek.snajdr@cssz.ch</a>, <a class="link" href="tel:&#43;41762254840">+41762254840</a>)\n\n<p>Come and support CSSZ at the VSUZH Activity Fair!</p> <p>This is the right place to learn and ask in person who we are, what we do, how to join us and how to help our efforts.</p> <h2 id="vsuzh-activity-fair">VSUZH Activity Fair</h2> <p>Do you have a passion and want to share it with other students? Looking for experiences that complement the knowledge you gained during your studies? The VSUZH Activity Fair is THE fair for student engagement at the University of Zurich.</p>
+UID:20250226T120000-uzh-activity-fair-fs25-2@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20250226T000000
+DTSTART:20250226T120000
+DTEND:20250226T130000
+LOCATION;ALTREP="https://maps.app.goo.gl/jHENj5Emf3iiwsr26":Aki
+URL:https://cssz.ch/events/uzh-activity-fair-fs25/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Semester Welcome Event (Spring 2025)
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/welcome-event-spring25/\n<strong>Location:</strong> <a href="https://goo.gl/maps/bqDsM5dpDLDDRoGg8" target="_blank" rel="noopener">bQm Culture Café & Bar</a>\n<strong>Coordinator:</strong> Zdeněk Šnajdr (<a class="link" href="mailto:zdenek.snajdr@cssz.ch" target="_blank" rel="noopener">zdenek.snajdr@cssz.ch</a>, <a class="link" href="tel:&#43;41762254840">+41762254840</a>), Max Kellenberger (<a class="link" href="mailto:max.kellenberger@cssz.ch" target="_blank" rel="noopener">max.kellenberger@cssz.ch</a>)\n\n<p>Join us for a lively kick-off to the Spring semester 2025 at the bQm bar 🍻, where the Czech and Slovak Students in Zurich will meet up for a beer ⭐. This is a great opportunity for both new and existing students to meet 🤝. We look forward to seeing you there! 🎉</p>
+UID:20250221T183000-welcome-event-spring25@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20250221T000000
+DTSTART:20250221T183000
+DTEND:20250221T220000
+LOCATION;ALTREP="https://goo.gl/maps/bqDsM5dpDLDDRoGg8":bQm Culture Café & Bar
+URL:https://cssz.ch/events/welcome-event-spring25/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Ski Day in Engelberg - Titlis ⛷️
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/ski-day-engelberg/\n<strong>Location:</strong> <a href="https://www.bergfex.ch/engelberg/" target="_blank" rel="noopener">Engelberg Titlis</a>\n<strong>Coordinator:</strong> Timon Fopp (<a class="link" href="mailto:timon.fopp@cssz.ch" target="_blank" rel="noopener">timon.fopp@cssz.ch</a>, <a class="link" href="tel:&#43;41783309888">+41783309888</a>)\n<strong>Registration:</strong> <a href="https://forms.gle/jFTWssNRqMZUywXw5" target="_blank" rel="noopener">Registration form</a>\n\n<p>Join us for a day of skiing in the beautiful Urner Alps! We will ski in the Engelberg - Titlis area.</p> <p><strong>Estimated price: 101.20 CHF</strong> via <a class="link" href="https://freizeit.sbb.ch/de/stories/snownrail-engelberg-titlis" target="_blank" rel="noopener">SBB</a> (Back and Forth Train Ticket + Ski Ticket included)</p> <h2 id="travel">Travel</h2> <p>You need to book the travel <strong>yourself</strong>, individually. The following options are available (at the time of writing):</p> <p>From Zurich to Engelberg - Titlis:</p> <picture class="img" style="background: url(data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAADCAIAAAAcOLh5AAAAgklEQVR4nGzMQQrCMBQE0PlJ/ZRCuii47zH04L2GnqBHKFJsgrHmjxB152N2w0yz3PPrcj3GZTudRRWkVviH5DRNKSUAXdfJbd3WeQ7liXGEcwB8ZWalFOec9/47rWnbNlfDMEjODzbNwXkB5HdPMlWq2vc9SZFPCTOLMe77HkJ4DwBPc0MFNgVbyAAAAABJRU5ErkJggg==); background-size: cover; display: inline;">             <source srcset='/images/events/2025-02-07-ski-day-engelberg/train1_hu_584d5aaf643d7a36.webp 938w, /images/events/2025-02-07-ski-day-engelberg/train1_hu_584d5aaf643d7a36.webp 938w, /images/events/2025-02-07-ski-day-engelberg/train1_hu_90eb09fcd43daae9.webp 640w'                     sizes="(max-width: 938px) 100vw, 938px"                     type="image/webp"             /><source srcset='/images/events/2025-02-07-ski-day-engelberg/train1_hu_d9719e09ce264b40.jpg 938w, /images/events/2025-02-07-ski-day-engelberg/train1_hu_d9719e09ce264b40.jpg 938w, /images/events/2025-02-07-ski-day-engelberg/train1_hu_b718b836584a12e5.jpg 640w'                     sizes="(max-width: 938px) 100vw, 938px"                     type="image/jpeg"             /><img src="/images/events/2025-02-07-ski-day-engelberg/train1_hu_d9719e09ce264b40.jpg"                  width="938"                  height="158"                                                                                     /></picture> <p>From Engelberg - Titlis to Zurich:</p>
+UID:20250207T070000-ski-day-engelberg@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20250207T000000
+DTSTART:20250207T070000
+DTEND:20250207T190000
+LOCATION;ALTREP="https://www.bergfex.ch/engelberg/":Engelberg Titlis
+URL:https://cssz.ch/events/ski-day-engelberg/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Ice Skating
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/ice-skating/\n<strong>Location:</strong> <a href="https://www.doldersports.com" target="_blank" rel="noopener">Dolder Kunsteisbahn</a>\n<strong>Coordinator:</strong> Zdeněk Šnajdr (<a class="link" href="mailto:zdenek.snajdr@cssz.ch" target="_blank" rel="noopener">zdenek.snajdr@cssz.ch</a>, <a class="link" href="tel:&#43;41762254840">+41762254840</a>), Aleš Kubiček (<a class="link" href="mailto:ales.kubicek@cssz.ch" target="_blank" rel="noopener">ales.kubicek@cssz.ch</a>), Juraj Mičko (<a class="link" href="mailto:juraj.micko@cssz.ch" target="_blank" rel="noopener">juraj.micko@cssz.ch</a>, <a class="link" href="tel:&#43;41762639679">+41762639679</a>)\n<strong>Registration:</strong> <a href="https://chat.whatsapp.com/DXVjxDB4XaT1kEpcRI4FK5" target="_blank" rel="noopener">Join WhatpApp group</a>\n\n<h3 id="join-us-for-ice-skating-at-dolder-kunsteisbahn">Join us for ice skating at Dolder Kunsteisbahn!</h3> <p><strong>Price</strong> Admission for adults: 8 CHF Ice skates : 8 CHF (you can of course use your own)</p> <p><strong>We don not collect any admission, everything has to be paid individually at the entry.</strong></p> <p>Join us for a fun-filled ice skating afternoon at the iconic Dolder Kunsteisbahn on Saturday, 14th December 2024, from 16:00 to 18:00! Whether you&rsquo;re a seasoned skater or a beginner, everyone is welcome to join in the fun. See you on the ice!</p>
+UID:20241214T160000-ice-skating@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20241214T000000
+DTSTART:20241214T160000
+DTEND:20241214T180000
+LOCATION;ALTREP="https://www.doldersports.com":Dolder Kunsteisbahn
+URL:https://cssz.ch/events/ice-skating/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Czechoslovak Traditions Night - Gingerbread Baking
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/gingerbread/\n<strong>Location:</strong> Sent via email to all registered participants.\n<strong>Coordinator:</strong> Michal Krkoška (<a class="link" href="mailto:michal.krkoska@cssz.ch" target="_blank" rel="noopener">michal.krkoska@cssz.ch</a>), Max Kellenberger (<a class="link" href="mailto:max.kellenberger@cssz.ch" target="_blank" rel="noopener">max.kellenberger@cssz.ch</a>)\n<strong>Registration:</strong> Registration closed\n<strong>Notes:</strong>\n• Registration is now <strong>closed</strong>. Location of the event has been sent to all registered participants via email.\n\n<p><strong>Czechoslovak Traditions Night- Gingerbread Baking</strong></p> <p>Celebrate the holiday season with us on December 6th, 2024, for an evening filled with Czechoslovak traditions! Enjoy baking and decorating <em>perníčky</em> (gingerbread cookies), sipping on warm <em>svařák</em> (mulled wine), listening to Czech and Slovak Christmas music! Make sure to bring your creative spirit with you, as we will have a competition for the best gingerbread cookies, with the best bakers having a chance to win special prizes 🏆! And maybe during the evening, we might be even have a surprise visited by a special someone. Don’t miss this cozy and festive gathering, perfect for sharing holiday cheer and cultural traditions.</p>
+UID:20241206T180000-gingerbread@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20241206T000000
+DTSTART:20241206T180000
+DTEND:20241206T220000
+LOCATION:Sent via email to all registered participants.
+URL:https://cssz.ch/events/gingerbread/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Pub Quiz 💡
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/pub-quiz-autumn24/\n<strong>Location:</strong> <a href="https://www.bqm-bar.ch/de/" target="_blank" rel="noopener">ETH bQm</a>\n<strong>Coordinator:</strong> Radim Urban (<a class="link" href="mailto:radim.urban@cssz.ch" target="_blank" rel="noopener">radim.urban@cssz.ch</a>)\n<strong>Registration:</strong> <a href="https://forms.gle/SRozqAzMBZdrSBVT9" target="_blank" rel="noopener">Google Form (ends on Tuesday at noon)</a>\n\n<p>🎉 Brain-teasing night with your favourite people from CSSZ! Join us for yet another Pub Quiz night on Nov 13th at the bQm bar at ETH! 🍻</p> <p>🏆 Put your knowledge to the test and compete with friends or make new ones as you tackle a wide range of exciting and diverse questions. From pop culture and history to sports and general knowledge, there&rsquo;s something for everyone.</p>
+UID:20241113T193000-pub-quiz-autumn24@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20241113T000000
+DTSTART:20241113T193000
+DTEND:20241113T223000
+LOCATION;ALTREP="https://www.bqm-bar.ch/de/":ETH bQm
+URL:https://cssz.ch/events/pub-quiz-autumn24/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Lunch in Untere mensa
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/mensa-autumn24/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/H1iUeh2DAa6N7djf6" target="_blank" rel="noopener">Mercato Mensa A (untere Mensa)</a>\n<strong>Coordinator:</strong> Juraj Mičko (<a class="link" href="mailto:juraj.micko@cssz.ch" target="_blank" rel="noopener">juraj.micko@cssz.ch</a>, <a class="link" href="tel:&#43;41762639679">+41762639679</a>), Max Kellenberger (<a class="link" href="mailto:max.kellenberger@cssz.ch" target="_blank" rel="noopener">max.kellenberger@cssz.ch</a>)\n\n<p>What a time saver! Meet your favourite people while you would be eating anyway!</p> <p>Join us for a brief lunch in the mensa. We&rsquo;ll be there from 12:30 to 13:30. Invite your friends to join, too!</p> <p><em>To find the group, <a class="link" href="https://wa.me/&#43;421907240239" target="_blank" rel="noopener">message Juraj on WhatsApp</a></em></p> <hr> <picture class="img" style="background: url(data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIAA8AFAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5&#43;gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4&#43;Tl5ufo6ery8/T19vf4&#43;fr/2gAMAwEAAhEDEQA/AKVz4i1DTbCK4a2DJO6eWV3Fg4VgB7HAHPfFM1LxLfW97aCaaO4aQFNySlgNyAkHJ9hz/Oreo2upm6lihSwurZAphS7DgKcDn5fQfz7Vzmt3VjbXcltf&#43;YjpHGYprZc7XwMnaxxg/wAutYqq3p1OiVGKd7aHWxeONZhXDXtvGWw&#43;37LvxkA9S2ffFP8A&#43;E&#43;1f/oI2/8A4Ar/APFV5HLqUk8hkLOGb73PemfbZP77/nV2n3JUqX8p/9k=); background-size: cover; display: inline;">             <source srcset='/images/events/2024-02-27-mensa-spring24-1/PXL_20240227_115742247_hu_7fb863e7256d13a1.webp 3280w, /images/events/2024-02-27-mensa-spring24-1/PXL_20240227_115742247_hu_7fb863e7256d13a1.webp 3280w, /images/events/2024-02-27-mensa-spring24-1/PXL_20240227_115742247_hu_528d583c59d3240a.webp 640w, /images/events/2024-02-27-mensa-spring24-1/PXL_20240227_115742247_hu_c9cce65ac617c036.webp 1024w, /images/events/2024-02-27-mensa-spring24-1/PXL_20240227_115742247_hu_2a67ddcbc72089ed.webp 1600w, /images/events/2024-02-27-mensa-spring24-1/PXL_20240227_115742247_hu_b9d1f0f44a7ecaa5.webp 2000w'                     sizes="(max-width: 3280px) 100vw, 3280px"                     type="image/webp"             /><source srcset='/images/events/2024-02-27-mensa-spring24-1/PXL_20240227_115742247_hu_dd3f4949072ea773.jpg 3280w, /images/events/2024-02-27-mensa-spring24-1/PXL_20240227_115742247_hu_dd3f4949072ea773.jpg 3280w, /images/events/2024-02-27-mensa-spring24-1/PXL_20240227_115742247_hu_835a8f13ea24931e.jpg 640w, /images/events/2024-02-27-mensa-spring24-1/PXL_20240227_115742247_hu_fc3a7dbd5761f768.jpg 1024w, /images/events/2024-02-27-mensa-spring24-1/PXL_20240227_115742247_hu_965e9c29be10de76.jpg 1600w, /images/events/2024-02-27-mensa-spring24-1/PXL_20240227_115742247_hu_7ec80b4a188aab02.jpg 2000w'                     sizes="(max-width: 3280px) 100vw, 3280px"                     type="image/jpeg"             /><img src="/images/events/2024-02-27-mensa-spring24-1/PXL_20240227_115742247_hu_dd3f4949072ea773.jpg"                  width="3280"                  height="2464"                                                                                     /></picture>
+UID:20241104T123000-mensa-autumn24@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20241104T000000
+DTSTART:20241104T123000
+DTEND:20241104T133000
+LOCATION;ALTREP="https://maps.app.goo.gl/H1iUeh2DAa6N7djf6":Mercato Mensa A (untere Mensa)
+URL:https://cssz.ch/events/mensa-autumn24/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Movie Night
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/movienight/\n<strong>Location:</strong> UZH RAA-G-15\n<strong>Coordinator:</strong> Zdeněk Šnajdr (<a class="link" href="mailto:zdenek.snajdr@cssz.ch" target="_blank" rel="noopener">zdenek.snajdr@cssz.ch</a>, <a class="link" href="tel:&#43;41762254840">+41762254840</a>)\n<strong>Registration:</strong> <a href="https://docs.google.com/forms/d/e/1FAIpQLSegpqXkhdxheh0EbMQo8dvZgfOMojz_vqyU3eie6VkzFAldgw/viewform" target="_blank" rel="noopener">Google Form</a>\n\n<h3 id="movie-night-adéla-ještě-nevečeřela">Movie Night: Adéla ještě nevečeřela</h3> <p>Join us in celebrating the founding of Czechoslovakia on October 28 with a special movie night!</p> <p>We&rsquo;ll be screening the classic Czechoslovak comedy Adéla ještě nevečeřela (Dinner for Adele) from 1977. This beloved film is a playful parody of detective stories, featuring an intrepid investigator and a wildly eccentric adversary.</p> <p>Blending humor, absurdity, and a nod to classic detective tropes, Dinner for Adele became a cult favorite and even won the 1980 Saturn Award for Best Foreign Film.</p>
+UID:20241028T184500-movienight@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20241028T000000
+DTSTART:20241028T184500
+DTEND:20241028T220000
+LOCATION:UZH RAA-G-15
+URL:https://cssz.ch/events/movienight/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Meet'n'Dine 4 - Goulash + Pilsner Edition
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/meetndine-autumn24/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/WpyMr8Uv8sHp9nEg9" target="_blank" rel="noopener">University of Zurich, KOL-K-Küche</a>\n<strong>Coordinator:</strong> Radim Urban (<a class="link" href="mailto:radim.urban@cssz.ch" target="_blank" rel="noopener">radim.urban@cssz.ch</a>), Michal Krkoška (<a class="link" href="mailto:michal.krkoska@cssz.ch" target="_blank" rel="noopener">michal.krkoska@cssz.ch</a>), Zdeněk Šnajdr (<a class="link" href="mailto:zdenek.snajdr@cssz.ch" target="_blank" rel="noopener">zdenek.snajdr@cssz.ch</a>, <a class="link" href="tel:&#43;41762254840">+41762254840</a>)\n<strong>Registration:</strong> <a href="https://docs.google.com/forms/d/e/1FAIpQLSc-3sMrUEzGDTycZ8lsablYinjXHJB7kh4GNnUekmLfLSjyrw/viewform" target="_blank" rel="noopener">Google Form (Payment required)</a>\n<strong>Notes:</strong>\n• Registration is now open. Please pay the registration fee within 2 days. <strong>Signup available till the 16th of October.</strong> Later only upon request per email.\n\n<p>Join us for an exciting cultural dinner at the University of Zurich on <strong>October 18, 2024</strong>, from <strong>19:00 to 22:00</strong>. This is a wonderful opportunity to connect with fellow students while indulging in the rich flavors of <strong>Goulash</strong>, a hearty dish with deep roots in Central European cuisine. In addition, we will have a <strong>Pilsner Urquell</strong> on tap.</p> <h2 id="about-the-dish"><strong>About the dish</strong></h2> <p>Goulash is a flavorful stew made from tender cuts of meat, seasoned with a blend of spices, including paprika, and often accompanied by vegetables like potatoes and carrots.</p>
+UID:20241018T190000-meetndine-autumn24@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20241018T000000
+DTSTART:20241018T190000
+DTEND:20241018T220000
+LOCATION;ALTREP="https://maps.app.goo.gl/WpyMr8Uv8sHp9nEg9":University of Zurich, KOL-K-Küche
+URL:https://cssz.ch/events/meetndine-autumn24/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Hike Walensee
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/hike-walensee/\n<strong>Location:</strong> <a href="https://en.mapy.cz/s/pebamagalu" target="_blank" rel="noopener">Walenstadtberg to Weesen</a>\n<strong>Coordinator:</strong> Ondřej Černín (<a class="link" href="mailto:ondrej.cernin@cssz.ch" target="_blank" rel="noopener">ondrej.cernin@cssz.ch</a>)\n<strong>Registration:</strong> <a href="https://chat.whatsapp.com/KzIvkJsKxbS3wR8w7vjYFU" target="_blank" rel="noopener">WhatsApp group</a>\n\n<p>This time we will hike along lake Walensee from Walenstadtberg to Weesen. Along the way we will have views of the stunning lake Walensee, cliffs and waterfalls! This hike is ideal for more casual hikers, as a small gradual climb will be followed by a long descent to the shores of the lake. So you can save your attention and breath for conversations with fellow hikers.</p>
+UID:20241012T071000-hike-walensee@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20241012T000000
+DTSTART:20241012T071000
+DTEND:20241012T200000
+LOCATION;ALTREP="https://en.mapy.cz/s/pebamagalu":Walenstadtberg to Weesen
+URL:https://cssz.ch/events/hike-walensee/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Semester Welcome Event (Autumn 2024)
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/welcome-event-autumn24/\n<strong>Location:</strong> <a href="https://goo.gl/maps/bqDsM5dpDLDDRoGg8" target="_blank" rel="noopener">bQm Culture Café & Bar</a>\n<strong>Coordinator:</strong> Radim Urban (<a class="link" href="mailto:radim.urban@cssz.ch" target="_blank" rel="noopener">radim.urban@cssz.ch</a>), Michal Krkoška (<a class="link" href="mailto:michal.krkoska@cssz.ch" target="_blank" rel="noopener">michal.krkoska@cssz.ch</a>)\n\n<p>Join us for a lively kick-off to the Autumn semester 2024 at the bQm bar 🍻, where the Czech and Slovak Students in Zurich will meet up for a beer⭐. This is a great opportunity for both new and existing students to meet🤝. We look forward to seeing you there! 🎉</p>
+UID:20240927T183000-welcome-event-autumn24@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20240927T000000
+DTSTART:20240927T183000
+DTEND:20240927T230000
+LOCATION;ALTREP="https://goo.gl/maps/bqDsM5dpDLDDRoGg8":bQm Culture Café & Bar
+URL:https://cssz.ch/events/welcome-event-autumn24/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:VSUZH Activity Fair HS24 – Day 1
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/uzh-activity-fair-hs24/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/qGfTv7kCa4gTFp239" target="_blank" rel="noopener">Atrium UZH center</a>\n<strong>Coordinator:</strong> Zdeněk Šnajdr (<a class="link" href="mailto:zdenek.snajdr@cssz.ch" target="_blank" rel="noopener">zdenek.snajdr@cssz.ch</a>, <a class="link" href="tel:&#43;41762254840">+41762254840</a>), Timon Fopp (<a class="link" href="mailto:timon.fopp@cssz.ch" target="_blank" rel="noopener">timon.fopp@cssz.ch</a>, <a class="link" href="tel:&#43;41783309888">+41783309888</a>)\n\n<p>Come and support CSSZ at the VSUZH Activity Fair!</p> <p>This is the right place to learn and ask in person who we are, what we do, how to join us and how to help our efforts.</p> <h2 id="vsuzh-activity-fair">VSUZH Activity Fair</h2> <p>Do you have a passion and want to share it with other students? Looking for experiences that complement the knowledge you gained during your studies? The VSUZH Activity Fair is THE fair for student engagement at the University of Zurich.</p>
+UID:20240925T083000-uzh-activity-fair-hs24@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20240925T000000
+DTSTART:20240925T083000
+DTEND:20240925T163000
+LOCATION;ALTREP="https://maps.app.goo.gl/qGfTv7kCa4gTFp239":Atrium UZH center
+URL:https://cssz.ch/events/uzh-activity-fair-hs24/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:VSUZH Activity Fair HS24 – Day 2
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/uzh-activity-fair-hs24/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/rfFmoPU4MLPzuTpj8" target="_blank" rel="noopener">Lichthof UZH Irchel</a>\n<strong>Coordinator:</strong> Zdeněk Šnajdr (<a class="link" href="mailto:zdenek.snajdr@cssz.ch" target="_blank" rel="noopener">zdenek.snajdr@cssz.ch</a>, <a class="link" href="tel:&#43;41762254840">+41762254840</a>)\n\n<p>Come and support CSSZ at the VSUZH Activity Fair!</p> <p>This is the right place to learn and ask in person who we are, what we do, how to join us and how to help our efforts.</p> <h2 id="vsuzh-activity-fair">VSUZH Activity Fair</h2> <p>Do you have a passion and want to share it with other students? Looking for experiences that complement the knowledge you gained during your studies? The VSUZH Activity Fair is THE fair for student engagement at the University of Zurich.</p>
+UID:20240926T083000-uzh-activity-fair-hs24-2@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20240925T000000
+DTSTART:20240926T083000
+DTEND:20240926T163000
+LOCATION;ALTREP="https://maps.app.goo.gl/rfFmoPU4MLPzuTpj8":Lichthof UZH Irchel
+URL:https://cssz.ch/events/uzh-activity-fair-hs24/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:General Meeting HS24
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/agm-hs24/\n<strong>Location:</strong> Online (registered members will get an invitation)\n<strong>Coordinator:</strong> Radim Urban (<a class="link" href="mailto:radim.urban@cssz.ch" target="_blank" rel="noopener">radim.urban@cssz.ch</a>)\n<strong>Registration:</strong> <a href="https://docs.google.com/forms/d/e/1FAIpQLSf4cSVzluHUELZy2cXoQJNROBzs9AqJAAFjoQyPVmFxeRMftw/viewform?usp=sf_link" target="_blank" rel="noopener">Google Form</a>\n\n<h2 id="-new-cssz-board-announcement-">🚨 <strong>New CSSZ Board Announcement</strong> 🚨</h2> <p>We are excited to introduce the newly elected board members of Czech and Slovak Students in Zurich (CSSZ) for this academic year! 🎉</p> <p>🌟 <strong>Zdeněk Šnajdr</strong> - <em>President</em>  Zdeněk is pursuing his MSc in Computer Science at ETH Zurich. A travel enthusiast, he also enjoys swimming and learning new languages.</p> <p>🌟 <strong>Radim Urban</strong> - <em>Infrastructure</em>  Radim, a co-founding member of CSSZ, is studying BSc in Computer Science at ETH. Outside of academics, you can find him playing tennis or strumming his guitar.</p>
+UID:20240913T180000-agm-hs24@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20240913T000000
+DTSTART:20240913T180000
+DTEND:20240913T190000
+LOCATION:Online (registered members will get an invitation)
+URL:https://cssz.ch/events/agm-hs24/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Hike Via Glaralpina, Etappe 07
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/hike-via-glaralpina-etappe-07/\n<strong>Location:</strong> <a href="https://en.mapy.cz/s/bodeharoha" target="_blank" rel="noopener">Urnerboden to Glattalp</a>\n<strong>Coordinator:</strong> Juraj Mičko (<a class="link" href="mailto:juraj.micko@cssz.ch" target="_blank" rel="noopener">juraj.micko@cssz.ch</a>, <a class="link" href="tel:&#43;41762639679">+41762639679</a>)\n<strong>Registration:</strong> <a href="https://chat.whatsapp.com/H4HkgkpoBMMC8dzLpuze0Y" target="_blank" rel="noopener">WhatsApp group</a>\n\n<p>A more chill hike this time, but still with a good amount of uphill.</p>
+UID:20240901T064000-hike-via-glaralpina-etappe-07@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20240901T000000
+DTSTART:20240901T064000
+DTEND:20240901T200000
+LOCATION;ALTREP="https://en.mapy.cz/s/bodeharoha":Urnerboden to Glattalp
+URL:https://cssz.ch/events/hike-via-glaralpina-etappe-07/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Challenging Hike to Göscheneralpsee
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/hike-goescheneralpsee/\n<strong>Location:</strong> <a href="https://en.mapy.cz/s/pucakujeke" target="_blank" rel="noopener">Wiggen to Göscheneralp</a>\n<strong>Coordinator:</strong> Juraj Mičko (<a class="link" href="mailto:juraj.micko@cssz.ch" target="_blank" rel="noopener">juraj.micko@cssz.ch</a>, <a class="link" href="tel:&#43;41762639679">+41762639679</a>)\n<strong>Registration:</strong> <a href="https://chat.whatsapp.com/ETYvCKYC8dz2c35z4bIYV6" target="_blank" rel="noopener">WhatsApp group</a>\n\n<p>This time we will hike to the Göscheneralpsee, a beautiful lake surrounded by high mountains. The hike is estimated to be very <strong>difficult</strong>, with 8 hours worth of hike planned for 7:30 hours including breaks and lunch. So, be prepared for a challenging day with a faster pace.</p>
+UID:20240827T070000-hike-goescheneralpsee@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20240827T000000
+DTSTART:20240827T070000
+DTEND:20240827T200000
+LOCATION;ALTREP="https://en.mapy.cz/s/pucakujeke":Wiggen to Göscheneralp
+URL:https://cssz.ch/events/hike-goescheneralpsee/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:StradivariFEST Antonín Dvořák
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/stradivarifest-concert-2/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/aJWWkFES1q2CGvtv9" target="_blank" rel="noopener">Florhof (MKZ) - Grosser Saal</a>\n<strong>Coordinator:</strong> Zdeněk Šnajdr (<a class="link" href="mailto:zdenek.snajdr@cssz.ch" target="_blank" rel="noopener">zdenek.snajdr@cssz.ch</a>, <a class="link" href="tel:&#43;41762254840">+41762254840</a>)\n<strong>Registration:</strong> <a href="https://forms.gle/1jdudLCPcJCHCQiXA" target="_blank" rel="noopener">Google Form</a>\n\n<p><strong>We have four free tickets for the first four people who register. If you qualify for a free ticket you will be contacted by email!</strong></p> <p><strong>Price for students</strong>: 10 CHF</p> <p>The StradivariFEST is organising a concert with works by the Czech composer Antonín Dvořák.  <a class="link" href="https://stradivarifest.com/klangwellen/" target="_blank" rel="noopener">https://stradivarifest.com/klangwellen/</a></p> <p><strong>DVORAK 6</strong>  Streichquintett in Es-Dur, op. 97  Streichsextett in A-Dur, op. 48</p> <p>Zürich | Musikschule Konservatorium Zürich | Grosser Saal  Sunday, 26.05.2024  16.15 - Prélude  17.00 - Concert</p>
+UID:20240526T170000-stradivarifest-concert-2@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20240526T000000
+DTSTART:20240526T170000
+DTEND:20240526T190000
+LOCATION;ALTREP="https://maps.app.goo.gl/aJWWkFES1q2CGvtv9":Florhof (MKZ) - Grosser Saal
+URL:https://cssz.ch/events/stradivarifest-concert-2/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Pub Quiz 💡 2️⃣
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/pub-quiz-spring24-2/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/Ev2RV8rR6wfTSUo17" target="_blank" rel="noopener">The Willow Yard Pub</a>\n<strong>Coordinator:</strong> Zdeněk Šnajdr (<a class="link" href="mailto:zdenek.snajdr@cssz.ch" target="_blank" rel="noopener">zdenek.snajdr@cssz.ch</a>, <a class="link" href="tel:&#43;41762254840">+41762254840</a>)\n<strong>Registration:</strong> <a href="https://forms.gle/pvTD3Wf2YE81Pwxa9" target="_blank" rel="noopener">Register here</a>\n<strong>Notes:</strong>\n• Important: Due to an event mix-up in the pub the event will take place in The Willow Yard Pub (see Location). There will be bus from Cooper&rsquo;s Pub to The Willow Yard Pub departing at 19:00. After the event the bus will take us back to Cooper&rsquo;s Pub. You can either take this bus or arrive individually.\n\n<p>🎉 The second brain-teasing, laughter-filled night of fun this semester with your favourite people from CSSZ; this time in collaboration with ASIZ (Associazione Studentesca Italiana a Zurigo)! Join us for yet another Pub Quiz night on May 6th at the one and only Oliver Twist Pub in Zurich! 🍻</p> <p>🏆 Put your knowledge to the test and compete with friends or make new ones as you tackle a wide range of exciting and diverse questions. From pop culture and history to sports and general knowledge, there&rsquo;s something for everyone.</p>
+UID:20240513T183000-pub-quiz-spring24-2@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20240513T000000
+DTSTART:20240513T183000
+DTEND:20240513T223000
+LOCATION;ALTREP="https://maps.app.goo.gl/Ev2RV8rR6wfTSUo17":The Willow Yard Pub
+URL:https://cssz.ch/events/pub-quiz-spring24-2/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:CSSZ <> Kaya VC Startup Buffet
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/startup-buffet/\n<strong>Location:</strong> ETH Alumni Pavillon\n<strong>Coordinator:</strong> Zdeněk Šnajdr (<a class="link" href="mailto:zdenek.snajdr@cssz.ch" target="_blank" rel="noopener">zdenek.snajdr@cssz.ch</a>, <a class="link" href="tel:&#43;41762254840">+41762254840</a>), Radim Urban (<a class="link" href="mailto:radim.urban@cssz.ch" target="_blank" rel="noopener">radim.urban@cssz.ch</a>)\n<strong>Registration:</strong> <a href="https://lu.ma/8nagjxhq" target="_blank" rel="noopener">Register here</a>\n\n<h2 id="about-the-event">About the Event</h2> <p>Are you interested in startups and things around them?</p> <p>The Czech and Slovak Students in Zurich society in collaboration with Prague-based VC fund KAYA will be co-organising a buffet dinner in ETH Alumni, at 6pm on the 9th of May.</p> <p>You can look forward to meeting representatives from KAYA (and their portfolio) who will be happy to answer your questions, network with like-minded people and of course have some good food. This could be particularly interesting if you are thinking about starting a startup, but anyone with an interest in the startup ecosystem is welcome.</p>
+UID:20240509T180000-startup-buffet@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20240509T000000
+DTSTART:20240509T180000
+DTEND:20240509T220000
+LOCATION:ETH Alumni Pavillon
+URL:https://cssz.ch/events/startup-buffet/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Hike + Grill around Gräppelensee
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/hike-and-grill/\n<strong>Location:</strong> <a href="https://grillstelle.ch/grillstellen/1456/graeppelensee-9657-alt-st-johann-switzerland/uebersicht" target="_blank" rel="noopener">Grill place at Gräppelensee</a>\n<strong>Coordinator:</strong> Aleš Kubiček (<a class="link" href="mailto:ales.kubicek@cssz.ch" target="_blank" rel="noopener">ales.kubicek@cssz.ch</a>), Juraj Mičko (<a class="link" href="mailto:juraj.micko@cssz.ch" target="_blank" rel="noopener">juraj.micko@cssz.ch</a>, <a class="link" href="tel:&#43;41762639679">+41762639679</a>)\n<strong>Registration:</strong> <a href="https://forms.gle/p5ozBufCfV2HtvpFA" target="_blank" rel="noopener">Google Form</a>\n<strong>Notes:</strong>\n• Important: Date has changed due to possibility of rain - further changes may occur.\n\n<p>CSSZ invites you and your friends to join a grill event on a hike!</p> <h2 id="connection">Connection</h2> <ul> <li> <p><strong>There:</strong> 08:40 - 10:42 (<a class="link" href="https://www.sbb.ch/en?date=%222024-05-12%22&amp;moment=%22DEPARTURE%22&amp;selected_trip=1&amp;stops=%5B%7B%22value%22%3A%228503000%22%2C%22type%22%3A%22ID%22%2C%22label%22%3A%22Z%C3%BCrich%20HB%22%7D%2C%7B%22value%22%3A%228506788%22%2C%22type%22%3A%22ID%22%2C%22label%22%3A%22Unterwasser%2C%20Post%22%7D%5D&amp;time=%2208%3A00%22" target="_blank" rel="noopener">Zurich HB → Unterwasser, Post</a>)</p> <picture class="img" style="background: url(data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAARCAIAAABSJhvpAAACDElEQVR4nHxTwY7TMBCdsZ04bhNlUUpZIaEVJz6RMx&#43;HhDhw4Ac4LGKl3VZL6iSNvbYH2W5KYQUvJ2vmzXt5Hgsiur&#43;/R8S6rq21xlrOeQjh5WYDz7Db7ZxzUkpEbNtWAMA0TYhojCGA4zhWUiLnRAQAiLgQ42eMGcdRKSWljNXcBADzNHz99rP9&#43;Ond8IP6I354v1D&#43;CSSiEAIAaH0YJjPv9zUDH4htuqau13VNRGd9Soi0hGibMZYKsKqK8KJFpejpSR8OxphKKc75onTiLKdke7fbEZEQwntvjQUgpVTdNERUFMVlt7V2v98LIaSUTdNEZZ7iaZpmnudspJSyKIqF8huMsWwkT0Tvfbb9HDmLS1x2hhCibSLq&#43;14IobXu&#43;369Xnvvm6bpuu4yLWvt7e1tVVXW2uvra6UUxgGpnCzwGFwinDnnuwQA5xxLQIyqkfzw8BBC2G5fjYOejWGM5fsLIVRV1bbtwo1pz/Pc931ZlldXVyKfQwha91qP0zQpVRGRc857ny1EETytk/f&#43;8fGxbdtTIQ2F43H4/OW7ezq&#43;ea1ubt7mBfw/4rysoPVhOhp90KtVlXNmC7z3RVEkU2q73Z6Yl8rDMGh9IDrdUNd1Sqn882fbiPjHwhHR3d2dTS8xPo955pw75/LObDabuq6X5r8hAEApJYRYrVYhBCFE9lmWJSJebsVz/BoA5PtQFexLrrIAAAAASUVORK5CYII=); background-size: cover; display: inline;">               <source srcset='/images/events/2024-05-05-hike-and-grill/sbb1_hu_73b220c324666966.webp 457w, /images/events/2024-05-05-hike-and-grill/sbb1_hu_73b220c324666966.webp 457w'                       sizes="(max-width: 457px) 100vw, 457px"                       type="image/webp"               /><source srcset='/images/events/2024-05-05-hike-and-grill/sbb1_hu_bc1fa5572f7efedc.jpg 457w, /images/events/2024-05-05-hike-and-grill/sbb1_hu_bc1fa5572f7efedc.jpg 457w'                       sizes="(max-width: 457px) 100vw, 457px"                       type="image/jpeg"               /><img src="/images/events/2024-05-05-hike-and-grill/sbb1_hu_bc1fa5572f7efedc.jpg"                    width="457"                    height="382"                                                                                               /></picture> </li> <li> <p><strong>Back:</strong> based on our actual hiking time, around 17:00 - 18:00 back at Zürich HB</p> </li> </ul> <h2 id="planned-route">Planned route</h2> <ul> <li>10:42 - 12:10 Walk to grill place</li> <li>Grill</li> <li>14:00 - 15:20 Walk to Alt St. Johann, Dorf</li> </ul> <p><strong>Total distance:</strong> 12km  <strong>Expected duration:</strong> 4h  <strong>Uphill/downhill:</strong> 525m  <strong>Difficulty:</strong> Easy</p>
+UID:20240512T083000-hike-and-grill@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20240505T000000
+DTSTART:20240512T083000
+DTEND:20240512T180000
+LOCATION;ALTREP="https://grillstelle.ch/grillstellen/1456/graeppelensee-9657-alt-st-johann-switzerland/uebersicht":Grill place at Gräppelensee
+URL:https://cssz.ch/events/hike-and-grill/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Liquor Tasting 🥃
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/liquor-tasting/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/EATGGCHqgoyu4a9t9" target="_blank" rel="noopener">CAB D21</a> (the big space in the basement)\n<strong>Coordinator:</strong> Juraj Mičko (<a class="link" href="mailto:juraj.micko@cssz.ch" target="_blank" rel="noopener">juraj.micko@cssz.ch</a>, <a class="link" href="tel:&#43;41762639679">+41762639679</a>), Radim Urban (<a class="link" href="mailto:radim.urban@cssz.ch" target="_blank" rel="noopener">radim.urban@cssz.ch</a>)\n<strong>Registration:</strong> <a href="https://zurich.esn.ch/event/2946" target="_blank" rel="noopener">ESN Zurich</a>\n<strong>Notes:</strong>\n• <p>Updates:</p> <ul> <li><a class="link" href="https://zurich.esn.ch/event/2946" target="_blank" rel="noopener">Registration through ESN</a> is now open!</li> <li>We no longer accept bottles for free entry (the last collection is over)</li> </ul>\n\n<p>CSSZ invites you to a big food and liquor tasting event. Members of the association as well as non-members are equally welcome to join. We&rsquo;ll be tasting a variety of Czech, Slovak and Polish liquor specialties, including:</p> <ul> <li>Czech and Slovak liquor: Slivovice, Becherovka, TATRATEA, Fernet, Božkov, Magister, and many more</li> <li>Czech beer on tap</li> <li>a selection of Polish alcohol: Zoladkowa Gorzka, Zubrovka, Krupnik, Soplica, Bialy Bocian</li> <li>a selection of wine from the Czech region of Moravia and the Slovak region of Tokaj Some snacks will be provided, too.</li> </ul> <p>This event is organised in collaboration with <strong>ESN Zürich</strong>, and <a class="link" href="https://www.instagram.com/polana.zurich/" target="_blank" rel="noopener">Polana</a>.</p>
+UID:20240430T190000-liquor-tasting@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20240430T000000
+DTSTART:20240430T190000
+DTEND:20240430T220000
+LOCATION;ALTREP="https://maps.app.goo.gl/EATGGCHqgoyu4a9t9":CAB D21
+URL:https://cssz.ch/events/liquor-tasting/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Brave hike through Glarus Alps 🥾🏔️
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/brave-hike-glarus-alps/\n<strong>Location:</strong> <a href="https://en.mapy.cz/s/jesapohofu" target="_blank" rel="noopener">Engi to Filzbach</a>\n<strong>Coordinator:</strong> Juraj Mičko (<a class="link" href="mailto:juraj.micko@cssz.ch" target="_blank" rel="noopener">juraj.micko@cssz.ch</a>, <a class="link" href="tel:&#43;41762639679">+41762639679</a>)\n<strong>Registration:</strong> <a href="https://forms.gle/HjqrWxx82X2uRNfP7" target="_blank" rel="noopener">Google Form</a>\n<strong>Notes:</strong>\n• Due to snow and weather conditions we are changing the hike to a different location. Join <a class="link" href="https://chat.whatsapp.com/Dhd5xtmG19tJMQmwEmhUZ5" target="_blank" rel="noopener">this whatsapp group</a> to stay updated.\n\n<p>Do you have too much energy and want to spend it in the mountains? Then this hike is for you! We will start in Engi and hike through the Glarus Alps to Filzbach.</p> <p>The hike is estimated to be very <strong>difficult</strong>, so be prepared for a challenging day with a faster pace. We will meet at the Zurich HB at 8:00 and take the train to Engi. Since the starting and ending point are different, taking a shorter route on the day is not possible. Don&rsquo;t forget to bring enough water and food for the day.</p>
+UID:20240414T080000-brave-hike-glarus-alps@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20240414T000000
+DTSTART:20240414T080000
+DTEND:20240414T203000
+LOCATION;ALTREP="https://en.mapy.cz/s/jesapohofu":Engi to Filzbach
+URL:https://cssz.ch/events/brave-hike-glarus-alps/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Lunch in Polymensa
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/polymensa-spring24-2/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/2CJVFcinFu8wFiJQ8" target="_blank" rel="noopener">Mensa Polyterrasse</a>\n<strong>Coordinator:</strong> Juraj Mičko (<a class="link" href="mailto:juraj.micko@cssz.ch" target="_blank" rel="noopener">juraj.micko@cssz.ch</a>)\n\n<p>What a time saver! Meet your favourite people while you would be eating anyway!</p> <p>Join us for a brief lunch in the Polyterrasse Mensa. We&rsquo;ll be there from 13:00 to 14:00. Invite your friends to join, too!</p> <p><em>To find the group, <a class="link" href="https://wa.me/&#43;421907240239" target="_blank" rel="noopener">message Juraj on WhatsApp</a></em></p>
+UID:20240318T130000-polymensa-spring24-2@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20240318T000000
+DTSTART:20240318T130000
+DTEND:20240318T140000
+LOCATION;ALTREP="https://maps.app.goo.gl/2CJVFcinFu8wFiJQ8":Mensa Polyterrasse
+URL:https://cssz.ch/events/polymensa-spring24-2/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:StradivariFEST Antonín Dvořák
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/stradivarifest-concert/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/pKG4cJd23h1rSQYr8" target="_blank" rel="noopener">Kunsthaus Zürich</a>\n<strong>Coordinator:</strong> Zdeněk Šnajdr (<a class="link" href="mailto:zdenek.snajdr@cssz.ch" target="_blank" rel="noopener">zdenek.snajdr@cssz.ch</a>, <a class="link" href="tel:&#43;41762254840">+41762254840</a>)\n<strong>Registration:</strong> <a href="https://forms.gle/53T459kiKVssUwgH9" target="_blank" rel="noopener">Google Form</a>\n\n<p><strong>Price for students</strong>: 10 CHF</p> <p>The StradivariFEST is organising a concert with works by the Czech composer Antonín Dvořák.  <a class="link" href="https://stradivarifest.com/klangwellen/" target="_blank" rel="noopener">https://stradivarifest.com/klangwellen/</a></p> <p><strong>DVORAK 5</strong>  Serenade für Streicher in E-Dur, op. 22  Slawisce Tänze, op. 46/72</p> <p>Zürich | Kunsthaus Zürich | Chipperfield-Bau | Festsaal  Sunday, 17.3.2024  16.15 - Prélude with Urs Mattenberger  17.00 - Concert</p> <p><strong>Meetup at 16:30 in front of the Kunsthaus entrance.</strong></p> <p>Buy the ticket yourself on the official website.</p>
+UID:20240317T170000-stradivarifest-concert@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20240317T000000
+DTSTART:20240317T170000
+DTEND:20240317T210000
+LOCATION;ALTREP="https://maps.app.goo.gl/pKG4cJd23h1rSQYr8":Kunsthaus Zürich
+URL:https://cssz.ch/events/stradivarifest-concert/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Pub Quiz 💡 1️⃣
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/pub-quiz-spring24-1/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/e41czLvuTh6V6o9o9" target="_blank" rel="noopener">Cooper's Pub</a>\n<strong>Coordinator:</strong> Zdeněk Šnajdr (<a class="link" href="mailto:zdenek.snajdr@cssz.ch" target="_blank" rel="noopener">zdenek.snajdr@cssz.ch</a>, <a class="link" href="tel:&#43;41762254840">+41762254840</a>)\n<strong>Registration:</strong> <a href="https://forms.gle/mGHsZ5raeTXjcDet8" target="_blank" rel="noopener">Register here</a>\n\n<p>🎉 Like every semester, get ready for a brain-teasing, laughter-filled night of fun with your favourite people from CSSZ! Join us for this Spring semester&rsquo;s first Pub Quiz on March 11th at the one and only Cooper&rsquo;s Pub in Zurich! 🍻</p> <p>🏆 Put your knowledge to the test and compete with friends or make new ones as you tackle a wide range of exciting and diverse questions. From pop culture and history to sports and general knowledge, there&rsquo;s something for everyone.</p>
+UID:20240311T183000-pub-quiz-spring24-1@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20240311T000000
+DTSTART:20240311T183000
+DTEND:20240311T223000
+LOCATION;ALTREP="https://maps.app.goo.gl/e41czLvuTh6V6o9o9":Cooper's Pub
+URL:https://cssz.ch/events/pub-quiz-spring24-1/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Semester Welcome Event (Spring 2024)
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/welcome-event-spring24/\n<strong>Location:</strong> <a href="https://goo.gl/maps/bqDsM5dpDLDDRoGg8" target="_blank" rel="noopener">bQm Culture Café & Bar</a>\n<strong>Coordinator:</strong> Radim Urban (<a class="link" href="mailto:radim.urban@cssz.ch" target="_blank" rel="noopener">radim.urban@cssz.ch</a>)\n\n<p>Join us for a lively kick-off to the Spring semester 2024 at the bQm bar 🍻, where the Czech and Slovak Students in Zurich will meet up for a beer⭐. This is a great opportunity for both new and existing students to meet🤝. We look forward to seeing you there! 🎉</p>
+UID:20240229T190000-welcome-event-spring24@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20240229T000000
+DTSTART:20240229T190000
+DTEND:20240229T213000
+LOCATION;ALTREP="https://goo.gl/maps/bqDsM5dpDLDDRoGg8":bQm Culture Café & Bar
+URL:https://cssz.ch/events/welcome-event-spring24/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Lunch in Untere mensa
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/mensa-spring24-1/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/H1iUeh2DAa6N7djf6" target="_blank" rel="noopener">Mercato Mensa A (untere Mensa)</a>\n<strong>Coordinator:</strong> Juraj Mičko (<a class="link" href="mailto:juraj.micko@cssz.ch" target="_blank" rel="noopener">juraj.micko@cssz.ch</a>)\n\n<p>What a time saver! Meet your favourite people while you would be eating anyway!</p> <p>Join us for a brief lunch in the mensa. We&rsquo;ll be there from 12:30 to 13:30. Invite your friends to join, too!</p> <p><em>To find the group, <a class="link" href="https://wa.me/&#43;421907240239" target="_blank" rel="noopener">message Juraj on WhatsApp</a></em></p> <hr> <picture class="img" style="background: url(data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIAA8AFAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5&#43;gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4&#43;Tl5ufo6ery8/T19vf4&#43;fr/2gAMAwEAAhEDEQA/AKVz4i1DTbCK4a2DJO6eWV3Fg4VgB7HAHPfFM1LxLfW97aCaaO4aQFNySlgNyAkHJ9hz/Oreo2upm6lihSwurZAphS7DgKcDn5fQfz7Vzmt3VjbXcltf&#43;YjpHGYprZc7XwMnaxxg/wAutYqq3p1OiVGKd7aHWxeONZhXDXtvGWw&#43;37LvxkA9S2ffFP8A&#43;E&#43;1f/oI2/8A4Ar/APFV5HLqUk8hkLOGb73PemfbZP77/nV2n3JUqX8p/9k=); background-size: cover; display: inline;">             <source srcset='/images/events/2024-02-27-mensa-spring24-1/PXL_20240227_115742247_hu_7fb863e7256d13a1.webp 3280w, /images/events/2024-02-27-mensa-spring24-1/PXL_20240227_115742247_hu_7fb863e7256d13a1.webp 3280w, /images/events/2024-02-27-mensa-spring24-1/PXL_20240227_115742247_hu_528d583c59d3240a.webp 640w, /images/events/2024-02-27-mensa-spring24-1/PXL_20240227_115742247_hu_c9cce65ac617c036.webp 1024w, /images/events/2024-02-27-mensa-spring24-1/PXL_20240227_115742247_hu_2a67ddcbc72089ed.webp 1600w, /images/events/2024-02-27-mensa-spring24-1/PXL_20240227_115742247_hu_b9d1f0f44a7ecaa5.webp 2000w'                     sizes="(max-width: 3280px) 100vw, 3280px"                     type="image/webp"             /><source srcset='/images/events/2024-02-27-mensa-spring24-1/PXL_20240227_115742247_hu_dd3f4949072ea773.jpg 3280w, /images/events/2024-02-27-mensa-spring24-1/PXL_20240227_115742247_hu_dd3f4949072ea773.jpg 3280w, /images/events/2024-02-27-mensa-spring24-1/PXL_20240227_115742247_hu_835a8f13ea24931e.jpg 640w, /images/events/2024-02-27-mensa-spring24-1/PXL_20240227_115742247_hu_fc3a7dbd5761f768.jpg 1024w, /images/events/2024-02-27-mensa-spring24-1/PXL_20240227_115742247_hu_965e9c29be10de76.jpg 1600w, /images/events/2024-02-27-mensa-spring24-1/PXL_20240227_115742247_hu_7ec80b4a188aab02.jpg 2000w'                     sizes="(max-width: 3280px) 100vw, 3280px"                     type="image/jpeg"             /><img src="/images/events/2024-02-27-mensa-spring24-1/PXL_20240227_115742247_hu_dd3f4949072ea773.jpg"                  width="3280"                  height="2464"                                                                                     /></picture>
+UID:20240227T123000-mensa-spring24-1@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20240227T000000
+DTSTART:20240227T123000
+DTEND:20240227T133000
+LOCATION;ALTREP="https://maps.app.goo.gl/H1iUeh2DAa6N7djf6":Mercato Mensa A (untere Mensa)
+URL:https://cssz.ch/events/mensa-spring24-1/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Movie Night 🎥 & General Meeting 📊 (updated)
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/movie-night-general-meeting/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/FWonSBq7EU25zK9M6" target="_blank" rel="noopener">ETH Alumni Pavillon (MM C 78.1)</a>\n<strong>Coordinator:</strong> Radim Urban (<a class="link" href="mailto:radim.urban@cssz.ch" target="_blank" rel="noopener">radim.urban@cssz.ch</a>)\n<strong>Registration:</strong> <a href="https://forms.gle/MAhv2CrqSpdesr798" target="_blank" rel="noopener">Google Form</a>\n<strong>Notes:</strong>\n• This event was rescheduled from the original date of 10 November.\n\n<p>CSSZ invites you to a General Meeting followed by a Movie night.</p> <h2 id="general-meeting">General Meeting</h2> <p>The General Meeting will take place from <strong>18:30</strong> until <strong>19:30</strong>.</p> <p>If you have any points to discuss in the agenda, submit them in the registration form.</p> <h2 id="movie-night">Movie Night</h2> <p>Starting at <strong>19:30</strong>, we&rsquo;ll be watching the Czech movie <em>Vrchní, prchni!</em> with English subtitles. The movie is about Dalibor, a bookseller, who has financial issues. But one day, a drunk customer in a restaurant mistakes him for the waiter and pays the bill which becomes his trick to solve his money problems.</p>
+UID:20240109T183000-movie-night-general-meeting@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20240109T000000
+DTSTART:20240109T183000
+DTEND:20240109T213000
+LOCATION;ALTREP="https://maps.app.goo.gl/FWonSBq7EU25zK9M6":ETH Alumni Pavillon (MM C 78.1)
+URL:https://cssz.ch/events/movie-night-general-meeting/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:SWISS Ice Hockey Games 🏒 (SUI vs CZE)
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/swiss-ice-hockey-games/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/KEacxidfHCJcEDXp9" target="_blank" rel="noopener">Swiss Life Arena</a>\n<strong>Coordinator:</strong> Radim Urban (<a class="link" href="mailto:radim.urban@cssz.ch" target="_blank" rel="noopener">radim.urban@cssz.ch</a>), Aleš Kubiček (<a class="link" href="mailto:ales.kubicek@cssz.ch" target="_blank" rel="noopener">ales.kubicek@cssz.ch</a>)\n\n<p><strong>Ticket Purchase:</strong> You can buy your tickets <a class="link" href="https://www.sihf.ch/de/events/ticketmaster" target="_blank" rel="noopener">here</a> (ticketmaster). We recommend the student-friendly priced tickets (35 CHF) available in sector H (standing). Tickets also include an earlier match Finland vs. Sweden (day ticket).</p> <p>To join us for this event, simply purchase your ticket and meet us at the Swiss Life Arena on December 16th. It&rsquo;s a great opportunity to connect with fellow Czech and Slovak students, cheer for your favorite team, and experience the thrill of live ice hockey.</p>
+UID:20231216T180000-swiss-ice-hockey-games@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20231216T000000
+DTSTART:20231216T180000
+DTEND:20231216T210000
+LOCATION;ALTREP="https://maps.app.goo.gl/KEacxidfHCJcEDXp9":Swiss Life Arena
+URL:https://cssz.ch/events/swiss-ice-hockey-games/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Ski Day in the Jungfrau Region ⛷️
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/ski-day-grindelwald/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/up3LGyDZCfo4xbKd6" target="_blank" rel="noopener">Grindelwald/Wengen – Kleine Scheidegg/Männlichen</a>\n<strong>Coordinator:</strong> Juraj Mičko (<a class="link" href="mailto:juraj.micko@cssz.ch" target="_blank" rel="noopener">juraj.micko@cssz.ch</a>, <a class="link" href="tel:&#43;41762639679">+41762639679</a>)\n<strong>Registration:</strong> <a href="https://forms.gle/SwsKcgK4yThtn1M8A" target="_blank" rel="noopener">Registration form</a>\n\n<p>Join us for a day of skiing in the beautiful Jungfrau region! We will ski in the <em>Grindelwald/Wengen – Kleine Scheidegg/Männlichen</em> area, the <a class="link" href="https://www.skiresort.info/best-ski-resorts/jungfrau-region/" target="_blank" rel="noopener">best</a> and <a class="link" href="https://www.skiresort.info/ski-resorts/jungfrau-region/sorted/slope-length/" target="_blank" rel="noopener">biggest</a> ski resort in the Jungfrau region.</p> <p><strong>Price: 75 CHF</strong> to be paid by 15.11.2023, includes only the skipass. With a group of &gt;=10 people we get a discount price and return you 9 CHF.</p> <h2 id="travel">Travel</h2> <p>You need to book the travel <strong>yourself</strong>, individually. The following options are available (at the time of writing):</p>
+UID:20231210T060000-ski-day-grindelwald@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20231210T000000
+DTSTART:20231210T060000
+DTEND:20231210T193000
+LOCATION;ALTREP="https://maps.app.goo.gl/up3LGyDZCfo4xbKd6":Grindelwald/Wengen – Kleine Scheidegg/Männlichen
+URL:https://cssz.ch/events/ski-day-grindelwald/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Cold Water Dipping in Katzensee 🏊 & Protein Pancakes 🥞
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/cold-water-dipping-katzensee/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/sLzGELWx2HErX9Px5" target="_blank" rel="noopener">Katzensee</a>\n<strong>Coordinator:</strong> Juraj Mičko (<a class="link" href="mailto:juraj.micko@cssz.ch" target="_blank" rel="noopener">juraj.micko@cssz.ch</a>, <a class="link" href="tel:&#43;41762639679">+41762639679</a>), Emma Hubeková (<a class="link" href="mailto:emma.hubekova@cssz.ch" target="_blank" rel="noopener">emma.hubekova@cssz.ch</a>, <a class="link" href="tel:&#43;421949776209">+421 949 776 209</a>)\n<strong>Registration:</strong> <a href="https://wa.me/+421907240239" target="_blank" rel="noopener">Let Juraj know</a>\n\n<p>| Ever wondered how cold a lake can get in November? Survivable – try for yourself 😉</p> <p>Join us for an awesome and refreshing morning! We will meet at 9.15 at Katzensee and take a short dip in the lake. Just after the lake we will move to Juraj&rsquo;s place at <a class="link" href="https://maps.app.goo.gl/AjQWG4DPyCUNycLUA" target="_blank" rel="noopener">Bächlerstrasse 44</a> to enjoy some protein pancakes and hot tea.</p> <p>For those scared a little bit: The dip is not as terrible as it sounds. You can stay for as long as works for you, from just a couple seconds to minutes. If you don&rsquo;t mind being looked down on, you can also just skip the dip waiting us on the shore and join us for the pancakes afterward 😉.</p>
+UID:20231125T091500-cold-water-dipping-katzensee@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20231125T000000
+DTSTART:20231125T091500
+DTEND:20231125T110000
+LOCATION;ALTREP="https://maps.app.goo.gl/sLzGELWx2HErX9Px5":Katzensee
+URL:https://cssz.ch/events/cold-water-dipping-katzensee/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Meet'n'Dine: Plněné knedlíky uzeným se zelím
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/meetndine-autumn23/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/WpyMr8Uv8sHp9nEg9" target="_blank" rel="noopener">University of Zurich, KOL-K-Küche</a>\n<strong>Coordinator:</strong> Timon Fopp (<a class="link" href="mailto:timon.fopp@cssz.ch" target="_blank" rel="noopener">timon.fopp@cssz.ch</a>, <a class="link" href="tel:&#43;41783309888">+41783309888</a>), Emma Hubeková (<a class="link" href="mailto:emma.hubekova@cssz.ch" target="_blank" rel="noopener">emma.hubekova@cssz.ch</a>, <a class="link" href="tel:&#43;421949776209">+421 949 776 209</a>), Radim Urban (<a class="link" href="mailto:radim.urban@cssz.ch" target="_blank" rel="noopener">radim.urban@cssz.ch</a>)\n<strong>Registration:</strong> <a href="https://forms.gle/f2VQB4x8ZwvFjTDg6" target="_blank" rel="noopener">Google form</a>\n<strong>Notes:</strong>\n• Registration is now open. Please pay the registration fee within 2 days. Signup available till the 17th of October. Later only upon request per email.\n\n<p>CSSZ and <a class="link" href="https://jjurm.notion.site/Meet-n-Dine-c0d588aaa93046fe9724599c9ee62976?pvs=4" target="_blank" rel="noopener">Meet&rsquo;n&rsquo;Dine</a> invite you to a casual dinner with fellow students! Come join us and bring a friend!</p> <p>We&rsquo;ll be cooking a traditional Czech dish: <em>Plněné knedlíky uzeným se zelím (Stuffed dumplings with smoked cabbage)</em>.</p> <p>Please sign up in the google form provided above and pay the registration fee so that your sign up is definitive.</p> <p><strong>The registration fee is 12 CHF for CSSZ members and 15 CHF for non-members.</strong> The fee covers the cost of the ingredients and the drinks. Information on how to pay is at the end of the registration form.</p>
+UID:20231020T183000-meetndine-autumn23@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20231020T000000
+DTSTART:20231020T183000
+DTEND:20231020T220000
+LOCATION;ALTREP="https://maps.app.goo.gl/WpyMr8Uv8sHp9nEg9":University of Zurich, KOL-K-Küche
+URL:https://cssz.ch/events/meetndine-autumn23/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Hike in Stoos ⛰️
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/hike-in-stoos/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/PW8tQGxUkJ3ExpRn8" target="_blank" rel="noopener">Stoos</a>\n<strong>Coordinator:</strong> Aleš Kubiček (<a class="link" href="mailto:ales.kubicek@cssz.ch" target="_blank" rel="noopener">ales.kubicek@cssz.ch</a>), Emma Hubeková (<a class="link" href="mailto:emma.hubekova@cssz.ch" target="_blank" rel="noopener">emma.hubekova@cssz.ch</a>, <a class="link" href="tel:&#43;421949776209">+421 949 776 209</a>)\n<strong>Registration:</strong> <a href="https://forms.gle/EQH61naNDfpu3JAi7" target="_blank" rel="noopener">Google Form</a>\n<strong>Notes:</strong>\n• Details can still change based on the weather forecast.\n\n<p>CSSZ invites you and your friends to join a trip to the beautiful Swiss mountains around Stoos, which is planned for Saturday, 07.10.2023.</p> <dl> <dt><strong>Connection</strong></dt> <dd><ul> <li><strong>There:</strong> 8:33-10:17 (Zurich HB → Stoos SZ)</li> <li><strong>Back:</strong> based on our actual hiking time</li> </ul> </dd> <dt><strong>Planned route</strong></dt> <dd><ul> <li>Stoos (Stoosbahn)</li> <li>Klingenstock</li> <li>Huser Stock</li> <li>(Fronalpstock)</li> <li>Stoos (Stoosbahn)</li> </ul> </dd> </dl> <p><strong>Total distance:</strong> 12.9km  <strong>Expected duration:</strong> 5-6h  <strong>Uphill/downhill:</strong> 730m  <strong>Difficulty:</strong> Sportier - definitely have good shoes / clothes and a relatively good physique.</p> <p>The cable car ascending to Stoos, known as the <a class="link" href="https://www.stoos.ch/en/stories/stoosbahnen" target="_blank" rel="noopener">Stoosbahn funicular</a>, holds the record as the steepest funicular railway in the world with a maximum gradient of 110%, offering breathtaking panoramic views of the majestic Swiss Alps and providing an unforgettable experience for visitors.</p>
+UID:20231007T083000-hike-in-stoos@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20231007T000000
+DTSTART:20231007T083000
+DTEND:20231007T180000
+LOCATION;ALTREP="https://maps.app.goo.gl/PW8tQGxUkJ3ExpRn8":Stoos
+URL:https://cssz.ch/events/hike-in-stoos/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Pub Quiz 💡
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/pub-quiz-autumn23-1/\n<strong>Location:</strong> <a href="https://goo.gl/maps/v75ZzHko9jK8pfGG6" target="_blank" rel="noopener">Oliver Twist Pub</a>\n<strong>Coordinator:</strong> Zdeněk Šnajdr (<a class="link" href="mailto:zdenek.snajdr@cssz.ch" target="_blank" rel="noopener">zdenek.snajdr@cssz.ch</a>, <a class="link" href="tel:&#43;41762254840">+41762254840</a>)\n<strong>Registration:</strong> <a href="https://forms.gle/hW3eTJUBdJS137117" target="_blank" rel="noopener">Register Here!</a>\n\n<p>🎉 Get ready for a brain-teasing, laughter-filled night of fun! Join us for this semester&rsquo;s first Pub Quiz on October 2nd at the one and only Oliver Twist Pub in Zurich! 🍻</p> <p>🏆 Put your knowledge to the test and compete with friends or make new ones as you tackle a wide range of exciting and diverse questions. From pop culture and history to sports and general knowledge, there&rsquo;s something for everyone.</p>
+UID:20231002T183000-pub-quiz-autumn23-1@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20231002T000000
+DTSTART:20231002T183000
+DTEND:20231002T223000
+LOCATION;ALTREP="https://goo.gl/maps/v75ZzHko9jK8pfGG6":Oliver Twist Pub
+URL:https://cssz.ch/events/pub-quiz-autumn23-1/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Semester Welcome Event (Autumn 2023)
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/welcome-event-autumn23/\n<strong>Location:</strong> <a href="https://goo.gl/maps/bqDsM5dpDLDDRoGg8" target="_blank" rel="noopener">bQm Culture Café & Bar</a>\n<strong>Coordinator:</strong> Radim Urban (<a class="link" href="mailto:radim.urban@cssz.ch" target="_blank" rel="noopener">radim.urban@cssz.ch</a>)\n\n<p>Join us for a lively kick-off to the Autumn semester 2023 at the <strong>bQm</strong> bar 🍻, where the Czech and Slovak Students in Zurich will host a warm welcome event 🌟. This meetup provides an excellent opportunity for both new and existing students to come together, connect, and make friends 🤝. Don&rsquo;t miss this chance to expand your social circle and make lasting memories with fellow students. We look forward to seeing you there! 🎉</p>
+UID:20230929T190000-welcome-event-autumn23@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20230929T000000
+DTSTART:20230929T190000
+DTEND:20230929T210000
+LOCATION;ALTREP="https://goo.gl/maps/bqDsM5dpDLDDRoGg8":bQm Culture Café & Bar
+URL:https://cssz.ch/events/welcome-event-autumn23/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:VSUZH Activity Fair – Day 1
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/uzh-activity-fair/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/qGfTv7kCa4gTFp239" target="_blank" rel="noopener">Atrium UZH center</a>\n<strong>Coordinator:</strong> Radim Urban (<a class="link" href="mailto:radim.urban@cssz.ch" target="_blank" rel="noopener">radim.urban@cssz.ch</a>), Timon Fopp (<a class="link" href="mailto:timon.fopp@cssz.ch" target="_blank" rel="noopener">timon.fopp@cssz.ch</a>, <a class="link" href="tel:&#43;41783309888">+41783309888</a>)\n\n<p>Come and support CSSZ at the VSUZH Activity Fair!</p> <p>This is the right place to learn and ask in person who we are, what we do, how to join us and how to help our efforts.</p> <h2 id="vsuzh-activity-fair">VSUZH Activity Fair</h2> <p>Do you have a passion and want to share it with other students? Looking for experiences that complement the knowledge you gained during your studies? The VSUZH Activity Fair is THE fair for student engagement at the University of Zurich.</p>
+UID:20230927T083000-uzh-activity-fair@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20230927T000000
+DTSTART:20230927T083000
+DTEND:20230927T163000
+LOCATION;ALTREP="https://maps.app.goo.gl/qGfTv7kCa4gTFp239":Atrium UZH center
+URL:https://cssz.ch/events/uzh-activity-fair/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:VSUZH Activity Fair – Day 2
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/uzh-activity-fair/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/rfFmoPU4MLPzuTpj8" target="_blank" rel="noopener">Lichthof UZH Irchel</a>\n<strong>Coordinator:</strong> Radim Urban (<a class="link" href="mailto:radim.urban@cssz.ch" target="_blank" rel="noopener">radim.urban@cssz.ch</a>), Timon Fopp (<a class="link" href="mailto:timon.fopp@cssz.ch" target="_blank" rel="noopener">timon.fopp@cssz.ch</a>, <a class="link" href="tel:&#43;41783309888">+41783309888</a>)\n\n<p>Come and support CSSZ at the VSUZH Activity Fair!</p> <p>This is the right place to learn and ask in person who we are, what we do, how to join us and how to help our efforts.</p> <h2 id="vsuzh-activity-fair">VSUZH Activity Fair</h2> <p>Do you have a passion and want to share it with other students? Looking for experiences that complement the knowledge you gained during your studies? The VSUZH Activity Fair is THE fair for student engagement at the University of Zurich.</p>
+UID:20230928T083000-uzh-activity-fair-2@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20230927T000000
+DTSTART:20230928T083000
+DTEND:20230928T163000
+LOCATION;ALTREP="https://maps.app.goo.gl/rfFmoPU4MLPzuTpj8":Lichthof UZH Irchel
+URL:https://cssz.ch/events/uzh-activity-fair/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:End-of-Semester Grill
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/semester-end-grill/\n<strong>Location:</strong> <a href="https://goo.gl/maps/HdceYG2k6ZYHPbJ27" target="_blank" rel="noopener">Grillplätze behind ASVZ at ETH Hönggerberg</a>\n<strong>Coordinator:</strong> Radim Urban (<a class="link" href="mailto:radim.urban@cssz.ch" target="_blank" rel="noopener">radim.urban@cssz.ch</a>)\n<strong>Registration:</strong> <a href="https://forms.gle/cCJf8X7j5JFTzYpj9" target="_blank" rel="noopener">Sign up!</a>\n<strong>Notes:</strong>\n• Tne entrance is free for both members and non-members. However, student-friendly prices will be charged to cover costs for food and drinks. Only <strong>Twint</strong> payment is possible (through QR code).\n\nCome and enjoy grill with beer!
+UID:20230602T170000-semester-end-grill@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20230602T000000
+DTSTART:20230602T170000
+DTEND:20230602T210000
+LOCATION;ALTREP="https://goo.gl/maps/HdceYG2k6ZYHPbJ27":Grillplätze behind ASVZ at ETH Hönggerberg
+URL:https://cssz.ch/events/semester-end-grill/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:General Meeting
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/general-meeting-fs23/\n<strong>Location:</strong> <a href="https://goo.gl/maps/FtCu7zEVgUQDtro58" target="_blank" rel="noopener">UZH KO2-G-275</a>\n<strong>Coordinator:</strong> Radim Urban (<a class="link" href="mailto:radim.urban@cssz.ch" target="_blank" rel="noopener">radim.urban@cssz.ch</a>)\n\nOn May 25th we will host a General Meeting (GM). We will look back at our activities this semester, discuss the direction the society should take and elect a new board. Vu Nguyen, who held the Finance &amp; Legal Matters position in the association, will be leaving the current board. In addition to this position, we want to open one new position and increase the number of members to 5.
+UID:20230525T180000-general-meeting-fs23@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20230525T000000
+DTSTART:20230525T180000
+DTEND:20230525T200000
+LOCATION;ALTREP="https://goo.gl/maps/FtCu7zEVgUQDtro58":UZH KO2-G-275
+URL:https://cssz.ch/events/general-meeting-fs23/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Cambridge <> Zurich Exchange
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/cambridge-zurich-exchange/\n<strong>Location:</strong> <a href="https://goo.gl/maps/9LEBPFM8ZyfotawJ6" target="_blank" rel="noopener">Cambrige, UK</a>\n<strong>Coordinator:</strong> Juraj Mičko (<a class="link" href="mailto:juraj.micko@cssz.ch" target="_blank" rel="noopener">juraj.micko@cssz.ch</a>, <a class="link" href="tel:&#43;41762639679">+41762639679</a>), Radim Urban (<a class="link" href="mailto:radim.urban@cssz.ch" target="_blank" rel="noopener">radim.urban@cssz.ch</a>)\n<strong>Registration:</strong> <a href="https://forms.gle/4LBqwbPfhBqG23SE6" target="_blank" rel="noopener">Application Form</a>\n<strong>Notes:</strong>\n• UPDATE: Selection has been announced. The date of Cambridge students coming to Zurich will be changed. First part of exchange (in Cambridge) stays in May as planned.\n\n<p>Collaboration between <a class="link" href="https://cucss.uk/" target="_blank" rel="noopener"><strong>Cambridge University Czech and Slovak Society (CUCSS)</strong></a> and <strong>Czech and Slovak Students in Zurich (CSSZ)</strong> brings an opportunity for members of the two societies to visit the other city.</p> <p>Each of the two societies chooses <strong>8 members</strong> to be part of the programme, who will then be paired based on interests. Participants of this programme will host their paired peer (a member of CUCSS) in Zurich for 4 days in exchange to be hosted in Cambridge.</p>
+UID:20230513T120000-cambridge-zurich-exchange@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20230513T000000
+DTSTART:20230513T120000
+DTEND:20230516T120000
+LOCATION;ALTREP="https://goo.gl/maps/9LEBPFM8ZyfotawJ6":Cambrige, UK
+URL:https://cssz.ch/events/cambridge-zurich-exchange/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Goldau-Unterägeri Hike
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/goldau-hike/\n<strong>Location:</strong> <a href="https://en.mapy.cz/s/mumenunema" target="_blank" rel="noopener">Route</a>\n<strong>Coordinator:</strong> Radim Urban (<a class="link" href="mailto:radim.urban@cssz.ch" target="_blank" rel="noopener">radim.urban@cssz.ch</a>)\n<strong>Registration:</strong> <a href="https://docs.google.com/forms/d/e/1FAIpQLSeOCLtB4infagcGayZErxCqL7-doxOUA4sMS0QsbPJr56mLEQ/viewform" target="_blank" rel="noopener">Google Form</a>\n\n<h2 id="invitation">Invitation</h2> <p>CSSZ invites you and your friends to join a semester hike from <em>Goldau-Unterägeri</em>, which is planned for Saturday, 06.05.2023. Come and enjoy hiking in the beautiful nature with our society!</p> <h2 id="difficulty">Difficulty</h2> <p>Easy to sporty - about 1000m up and 850m down - but 15.6km, so nothing terrible.</p> <h2 id="transport-connection">Transport connection</h2> <p>We&rsquo;ll take a direct train to Goldau:</p> <picture class="img" style="background: url(data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAADCAIAAAAcOLh5AAAAXUlEQVR4nIzKQQ4CIQxGYaZDm8iCBfe/ll6DBKr8pFRdsTNxvu17sdbKzAB8rU8IpRRmDtdQzvk86TXe8XG/PfuYs7fm7gBU1cz2&#43;cOhqiJiZhM4iFJKIrLrH98BAE57KyuNVczCAAAAAElFTkSuQmCC); background-size: cover; display: inline;">             <source srcset='/images/events/2023-05-06-goldau-hike/conn_hu_59175f8e1946036a.webp 1948w, /images/events/2023-05-06-goldau-hike/conn_hu_59175f8e1946036a.webp 1948w, /images/events/2023-05-06-goldau-hike/conn_hu_3f664cfdc1407f5f.webp 640w, /images/events/2023-05-06-goldau-hike/conn_hu_b1d1ced979023999.webp 1024w, /images/events/2023-05-06-goldau-hike/conn_hu_1c11622c8222b916.webp 1600w'                     sizes="(max-width: 1948px) 100vw, 1948px"                     type="image/webp"             /><source srcset='/images/events/2023-05-06-goldau-hike/conn_hu_c1163def28637d5a.jpg 1948w, /images/events/2023-05-06-goldau-hike/conn_hu_c1163def28637d5a.jpg 1948w, /images/events/2023-05-06-goldau-hike/conn_hu_aeeb525188345ac8.jpg 640w, /images/events/2023-05-06-goldau-hike/conn_hu_12a68d6a237d22ef.jpg 1024w, /images/events/2023-05-06-goldau-hike/conn_hu_d7e56832fa10810a.jpg 1600w'                     sizes="(max-width: 1948px) 100vw, 1948px"                     type="image/jpeg"             /><img src="/images/events/2023-05-06-goldau-hike/conn_hu_c1163def28637d5a.jpg"                  width="1948"                  height="318"                                                                                     /></picture> <p>And we&rsquo;ll take a bus and train on the way back from Unterägeri (ca. 1:15, one transfer)</p>
+UID:20230506T080000-goldau-hike@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20230506T000000
+DTSTART:20230506T080000
+DTEND:20230506T170000
+LOCATION;ALTREP="https://en.mapy.cz/s/mumenunema":Route
+URL:https://cssz.ch/events/goldau-hike/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Pub Quiz 💡
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/pub-quiz/\n<strong>Location:</strong> <a href="https://goo.gl/maps/v75ZzHko9jK8pfGG6" target="_blank" rel="noopener">Oliver Twist Pub</a>\n<strong>Coordinator:</strong> Zdeněk Šnajdr (<a class="link" href="mailto:zdenek.snajdr@cssz.ch" target="_blank" rel="noopener">zdenek.snajdr@cssz.ch</a>, <a class="link" href="tel:&#43;41762254840">+41762254840</a>)\n<strong>Registration:</strong> <a href="https://docs.google.com/forms/d/e/1FAIpQLSfNhNTpeebae63QRmSVvDOE1qRqLo8deM-tqPSryzO8iLqaGg/viewform" target="_blank" rel="noopener">Register Here!</a>\n\n<blockquote> <p>🎉 Are you ready for a night of fun, laughter, and friendly competition? Join us on <strong>April 3rd</strong> for a <strong>pub quiz</strong> at the Oliver Twist Pub in Zurich! 🍻</p> <p>💡 Gather your friends and test your knowledge on a wide range of topics, including history, pop culture, sports, and more. So whether you&rsquo;re a trivia buff or just looking for a fun night out, we hope to see you at the Oliver Twist Pub on April 3rd. Don&rsquo;t forget to bring your A-game! 🔥</p> </blockquote>
+UID:20230403T183000-pub-quiz@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20230403T000000
+DTSTART:20230403T183000
+DTEND:20230403T223000
+LOCATION;ALTREP="https://goo.gl/maps/v75ZzHko9jK8pfGG6":Oliver Twist Pub
+URL:https://cssz.ch/events/pub-quiz/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Wine Tasting 🍷
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/wine-tasting/\n<strong>Location:</strong> <a href="https://goo.gl/maps/2JV26xf42Un76h5o8" target="_blank" rel="noopener">Holderbachweg 6</a>\n<strong>Coordinator:</strong> Timon Fopp (<a class="link" href="mailto:timon.fopp@cssz.ch" target="_blank" rel="noopener">timon.fopp@cssz.ch</a>, <a class="link" href="tel:&#43;41783309888">+41783309888</a>)\n\n<blockquote> <p><em>CZ:</em> <strong>Degustace vína:</strong> V sobotu degustace vína, ať se nám to hýbá, po červeném se zpívá, po bílém se stmívá, přijď a nebuď kůže lína, máme tady litry vína.</p> </blockquote> <blockquote> <p><em>EN:</em> <strong>Wine Tasting:</strong> Wine tasting on Saturday, let&rsquo;s keep it moving, after the red it sings, after the white it gets dark, come and don&rsquo;t be lazy, we have litres of wine.</p> </blockquote>
+UID:20230318T190000-wine-tasting@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20230318T000000
+DTSTART:20230318T190000
+DTEND:20230318T230000
+LOCATION;ALTREP="https://goo.gl/maps/2JV26xf42Un76h5o8":Holderbachweg 6
+URL:https://cssz.ch/events/wine-tasting/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Ski Trip Meiringen-Hasliberg
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/ski-trip-meiringen/\n<strong>Location:</strong> <a href="https://goo.gl/maps/e4daKdBtuV7WTcSL6" target="_blank" rel="noopener">CVJM Zentrum Hasliberg</a>\n<strong>Coordinator:</strong> Vu Nguyen (<a class="link" href="mailto:vu.nguyen@cssz.ch" target="_blank" rel="noopener">vu.nguyen@cssz.ch</a>, <a class="link" href="tel:&#43;41762800264">+41762800264</a>), Juraj Mičko (<a class="link" href="mailto:juraj.micko@cssz.ch" target="_blank" rel="noopener">juraj.micko@cssz.ch</a>, <a class="link" href="tel:&#43;41762639679">+41762639679</a>)\n<strong>Registration:</strong> <a href="https://forms.gle/5Dt235PPThsQgghz6" target="_blank" rel="noopener">Google Form</a>\n\n<p>Join us for two days of skiing at the beginning of the Spring Semester!</p> <p><strong>Price: 270 CHF</strong> (or 240 CHF if you have HalbTax; or 210 CHF if you have GA) to be paid by 19.2.2023  <strong>Participants:</strong> 10-15</p> <h2 id="what-is-included">What is included</h2> <p><strong>Included in the price:</strong></p> <ul> <li>Ski pass (116 CHF value for 2 days)</li> <li>2-nights accommodation in a private chalet (bed linen included, self-cleaning at the end)</li> <li>Train ticket (leaving at 16.10 from Zurich HB, arriving at 19:50 at Zurich HB)</li> <li>Raclette dinner (self-organised)</li> </ul> <p><strong>Not included in the price:</strong></p>
+UID:20230303T160000-ski-trip-meiringen@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20230303T000000
+DTSTART:20230303T160000
+DTEND:20230305T200000
+LOCATION;ALTREP="https://goo.gl/maps/e4daKdBtuV7WTcSL6":CVJM Zentrum Hasliberg
+URL:https://cssz.ch/events/ski-trip-meiringen/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Spring bQm 🍺
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/spring-23-bqm/\n<strong>Location:</strong> <a href="https://goo.gl/maps/bqDsM5dpDLDDRoGg8" target="_blank" rel="noopener">bQm Culture Café & Bar</a>\n<strong>Coordinator:</strong> Timon Fopp (<a class="link" href="mailto:timon.fopp@cssz.ch" target="_blank" rel="noopener">timon.fopp@cssz.ch</a>, <a class="link" href="tel:&#43;41783309888">+41783309888</a>)\n\n<blockquote> <p><em>CZ:</em> Ahooj! Doufám že neumíráte hlady, nový semestr je tady :D Kdo má ve čtvrtek zájem a čas, ať dorazí na první sraz v 7 večer v bQm, na pokec a za pivem 🥳</p> </blockquote> <blockquote> <p><em>EN:</em> Hello! I hope you are not starving, the new semester is here :D Anyone who is interested and has time on Thursday should come to the first meeting at 7 in the evening at bQm, for a chat and a beer 🥳</p> </blockquote>
+UID:20230223T190000-spring-23-bqm@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20230223T000000
+DTSTART:20230223T190000
+DTEND:20230223T210000
+LOCATION;ALTREP="https://goo.gl/maps/bqDsM5dpDLDDRoGg8":bQm Culture Café & Bar
+URL:https://cssz.ch/events/spring-23-bqm/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Baking Christmas Cookies
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/cookies/\n<strong>Location:</strong> UZH Kol-K-Küche\n<strong>Coordinator:</strong> Daniel Mareda (<a class="link" href="mailto:daniel.mareda@gmail.com" target="_blank" rel="noopener">daniel.mareda@gmail.com</a>)\n<strong>Registration:</strong> <a href="https://forms.gle/Efam3mejYc8JaD2i6" target="_blank" rel="noopener">Google Form</a>\n\n<p>We invite you to come in these stressful times and get your deserved reward. Enjoy the two most important things about christmas: Gingerbread and Hotwine. We will bake the traditional christmas cookies, decorate them and drink some hot wine on side. Entry 5CHF.</p> <picture class="img" style="background: url(data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAHCAIAAACHqfpvAAABEElEQVR4nJRQMU/zMBC9u8RJGjft9y0MDIhuqP//L7CwgwRMwIDUipI4Tlpi3x1ypCIx8mz52X56fr7LdQaAwoxECoh43gICJgHSJQszc2GKdAZI5tbtOYYszxEwxkCUISFhJsKRg63XnfeNbZb10nnX&#43;&#43;7q8lpVEZHSC6pIlBIwLaISQ4AUDiKiIk8vD&#43;/7NwDYH3bPr49wRo6IVWlZ4vwvaOz/RLMWY/hnzDCODNM4eRH56Hb96TCMg62tguJc8JwOEGNsXWfr2g2OgI7hJCy2qlfNiohc393d32o2bS62N5stIv6Y02xd64&#43;&#43;NKUpTGUqVh7GoTTlulmn1vSfX&#43;FUGGOyclEtMsp/mf86vgcADvqaOKHYSl8AAAAASUVORK5CYII=); background-size: cover; display: inline;">             <source srcset='/images/events/2022-12-19-cookies/cookies_hu_9a4c82ed89ad5804.webp 4452w, /images/events/2022-12-19-cookies/cookies_hu_9a4c82ed89ad5804.webp 4452w, /images/events/2022-12-19-cookies/cookies_hu_724a96fbf56ebcff.webp 640w, /images/events/2022-12-19-cookies/cookies_hu_a8a4fd85664e4a80.webp 1024w, /images/events/2022-12-19-cookies/cookies_hu_3d734f8c73ec4ea7.webp 1600w, /images/events/2022-12-19-cookies/cookies_hu_5bb917d115412285.webp 2000w, /images/events/2022-12-19-cookies/cookies_hu_fb344faf9c3ed652.webp 4000w'                     sizes="(max-width: 4452px) 100vw, 4452px"                     type="image/webp"             /><source srcset='/images/events/2022-12-19-cookies/cookies_hu_291ff9c06dea2571.jpg 4452w, /images/events/2022-12-19-cookies/cookies_hu_291ff9c06dea2571.jpg 4452w, /images/events/2022-12-19-cookies/cookies_hu_a833dc1c685e2d0e.jpg 640w, /images/events/2022-12-19-cookies/cookies_hu_7e9ab26879b3022e.jpg 1024w, /images/events/2022-12-19-cookies/cookies_hu_309996e89976e0f0.jpg 1600w, /images/events/2022-12-19-cookies/cookies_hu_aa7c9ab0a2c783cb.jpg 2000w, /images/events/2022-12-19-cookies/cookies_hu_86fd61d30f974050.jpg 4000w'                     sizes="(max-width: 4452px) 100vw, 4452px"                     type="image/jpeg"             /><img src="/images/events/2022-12-19-cookies/cookies_hu_291ff9c06dea2571.jpg"                  width="4452"                  height="1622"                                                                                     /></picture>
+UID:20221219T180000-cookies@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20221219T000000
+DTSTART:20221219T180000
+DTEND:20221219T220000
+LOCATION:UZH Kol-K-Küche
+URL:https://cssz.ch/events/cookies/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:General Meeting with Afterparty🇨🇿🇸🇰
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/semester-meet-up-hs22/\n<strong>Location:</strong> <a href="https://www.google.com/maps/place/R%C3%A4mistrasse+59,+8001+Z%C3%BCrich/@47.3721109,8.549581,19z/data=!3m1!4b1!4m5!3m4!1s0x479aa0ae934941d3:0x3324d67e2e8d5700!8m2!3d47.3721109!4d8.5501282" target="_blank" rel="noopener">UZH RAA-E-30</a>\n<strong>Coordinator:</strong> Timon Fopp (<a class="link" href="mailto:timon.fopp@cssz.ch" target="_blank" rel="noopener">timon.fopp@cssz.ch</a>, <a class="link" href="tel:&#43;41783309888">+41783309888</a>), Radim Urban (<a class="link" href="mailto:radim.urban@cssz.ch" target="_blank" rel="noopener">radim.urban@cssz.ch</a>), René Čáky (<a class="link" href="mailto:rene.caky@cssz.ch" target="_blank" rel="noopener">rene.caky@cssz.ch</a>)\n\n<p>Thank You everyone for coming. The most important news from the General Meeting: Timon Fopp has been elected to replace Šimon Hrabec in the board since he resigned from the function.</p> <p>We hope you enjoyed the afterparty! :)</p> <picture class="img" style="background: url(data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAIAAADwazoUAAACIElEQVR4nEyRXUsVXxTGnzWz97ydVxXPX/&#43;Wip4SLMnqog7WRRdKdFEUfYM&#43;RvRduqwLISiCLsSCKIgIIYSMUBJfktN5c8Yzzszee8UoRGs9/O5&#43;PLCWeCzvRMQRUQSEyBkxInNKOmIYnA6d5N8l4RlWRMqizHAGaJAyJ2TWRIooZmNRbjKDGZZFRGQMM0O4BilrG8q3/VSrPrQNS0PZkIa1ASw4mpO8CRKwtFF5BSRBCoF0Yu68nPxv5eXr/8dmFh8s9KJYDpba3aPEolibV2/Wbi7NDw9XdvdaAA0NlQsF7/vGzvLye/seTVXPjT988UQ3k&#43;hXd&#43;HRolHm4o0LWaKmZ8fnrtZ/bu7fvd&#43;oz4xFYdxuR/X6aKMxk2a8&#43;nabnmIpDYLBW5cSorWVNTNQOEx1J85MOWj1k9QRibC3u&#43;GZyalabSgMj0eHR5qdSIrK6scdeo7bIbiFOARl8DvI2C9hsLy5e5AJt6d0G6o6WjN&#43;6dvWb0cOVCs1WAWlvFbbFi6giKpWUQARKDbp2SvT1dmJ8Nm7icZ8K0o&#43;f/lx7frlRPrrm5&#43;OVXm/yfnt4ABl4eVfoVTDATlkBeyFW51uK0NfrK9sHJFjm/LXD83Y9gKMJFw0FAABUGQuChcyg5WBFGzFpCB6e/3eXuwgkJAC0oHTOVARsiIqhr3j3DyNJzzYKpftvymQYBKHRmQQCo6CUyKX4DK7HnwFT8EDHED8GQD7gwte&#43;b4aewAAAABJRU5ErkJggg==); background-size: cover; display: inline;">             <source srcset='/images/events/2022-11-12-gm/gm_hu_436ed401751f51d9.webp 1920w, /images/events/2022-11-12-gm/gm_hu_436ed401751f51d9.webp 1920w, /images/events/2022-11-12-gm/gm_hu_af9a48482a6016d3.webp 640w, /images/events/2022-11-12-gm/gm_hu_43937b812cfe95d7.webp 1024w, /images/events/2022-11-12-gm/gm_hu_fb3447d33b432fe5.webp 1600w'                     sizes="(max-width: 1920px) 100vw, 1920px"                     type="image/webp"             /><source srcset='/images/events/2022-11-12-gm/gm_hu_6696b757d2a177c1.jpg 1920w, /images/events/2022-11-12-gm/gm_hu_6696b757d2a177c1.jpg 1920w, /images/events/2022-11-12-gm/gm_hu_fb0bc535d60bb9ed.jpg 640w, /images/events/2022-11-12-gm/gm_hu_c1186d6150fe0343.jpg 1024w, /images/events/2022-11-12-gm/gm_hu_6122eeb651e84305.jpg 1600w'                     sizes="(max-width: 1920px) 100vw, 1920px"                     type="image/jpeg"             /><img src="/images/events/2022-11-12-gm/gm_hu_6696b757d2a177c1.jpg"                  width="1920"                  height="1080"                                                                                     /></picture> <hr> <p>According to the statutes, we are convening a General Meeting on 12.11.2022. We will briefly present our activities and plans for the future, followed by an afterparty. Snacks and drinks will be provided. Come, help us get better and enjoy a true Czechoslovakian party!</p>
+UID:20221112T180000-semester-meet-up-hs22@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20221112T000000
+DTSTART:20221112T180000
+DTEND:20221112T230000
+LOCATION;ALTREP="https://www.google.com/maps/place/R%C3%A4mistrasse+59,+8001+Z%C3%BCrich/@47.3721109,8.549581,19z/data=!3m1!4b1!4m5!3m4!1s0x479aa0ae934941d3:0x3324d67e2e8d5700!8m2!3d47.3721109!4d8.5501282":UZH RAA-E-30
+URL:https://cssz.ch/events/semester-meet-up-hs22/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Meet'n'Dine
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/meet-n-dine-2/\n<strong>Location:</strong> University of Zurich, KOL-K-Küche\n<strong>Coordinator:</strong> Juraj Mičko (<a class="link" href="mailto:juraj.micko@cssz.ch" target="_blank" rel="noopener">juraj.micko@cssz.ch</a>, <a class="link" href="tel:&#43;41762639679">+41762639679</a>)\n<strong>Registration:</strong> <a href="https://zurich.esn.ch/index.php?file=addViewEventsRegister.php&evId=2642" target="_blank" rel="noopener">ESN Zürich</a>\n<strong>Notes:</strong>\n• This event was rescheduled from 19. Oct to 9. Nov due to venue availability.\n\n<p>CSSZ and <a class="link" href="https://www.notion.so/jjurm/Meet-n-Dine-c0d588aaa93046fe9724599c9ee62976" target="_blank" rel="noopener">Meet&rsquo;n&rsquo;Dine</a> invite you to a casual dinner with fellow students in the cosy environment of a student flat. Come join us and bring a friend!</p> <p>We&rsquo;ll be cooking a traditional Slovak dish: <em>Bryndzové halušky</em>. Stay tuned and follow this page for further details.</p> <p>See the previous event of the Meet&rsquo;n&rsquo;Dine series <a class="link" href="https://cssz.ch/events/meet-n-dine/">here</a>.</p>
+UID:20221109T183000-meet-n-dine-2@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20221109T000000
+DTSTART:20221109T183000
+DTEND:20221109T220000
+LOCATION:University of Zurich, KOL-K-Küche
+URL:https://cssz.ch/events/meet-n-dine-2/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Hike 🥾 from Uetliberg to Thalwil
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/hike-uetliberg-thalwil/\n<strong>Location:</strong> <a href="https://goo.gl/maps/LAgraK7pxk82yfbe7" target="_blank" rel="noopener">Zurich Triemli</a>\n<strong>Coordinator:</strong> Emma Hubeková (<a class="link" href="mailto:emma.hubekova@cssz.ch" target="_blank" rel="noopener">emma.hubekova@cssz.ch</a>, <a class="link" href="tel:&#43;421949776209">+421 949 776 209</a>), Vu Nguyen (<a class="link" href="mailto:vu.nguyen@cssz.ch" target="_blank" rel="noopener">vu.nguyen@cssz.ch</a>, <a class="link" href="tel:&#43;41762800264">+41762800264</a>)\n<strong>Registration:</strong> <a href="https://docs.google.com/forms/d/e/1FAIpQLSfL6-gjaGNdOr1Ijl3vDFkh4wXbmOZ_qGM2vC5ujJOXwTFfCA/viewform" target="_blank" rel="noopener">Google Form</a>\n\n<p>Thank You everyone for joining us! You can see some photos from the hike below or the album <a class="link" href="https://photos.app.goo.gl/5VGVbvPTzKh7zBF26" target="_blank" rel="noopener">here!</a></p> <picture class="img" style="background: url(data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAIAAACgpqunAAADY0lEQVR4nABWA6n8BMrDqwoFAf78&#43;wQFCwcFAf0AAvD09/748Ozw8isgFej2BO709iIZFgH&#43;/fj6AQ8PFObk1PH19P0DCPb5&#43;gTs7Oz8//4pISbo8PHt8u4iGRgcEAP&#43;AhsZFhb89/Dy9ffz9vvk7u8IAf0IBP7n7PAOEBQXDAXo&#43;AUAAvUCAP/68vgB9fj&#43;DQ4V9/b52&#43;Pm&#43;PYC&#43;/j4/fjw3uPuEQT/GRAI9O3x5&#43;zz6fT9AwEE8f4M/AgVCP7x&#43;vXyAgwRFQ8ODO/y8g0IAx0QDwb/Ac/X6fnz/AYHBgsaIhgVD/r5&#43;wD7/gQFAQP/BPf399f6F872GvwGCxoVDANQUD36/QQfGR7v7ubv9fQBAgDu8Pn8EA0H/vbbASf4/wYcDv8FDQ0DAQYEBQgKBwgB&#43;PDnCi3/&#43;O0ZCwMCDwcEAvru7/TwFRcgEgkAEg0IERIL4Nrj/gEEDgb/1Psh8vkD6&#43;zsDw0LFRQW9gAIGgoDKwLbBhQtCwsTAvX4/PsBAu7x6Onr4ev09gQE/wYKCAYKB/f2&#43;Rv&#43;5QT99&#43;v9DwH&#43;/Obq7vrz7Ab99v4DBQ787vX6/tn4EgIDCA4A/wALBP3e4d0CAPv8/f/6/v8HEBEABg0G&#43;vASAe/s&#43;Q0bCQoABAL&#43;AwcQDgv6&#43;fADAf8jAN8P9tQCDggBCgYB6/L0FA4LCg4U7fX5HhQNCAYN7/X69fv7Gf3l8AsZ8wwaGxIU&#43;Pv/9fwE3uzw6/HwAvjm7/PxAvv//wkKDg4KDyAcJAYGEPf7A/X4/P389gL//ur0&#43;xT/6hb96NT/IwH//BkSFP76/ffz9ebr6wMFEBgSGwL6/gEaGCUYExgDCBAB/gIcFRoGBQbv8PD0/gYdFxnu9/0g/tz7Awvc&#43;xbw7eHw8eERCgQA/Pnz9vkLDBcEBQH6/f37AQEC&#43;e7gCQYN&#43;vny8vwFHhwe9vf23Onv8vT9IP/vGBLs4AQm/fwBEQP6Fw3&#43;/Q0L&#43;vv73&#43;XfBAMA//n8&#43;xEQFQT8CfL8/&#43;308g8KCPn//QIB&#43;tju&#43;gkDA/P7&#43;h/51wMF&#43;OYFH&#43;8NGAv/8RsC6Qf15PP18QT/AP73&#43;vbx6PgQDA0PA/oEAwgJBwYVDg/pAP4d9vb1&#43;P4BBxEE/vIp/dITAujyAA3pARrR/ywZBxEYE98DAH6Drk5FP93JAAAAAElFTkSuQmCC); background-size: cover; display: inline;">             <source srcset='/images/events/2022-10-15-hike-uetliberg-thalwil/trail_map_hu_27fd894871432df9.webp 282w, /images/events/2022-10-15-hike-uetliberg-thalwil/trail_map_hu_b7fdab24abdd2456.webp 564w'                     sizes="(max-width: 282px) 100vw, 282px"                     type="image/webp"             /><source srcset='/images/events/2022-10-15-hike-uetliberg-thalwil/trail_map_hu_abf0cc9ebae70110.jpg 282w, /images/events/2022-10-15-hike-uetliberg-thalwil/trail_map_hu_4e833a9a4d784ffe.jpg 564w'                     sizes="(max-width: 282px) 100vw, 282px"                     type="image/jpeg"             /><img src="/images/events/2022-10-15-hike-uetliberg-thalwil/trail_map_hu_abf0cc9ebae70110.jpg"                  width="282"                  height="200"                                                                                     /></picture> <picture class="img" style="background: url(data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIAA8AFAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5&#43;gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4&#43;Tl5ufo6ery8/T19vf4&#43;fr/2gAMAwEAAhEDEQA/AOnuPifZXFpJc2cF&#43;pQgfMqruz7E1JY/E3QvLMs0t&#43;WIx89twv5GuJ0k2mtzT3MiLb2aymKGKJcZIwNx79cjHsDWlJ4K0&#43;Q5&#43;0XGQRjLk9OnGe1ctHFSqJ9LGrgtLHTf8LF0GQlhLOMno0DAil/4WFoX/PWX/vw1c3/wi0WBicnAx1/&#43;tR/wi0X/AD2P/fX/ANatPbVeyJ9mf//Z); background-size: cover; display: inline;">             <source srcset='/images/events/2022-10-15-hike-uetliberg-thalwil/everyone_hu_60cb807348e3a743.webp 267w, /images/events/2022-10-15-hike-uetliberg-thalwil/everyone_hu_f4b41f6f78a41103.webp 534w'                     sizes="(max-width: 267px) 100vw, 267px"                     type="image/webp"             /><source srcset='/images/events/2022-10-15-hike-uetliberg-thalwil/everyone_hu_e2da240d71c36b6e.jpeg 267w, /images/events/2022-10-15-hike-uetliberg-thalwil/everyone_hu_c8263d6f7aa62e52.jpeg 534w'                     sizes="(max-width: 267px) 100vw, 267px"                     type="image/jpeg"             /><img src="/images/events/2022-10-15-hike-uetliberg-thalwil/everyone_hu_e2da240d71c36b6e.jpeg"                  width="267"                  height="200"                                                                                     /></picture> <picture class="img" style="background: url(data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIAA8AFAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5&#43;gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4&#43;Tl5ufo6ery8/T19vf4&#43;fr/2gAMAwEAAhEDEQA/AI/BfieVLC4e5jkmcMoLeaR0XHAA/nXRv44nRcRRzbBztaTBNeX6lM1pbI0M8tmrPhkix82ep&#43;tZtyGWBzFf3zSYyAZMZ/KoVeVjV4fXc7zWfiNeRXirCFiXYDjrk5PPNZ//AAsrUf8Anov/AHyK5y3jt2hDMu9jyzOuSTUvk23/ADyj/wC&#43;BUOvItYc/9k=); background-size: cover; display: inline;">             <source srcset='/images/events/2022-10-15-hike-uetliberg-thalwil/view_hu_737b57bd427a2503.webp 267w, /images/events/2022-10-15-hike-uetliberg-thalwil/view_hu_c82b425fd0e36944.webp 534w'                     sizes="(max-width: 267px) 100vw, 267px"                     type="image/webp"             /><source srcset='/images/events/2022-10-15-hike-uetliberg-thalwil/view_hu_74984bd0ae786cac.jpeg 267w, /images/events/2022-10-15-hike-uetliberg-thalwil/view_hu_f002958d12d67438.jpeg 534w'                     sizes="(max-width: 267px) 100vw, 267px"                     type="image/jpeg"             /><img src="/images/events/2022-10-15-hike-uetliberg-thalwil/view_hu_74984bd0ae786cac.jpeg"                  width="267"                  height="200"                                                                                     /></picture> <picture class="img" style="background: url(data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIABsAFAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5&#43;gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4&#43;Tl5ufo6ery8/T19vf4&#43;fr/2gAMAwEAAhEDEQA/ALd/dI2qSray7o0JVXViQRznOfbg0ulGJ9ahguJJPJncAiHllODxjuDxx7VzfifVrK18Q3E9qmFaMMdpOwserLnp9KNP1PfPaXEpYw&#43;YgY46BiBycHHX9KluSegz1m7uUtpvKt7h4IQo2omz06nPfOag/tF/&#43;ghP/wCQ65bWNUsbXUXgslkkhQAAoWIz36D15/Gs/wDtxP8AnhP/AORP8KvmDQ4zxpI1zcWclxJ/pEsC7sRtHwpIwAenp68fSptO1J7Tw7NZO7CcbmEYj642lWY&#43;23GMetcc11PdtBJcStI&#43;Cu5uuB0FWIiUV9pwTH1H1qRXPWdR8YWsFwr2upWoWdBM4eIbgzdjk&#43;mKqf8ACc/9ROy/79LXmjAPI&#43;4ZwxA9hSeWn90VDkFz/9k=); background-size: cover; display: inline;">             <source srcset='/images/events/2022-10-15-hike-uetliberg-thalwil/spider_hu_c0c2885b7f9ee035.webp 150w, /images/events/2022-10-15-hike-uetliberg-thalwil/spider_hu_fb6fad70cd4cacf5.webp 300w'                     sizes="(max-width: 150px) 100vw, 150px"                     type="image/webp"             /><source srcset='/images/events/2022-10-15-hike-uetliberg-thalwil/spider_hu_795f4a12e281ac07.jpeg 150w, /images/events/2022-10-15-hike-uetliberg-thalwil/spider_hu_3c318395a99cf58d.jpeg 300w'                     sizes="(max-width: 150px) 100vw, 150px"                     type="image/jpeg"             /><img src="/images/events/2022-10-15-hike-uetliberg-thalwil/spider_hu_795f4a12e281ac07.jpeg"                  width="150"                  height="200"                                                                                     /></picture> <p><a class="link" href="https://photos.app.goo.gl/5VGVbvPTzKh7zBF26" target="_blank" rel="noopener">See more photos from the trip here!</a></p> <hr> <p>CSSZ invites you and your friends to join the first CSSZ trip of the Autumn Semester 2022.</p> <p>We&rsquo;ll meet at the tram stop <em>Triemli</em> at 9:30 a.m. and start our trip in the direction to Uetliberg, continuing to Thalwil. There we&rsquo;ll take the <em>Ship 3731 29</em> to get back to <em>Zürich Bürkliplatz (See)</em>. Expected duration of this hike with T1 level is 5:30 h.</p> <p><strong>Total distance:</strong> 19 km  <strong>Expected duration:</strong> 5:30 h  <strong>Uphill/downhill:</strong> 570 m</p>
+UID:20221015T093000-hike-uetliberg-thalwil@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20221015T000000
+DTSTART:20221015T093000
+DTEND:20221015T163000
+LOCATION;ALTREP="https://goo.gl/maps/LAgraK7pxk82yfbe7":Zurich Triemli
+URL:https://cssz.ch/events/hike-uetliberg-thalwil/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Hike in Appenzeller Alps
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/hike-in-appenzeller-alps/\n<strong>Location:</strong> <a href="https://goo.gl/maps/bXk47LqsMqYxy4Te9" target="_blank" rel="noopener">Amden</a>\n<strong>Coordinator:</strong> Emma Hubeková (<a class="link" href="mailto:emma.hubekova@cssz.ch" target="_blank" rel="noopener">emma.hubekova@cssz.ch</a>, <a class="link" href="tel:&#43;421949776209">+421 949 776 209</a>)\n<strong>Registration:</strong> <a href="https://forms.gle/r1oWo4giUd69y3VV9" target="_blank" rel="noopener">Google Form</a>\n\n<p>CSSZ invites you and your friends to join a semester-end trip to the peek Speer &ndash; <em>König der Voralpen</em>, which is planned for Sunday, 05.06.2022. Come and enjoy hiking in the beautiful nature of Appenzeller Alps with our society!</p> <dl> <dt><strong>Connection</strong></dt> <dd>Zuerich HB, Gleis 6, S 2520527 (07:43 am) &ndash; Ziegelbruecke, + Bus: Ziegelbruecke - Amden Dorf (08:51 am)</dd> <dt><strong>Planned route</strong></dt> <dd><ul> <li>Amden, Dorf</li> <li>Speer</li> <li>Amden, Dorf</li> </ul> </dd> </dl> <p><strong>Total distance:</strong> 17 km  <strong>Expected duration (hiking only):</strong> 6:30 h  <strong>Uphill/downhill:</strong> 1013 m</p>
+UID:20220605T073000-hike-in-appenzeller-alps@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20220605T000000
+DTSTART:20220605T073000
+DTEND:20220605T170000
+LOCATION;ALTREP="https://goo.gl/maps/bXk47LqsMqYxy4Te9":Amden
+URL:https://cssz.ch/events/hike-in-appenzeller-alps/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Dinner with 🥘 Meet'n'Dine
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/meet-n-dine/\n<strong>Location:</strong> <a href="https://goo.gl/maps/1JsoL81FCVowCDFi6" target="_blank" rel="noopener">Bächlerstrasse 44</a>\n<strong>Coordinator:</strong> Juraj Mičko (<a class="link" href="mailto:juraj.micko@cssz.ch" target="_blank" rel="noopener">juraj.micko@cssz.ch</a>, <a class="link" href="tel:&#43;41762639679">+41762639679</a>)\n<strong>Registration:</strong> <a href="https://www.eventbrite.co.uk/e/meetndine-registration-205679010457" target="_blank" rel="noopener">Eventbrite</a>\n\n<p>CSSZ and <a class="link" href="https://www.notion.so/jjurm/Meet-n-Dine-c0d588aaa93046fe9724599c9ee62976" target="_blank" rel="noopener">Meet&rsquo;n&rsquo;Dine</a> invite you to a casual dinner with fellow students in the cosy environment of a student flat. Come join us and feel free to bring a friend!</p> <p>We&rsquo;ll be cooking <a class="link" href="https://blogchef.net/chinese-chicken-and-broccoli-recipe/" target="_blank" rel="noopener">Chinese Chicken and Broccoli Recipe</a>.</p> <picture class="img" style="background: url(data:image/jpeg;base64,/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIAA0AFAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5&#43;gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4&#43;Tl5ufo6ery8/T19vf4&#43;fr/2gAMAwEAAhEDEQA/AOA0aV7Qi8vbLzxeYSMYOIuRycHuuf071113pqxtZwrHNPAJQ8cCpulEZOdgOMnkhjnpkDnNedW3iW5/shNPaJAq/NHInyuhU569&#43;TXqmpeNTpvw90/Um0yK7vJXMDSzytyB8wJ24yQTXJWp1JTXK&#43;5pCpBOzRy2q&#43;B3u7hLyDU9I06C5QyRwz3BcldzKGB5wDtzjtyO1Uf&#43;EBuP&#43;hl0D/v43&#43;Fbt3rulwxWc&#43;q&#43;G7LUry8t0unlJ8pU3ZwiIBhVAA&#43;pye9Vv&#43;En8Nf9CNp3/f4/4V3QpvlV5GDk7n//2Q==); background-size: cover; display: inline;">             <source srcset='/images/events/2022-06-02-dinner-with-meetndine/chinese_chicken_and_brocolli_1_hu_fb47de90a382356a.webp 500w, /images/events/2022-06-02-dinner-with-meetndine/chinese_chicken_and_brocolli_1_hu_fb47de90a382356a.webp 500w'                     sizes="(max-width: 500px) 100vw, 500px"                     type="image/webp"             /><source srcset='/images/events/2022-06-02-dinner-with-meetndine/chinese_chicken_and_brocolli_1_hu_72357e93b1b93b15.jpeg 500w, /images/events/2022-06-02-dinner-with-meetndine/chinese_chicken_and_brocolli_1_hu_72357e93b1b93b15.jpeg 500w'                     sizes="(max-width: 500px) 100vw, 500px"                     type="image/jpeg"             /><img src="/images/events/2022-06-02-dinner-with-meetndine/chinese_chicken_and_brocolli_1_hu_72357e93b1b93b15.jpeg"                  width="500"                  height="333"                                                                                     /></picture> <hr> <h1 id="what-is-meetndine">What is Meet&rsquo;n&rsquo;Dine?</h1> <p><a class="link" href="https://www.notion.so/jjurm/Meet-n-Dine-c0d588aaa93046fe9724599c9ee62976" target="_blank" rel="noopener">Meet&rsquo;n&rsquo;Dine</a> brings people together to:</p> <ul> <li>socialise</li> <li>feed ourselves</li> <li>relax from school and real life</li> <li>learn new recipes</li> <li>get inspired about how others live their lives</li> <li>(optionally) discuss hard questions in life</li> </ul> <h1 id="who">Who</h1> <p>The group consists of mostly ETH (or UZH) students, but don&rsquo;t hesitate to reach out if you don&rsquo;t feel like a student and would still like to join.</p>
+UID:20220602T183000-meet-n-dine@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20220602T000000
+DTSTART:20220602T183000
+DTEND:20220602T213000
+LOCATION;ALTREP="https://goo.gl/maps/1JsoL81FCVowCDFi6":Bächlerstrasse 44
+URL:https://cssz.ch/events/meet-n-dine/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:Grill Welcome Event!
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/grill-welcome-event/\n<strong>Location:</strong> <a href="https://www.google.cz/maps/place/Grillstell+mit+Rost+und+Wiitsicht/@47.4017454,8.5088289,813m/data=!3m1!1e3!4m5!3m4!1s0x47900bf1d1599e21:0x120905caab0befa3!8m2!3d47.4017454!4d8.5104489" target="_blank" rel="noopener">Käferberg Grillstelle</a>\n<strong>Registration:</strong> <a href="https://forms.gle/uJ8F6GE1woBxnx1f7" target="_blank" rel="noopener">Google Form</a>\n<strong>Notes:</strong>\n• Entrance (=sausages/bratwursts/bread/beer) is free for CSSZ members. You can become a member by registering <a class="link" href="https://forms.gle/qn6sZEmELCgtTSSr5" target="_blank" rel="noopener">here</a> or directly at the event.  Non-members pay a partial contribution of 8 CHF per person (cash, Twint).\n\n<p>At the end of April, the Czech and Slovak Students in Zurich association was officially founded. To celebrate this occasion, we are going to be grilling at Käferberg! Come to meet Czech and Slovak students and get to know the association itself. We plan to grill, have a bonfire and sing not only Czech and Slovak songs (guitar included).</p>
+UID:20220520T170000-grill-welcome-event@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20220520T000000
+DTSTART:20220520T170000
+DTEND:20220520T210000
+LOCATION;ALTREP="https://www.google.cz/maps/place/Grillstell+mit+Rost+und+Wiitsicht/@47.4017454,8.5088289,813m/data=!3m1!1e3!4m5!3m4!1s0x47900bf1d1599e21:0x120905caab0befa3!8m2!3d47.4017454!4d8.5104489":Käferberg Grillstelle
+URL:https://cssz.ch/events/grill-welcome-event/
+END:VEVENT
+END:VCALENDAR

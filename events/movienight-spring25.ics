@@ -31,7 +31,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
 SUMMARY:Movie Night
-DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/movienight-spring25/\n<strong>Location:</strong> UZH RAA-G-15\n<strong>Coordinator:</strong> Timon Fopp (<a class="link" href="mailto:timon.fopp@cssz.ch" target="_blank" rel="noopener">timon.fopp@cssz.ch</a>, <a class="link" href="tel:&#43;41783309888">+41783309888</a>)\n\nMovie Night: Černák Join us in watching the 2025 Slovak film Černák, directed by Jakub Kroner. It is a gritty crime thriller chronicling Miki Černák&rsquo;s ruthless ascent from a small-town gangster to Slovakia&rsquo;s most feared mafia boss, ultimately clashing with the nation&rsquo;s political elite and secret services. No registration needed. Just come and enjoy. The movie starts at 19:00.
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/movienight-spring25/\n<strong>Location:</strong> UZH RAA-G-15\n<strong>Coordinator:</strong> Timon Fopp (<a class="link" href="mailto:timon.fopp@cssz.ch" target="_blank" rel="noopener">timon.fopp@cssz.ch</a>, <a class="link" href="tel:&#43;41783309888">+41783309888</a>)\n\n<h3 id="movie-night-černák">Movie Night: Černák</h3> <p>Join us in watching the 2025 Slovak film Černák, directed by Jakub Kroner. It is a gritty crime thriller chronicling Miki Černák&rsquo;s ruthless ascent from a small-town gangster to Slovakia&rsquo;s most feared mafia boss, ultimately clashing with the nation&rsquo;s political elite and secret services.</p> <p><strong>No registration needed. Just come and enjoy.</strong></p> <p><strong>The movie starts at 19:00.</strong></p>
 UID:20250506T184500-movienight-spring25@cssz.ch
 SEQUENCE:0
 STATUS:CONFIRMED

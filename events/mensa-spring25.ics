@@ -31,7 +31,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
 SUMMARY:Mid-semester lunch in Untere mensa
-DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/mensa-spring25/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/H1iUeh2DAa6N7djf6" target="_blank" rel="noopener">Mercato Mensa A (untere Mensa)</a>\n<strong>Coordinator:</strong> Zdeněk Šnajdr (<a class="link" href="mailto:zdenek.snajdr@cssz.ch" target="_blank" rel="noopener">zdenek.snajdr@cssz.ch</a>, <a class="link" href="tel:&#43;41762254840">+41762254840</a>)\n\nWhat a time saver! Meet your favourite people while you would be eating anyway! Join us for a brief lunch in the mensa. We&rsquo;ll be there from 13:00 to 14:00. Invite your friends to join, too!
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/mensa-spring25/\n<strong>Location:</strong> <a href="https://maps.app.goo.gl/H1iUeh2DAa6N7djf6" target="_blank" rel="noopener">Mercato Mensa A (untere Mensa)</a>\n<strong>Coordinator:</strong> Zdeněk Šnajdr (<a class="link" href="mailto:zdenek.snajdr@cssz.ch" target="_blank" rel="noopener">zdenek.snajdr@cssz.ch</a>, <a class="link" href="tel:&#43;41762254840">+41762254840</a>)\n\n<p>What a time saver! Meet your favourite people while you would be eating anyway!</p> <p>Join us for a brief lunch in the mensa. We&rsquo;ll be there from 13:00 to 14:00. Invite your friends to join, too!</p>
 UID:20250402T130000-mensa-spring25@cssz.ch
 SEQUENCE:0
 STATUS:CONFIRMED
