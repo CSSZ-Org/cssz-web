@@ -1,13 +1,13 @@
 all:
   - id: radim.urban
     name: Radim Urban
-    role: Infrastructure
+    role: Team Member
     about: Radim studies MSc Computer Science at ETH. In his free time he likes to play tennis or guitar.
     image: images/members/radim-urban.jpeg
   - id: juraj.micko
     name: Juraj Mičko
     role: Infrastructure support
-    about: "Juraj studies Computer Science MSc at ETH Zurich, after graduating from Cambridge University. He loves producing music, outdoor sports, cooking and spending meaningful time with people. He is also a co-founding member of CSSZ. Psst: he can’t wait to meet you!"
+    about: "Juraj studied Computer Science MSc at ETH Zurich, after graduating from Cambridge University. He loves producing music, outdoor sports, cooking and spending meaningful time with people. He is also a co-founding member of CSSZ. Psst: he can’t wait to meet you!"
     instagram: jjurm64
     image: images/members/juraj-micko.jpg
     phone: "+41762639679"
@@ -27,7 +27,7 @@ all:
     name: Timon Fopp
     role: UZH Representative
     about: |
-      Timon studies MSc Computer Science at ETH. He likes playing volleyball, the guitar, riding his motorcycle, travelling and especially loves meeting nice people all over the world.
+      Timon studies MSc Artificial Intelligence at UZH. He likes playing volleyball, the guitar, riding his motorcycle, travelling and especially loves meeting nice people all over the world.
     phone: "+41783309888"
     image: images/members/timon-fopp.png
   - id: emma.hubekova
@@ -72,7 +72,7 @@ all:
 
   - id: max.kellenberger
     name: Max Kellenberger
-    role: Infrastructure & Events Support
+    role: Team Member
     about: Max is studying BSc Mechanical Engineering at ETH Zuerich. In his free time he likes to bike, travel and eat.
     image: images/members/max-kellenberger.jpeg
 
@@ -103,19 +103,42 @@ all:
 
   - id: klara.kolarova
     name: Klára Kolářová
-    role: President
+    role: Team Member
     about: Klára studies MSc Science, Technology and Policy at ETH after a BSc in Computer Science in Vienna. In her free time, she enjoys food and coffee dates with friends, listening to and playing music and yoga.
     image: images/members/klara-kolarova.png
-  
+
+  - id: glenda.fopp
+    name: Glenda Fopp
+    role: Board Member
+    about: Glenda studies Communication Science and Media Research at UZH. She is passionate about dancing, especially ballet, and loves travelling and learning new languages. Modelling and hosting are also a big part of her interests, alongside her love for riding her motorcycle. In her free time, she enjoys good music, good food and spending quality time with friends.
+    image: images/members/glenda-fopp.png
+
+  - id: adam.bahelka
+    name: Adam Bahelka
+    role: Board Member
+    about: Adam is a student of the Master's program in Management, Technology and Economics. In his free time, he enjoys participating in debating competitions, swimming in Katzenzee, ideally until winter, and playing Catan.
+    image: images/members/adam-bahelka.png
+
+  - id: ondra.mlich
+    name: Ondřej Mlích
+    role: Board Member
+    about: Ondřej is pursuing his BSc in Civil Engineering at ETH Zurich. Always up for any adventure and when it comes to sports, whether it’s cycling, running, basketball, or pretty much anything else, he's in.
+    image: images/members/ondrej-mlich.png
+
+  - id: martin.jirout
+    name: Martin Jirout
+    role: Board Member
+    about: Martin studies BSc in Mechanical Engineering at ETH Zurich, after a Bachelor of Arts in Musik at the Hochschule für Musik Basel FHNW. In his free time he likes to play the guitar and learn new languages. 
+    image: images/members/martin-jirout.png
 
 board:
+  - martin.jirout
+  - adam.bahelka
+  - ondra.mlich
+  - glenda.fopp
+  - timon.fopp
+  
+team:  
   - klara.kolarova
-  - ales.kubicek
-  - zdenek.snajdr
   - radim.urban
   - max.kellenberger
-  
-team:
-  - juraj.micko
-  - timon.fopp
-  - vu.nguyen

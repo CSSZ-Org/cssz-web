@@ -19,7 +19,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.120.4'
+          hugo-version: '0.167.0'
           extended: true
 
       - name: Setup Node
@@ -36,7 +36,7 @@ jobs:
         uses: actions/cache@v3
         with:
           path: resources
-          key: hugo-resources-v1
+          key: hugo-resources-v2
 
       - name: Build
         run: hugo --gc --minify -F

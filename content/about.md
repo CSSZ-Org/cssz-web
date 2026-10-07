@@ -1,7 +1,7 @@
 ---
 title: About us
 date: 2022-04-04
-image: images/events/2023-05-25-general-meeting/new board.jpeg
+image: images/about/community-dinner.jpg
 menu:
   main:
     weight: 80
@@ -31,5 +31,7 @@ We are very grateful to everyone who is motivated to help with running CSSZ. Spe
 {{< semester-table >}}
 
 ## Team Members
+
+Team members are members actively actively involved in the association an external help to the board.
 
 {{< members-list list="team" >}}

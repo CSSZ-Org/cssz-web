@@ -1,0 +1,57 @@
+{{- $semesters := .semesters -}}
+{{- $maxEvents := 4 -}}
+{{- $current := index (where $semesters "Date" "le" now) 0 -}}
+<section class="semester-timeline">
+    {{- range $i, $semester := $semesters -}}
+    {{- $side := cond (modBool $i 2) "left" "right" -}}
+    {{- $events := where (where $semester.Pages "Params.hidden" "!=" true) "Kind" "page" -}}
+    {{- $events = sort $events ".Date" "desc" -}}
+    {{- $isCurrent := eq $semester $current -}}
+    {{- $isUpcoming := $semester.Date.After now -}}
+    <div class="semester-timeline__row semester-timeline__row--{{ $side }}{{ if $isCurrent }} is-current{{ end }}{{ if $isUpcoming }} is-upcoming{{ end }}">
+        <div class="semester-timeline__wave" aria-hidden="true">
+            <svg viewBox="0 0 120 100" preserveAspectRatio="none">
+                {{- if eq $side "left" -}}
+                <path d="M60,0 C20,33 20,67 60,100" />
+                {{- else -}}
+                <path d="M60,0 C100,33 100,67 60,100" />
+                {{- end -}}
+            </svg>
+            <span class="semester-timeline__dot"></span>
+        </div>
+
+        <article class="semester-timeline__card">
+            <header>
+                <time datetime="{{ $semester.Date.Format "2006-01-02" }}">{{ $semester.Date.Format "Jan 2006" }}</time>
+                {{- if $isCurrent }}<span class="semester-timeline__badge">Current</span>{{ end }}
+                {{- if $isUpcoming }}<span class="semester-timeline__badge semester-timeline__badge--upcoming">Upcoming</span>{{ end }}
+            </header>
+            <h2><a href="{{ $semester.RelPermalink }}">{{ $semester.Title }}</a></h2>
+
+            {{- with $semester.Params.board_members -}}
+            <p class="semester-timeline__board">
+                <strong>Board:</strong>
+                {{ $names := slice -}}
+                {{- range partial "helper/lookup-persons" . -}}{{- $names = $names | append .name -}}{{- end -}}
+                {{ delimit $names ", " " & " }}
+            </p>
+            {{- end -}}
+
+            {{- with $events -}}
+            <ul class="semester-timeline__events">
+                {{- range first $maxEvents . -}}
+                <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+                {{- end -}}
+            </ul>
+            <a class="semester-timeline__more" href="{{ $semester.RelPermalink }}">
+                {{- if gt (len .) $maxEvents -}}
+                    +{{ sub (len .) $maxEvents }} more ({{ len . }} total)
+                {{- else -}}
+                    {{ len . }} {{ cond (eq (len .) 1) "event" "events" }}
+                {{- end -}}
+            </a>
+            {{- end -}}
+        </article>
+    </div>
+    {{- end -}}
+</section>

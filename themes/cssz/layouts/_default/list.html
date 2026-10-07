@@ -69,6 +69,9 @@
     </aside>
     {{- end -}}
 
+    {{- if and (eq .Kind "taxonomy") (eq .Data.Plural "semesters") -}}
+    {{ partial "semesters/timeline" (dict "semesters" $pages) }}
+    {{- else -}}
     {{/* List only pages that are not a subsection */}}
     {{ $paginator := .Paginate $pages }}
     <section class="article-list--compact">
@@ -78,6 +81,7 @@
     </section>
 
     {{- partial "pagination.html" . -}}
+    {{- end -}}
 
     {{ partialCached "footer/footer" . }}
 {{ end }}

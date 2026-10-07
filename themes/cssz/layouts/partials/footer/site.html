@@ -1,0 +1,26 @@
+<footer class="site-footer site-footer--wide">
+    {{- with .Site.Params.partners -}}
+    <section class="partner-logos">
+        {{- range . -}}
+            {{- $title := .title -}}
+            {{- with resources.Get .logo -}}
+            <img src="{{ .RelPermalink }}" alt="{{ $title }}" title="{{ $title }}" loading="lazy">
+            {{- end -}}
+        {{- end -}}
+    </section>
+    {{- end -}}
+
+    <section class="copyright">
+        &copy;
+        {{ if and (.Site.Params.footer.since) (ne .Site.Params.footer.since (int (now.Format "2006"))) }}
+        {{ .Site.Params.footer.since }} -
+        {{ end }}
+        {{ now.Format "2006" }} {{ .Site.Title }}
+    </section>
+
+    <section class="powerby">
+        {{ with .Site.Params.footer.customText }}
+        {{ $.Page.RenderString . }}
+        {{ end }}
+    </section>
+</footer>

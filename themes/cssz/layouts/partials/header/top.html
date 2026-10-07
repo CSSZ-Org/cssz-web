@@ -1,0 +1,61 @@
+<header class="site-header">
+    <div class="header-container">
+        <div class="header-top">
+            <a href="{{ .Site.BaseURL | relLangURL }}" class="site-logo-link" title="{{ .Site.Title }}">
+                {{- $logo := resources.Get (default "" .Site.Params.header.logo) -}}
+                {{- if not $logo -}}
+                    {{- $logo = resources.Get .Site.Params.sidebar.avatar.src -}}
+                {{- end -}}
+                {{- with $logo -}}
+                <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" class="site-logo" alt="{{ $.Site.Title }}">
+                {{- end -}}
+            </a>
+        </div>
+
+        <nav class="main-navigation">
+            <button class="menu-toggle" type="button" id="header-menu-toggle" aria-controls="header-menu" aria-label="{{ T `toggleMenu` }}">
+                <span class="hamburger-icon"></span>
+            </button>
+
+            <ul class="nav-menu" id="header-menu">
+                {{ $currentPage := . }}
+                {{ range .Site.Menus.main }}
+                {{ $active := or (eq $currentPage.Title .Name) (or ($currentPage.HasMenuCurrent "main" .) ($currentPage.IsMenuCurrent "main" .)) }}
+                <li class="nav-item {{ if $active }}current{{ end }}">
+                    <a href='{{ .URL | relLangURL }}' {{ if eq .Params.newTab true }}target="_blank"{{ end }}>
+                        {{ with (default .Pre .Params.Icon) }}
+                        {{ partial "helper/icon" . }}
+                        {{ end }}
+                        <span>{{ if .Page.Draft }}( {{ .Name }} ){{ else }}{{- .Name -}}{{ end }}</span>
+                    </a>
+                </li>
+                {{ end }}
+            </ul>
+
+            <div class="nav-actions">
+                {{- $searchPage := index (where .Site.Pages "Layout" "==" "search") 0 -}}
+                {{- with $searchPage -}}
+                <form action="{{ .RelPermalink }}" class="header-search" role="search">
+                    <input name="keyword" type="search" required placeholder="{{ T `search.placeholder` }}" aria-label="{{ T `search.title` }}">
+                    <button type="submit" title="{{ T `search.title` }}">
+                        {{ partial "helper/icon" "search" }}
+                    </button>
+                </form>
+                {{- end -}}
+
+                {{- with .Site.Menus.social -}}
+                <div class="social-menu-header">
+                    {{ range . }}
+                    <a href='{{ .URL }}'
+                       {{ if eq (default true .Params.newTab) true }}target="_blank"{{ end }}
+                       {{ with .Name }}title="{{ . }}"{{ end }}
+                       class="social-link">
+                        {{ partial "helper/icon" (default "link" .Params.Icon) }}
+                    </a>
+                    {{ end }}
+                </div>
+                {{- end -}}
+            </div>
+        </nav>
+    </div>
+</header>

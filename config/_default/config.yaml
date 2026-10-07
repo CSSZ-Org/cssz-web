@@ -14,11 +14,11 @@ theme:
 
 timeout: 240s
 
-languages:
-  en:
-    languageName: English
-    #title: Example Site
-    weight: 1
+# languages:
+#   en:
+#     languageName: English
+#     #title: Example Site
+#     weight: 1
 # Theme i18n support
 # Available values: ar, ca, de, el, en, es, fr, id, it, ja, ko, nl, pt-br, th, uk, zh-cn, zh-hk, zh-tw
 DefaultContentLanguage: en

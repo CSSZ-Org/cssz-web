@@ -56,15 +56,67 @@
         </aside>
     {{- end -}}
 
-    {{/* List only pages that are not a subsection */}}
-    {{ $paginator := .Paginate $pages }}
-    <section class="article-list--compact">
-        {{ range $paginator.Pages }}
-            {{ partial "event-list/compact" . }}
-        {{ end }}
-    </section>
+    {{/* Separate events into upcoming and past */}}
+    {{- $now := now -}}
+    {{- $upcomingEvents := slice -}}
+    {{- $pastEvents := slice -}}
+    
+    {{- range $pages -}}
+        {{- $eventEndDate := .Date -}}
+        
+        {{/* Try to get event end date from event_details */}}
+        {{- if .Params.event_details -}}
+            {{- $details := .Params.event_details -}}
+            {{- if reflect.IsSlice $details -}}
+                {{/* event_details is an array, get first element */}}
+                {{- $firstEvent := index $details 0 -}}
+                {{- if $firstEvent.date_end -}}
+                    {{- $eventEndDate = $firstEvent.date_end -}}
+                {{- else if $firstEvent.date_start -}}
+                    {{- $eventEndDate = $firstEvent.date_start -}}
+                {{- end -}}
+            {{- else -}}
+                {{/* event_details is an object */}}
+                {{- if $details.date_end -}}
+                    {{- $eventEndDate = $details.date_end -}}
+                {{- else if $details.date_start -}}
+                    {{- $eventEndDate = $details.date_start -}}
+                {{- end -}}
+            {{- end -}}
+        {{- end -}}
+        
+        {{/* Event is upcoming if end date is in the future */}}
+        {{- $eventTime := time $eventEndDate -}}
+        {{- if $eventTime.After $now -}}
+            {{- $upcomingEvents = $upcomingEvents | append . -}}
+        {{- else -}}
+            {{- $pastEvents = $pastEvents | append . -}}
+        {{- end -}}
+    {{- end -}}
 
-    {{- partial "pagination.html" . -}}
+    {{/* Display upcoming events (soonest first) */}}
+    {{- if gt (len $upcomingEvents) 0 -}}
+    <section class="events-section">
+        <h2 class="events-section-title">Upcoming Events</h2>
+        <div class="article-list--compact article-list--events">
+            {{ range $upcomingEvents.Reverse }}
+                {{ partial "event-list/compact" . }}
+            {{ end }}
+        </div>
+    </section>
+    {{- end -}}
+
+    {{/* Display past events (most recent first) */}}
+    {{- if gt (len $pastEvents) 0 -}}
+    <section class="events-section">
+        <h2 class="events-section-title">Past Events</h2>
+        <div class="article-list--compact article-list--events">
+            {{ range $pastEvents }}
+                {{ partial "event-list/compact" . }}
+            {{ end }}
+        </div>
+    </section>
+    {{- end -}}
 
     {{ partialCached "footer/footer" . }}
 {{ end }}

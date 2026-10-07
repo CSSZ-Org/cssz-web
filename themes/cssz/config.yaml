@@ -41,40 +41,21 @@ params:
     enabled: false
     #...
 
-  widgets:
-    homepage:
-      - type: search
-#      - type: archives
-#        params:
-#          limit: 5
-#      - type: categories
-#        params:
-#          limit: 10
-#      - type: tag-cloud
-#        params:
-#          limit: 10
-      - type: partner_logos
-        params:
-          partners:
-            - title: ETH
-              logo: images/partners/eth.png
-            - title: VSETH
-              logo: images/partners/vseth_Logo_bylines_Kommission.png
-            - title: Impuls Fabrik
-              logo: images/partners/impuls.png
+  header:
+    logo: images/cssz_horizontal.png
 
+  partners:
+    - title: ETH
+      logo: images/partners/eth.png
+    - title: VSETH
+      logo: images/partners/vseth_Logo_bylines_Kommission.png
+    - title: Impuls Fabrik
+      logo: images/partners/impuls.png
+
+  widgets:
+    homepage: []
     page:
-      - type: search
       - type: toc
-      - type: partner_logos
-        params:
-          partners:
-            - title: ETH
-              logo: images/partners/eth.png
-            - title: VSETH
-              logo: images/partners/vseth_Logo_bylines_Kommission.png
-            - title: Impuls Fabrik
-              logo: images/partners/impuls.png
 
   opengraph:
     #twitter:
