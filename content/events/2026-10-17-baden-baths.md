@@ -5,7 +5,7 @@ description: |
 image: images/events/2026-10-17-baden-baths/baden.png
 date: 2026-10-17T19:00:00
 pubdate: 2026-10-15
-draft: false
+draft: true
 semesters: 2026-autumn
 
 event_details:
