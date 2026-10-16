@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Czech and Slovak Students in Zurich//Events//EN
+URL:webcal://cssz.ch/events/2026-10-23-football-match.ics
+NAME:CSSZ Events
+X-WR-CALNAME:CSSZ Events
+X-WR-CALDESC:
+X-WR-TIMEZONE:Europe/Zurich
+X-PUBLISHED-TTL:PT6H
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/Zurich
+X-LIC-LOCATION:Europe/Zurich
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+
+BEGIN:VEVENT
+ORGANIZER;CN="CSSZ":mailto:info@cssz.ch
+SUMMARY:CSSZ vs. Czech & Slovak Union – Football Match ⚽🍺
+DESCRIPTION:<strong>Event details:</strong> https://cssz.ch/events/2026-10-23-football-match/\n<strong>Location:</strong> <a href="https://www.google.com/maps/search/?api=1&query=ASVZ+Sport+Center+H%C3%B6nggerberg" target="_blank" rel="noopener">ETH Hönggerberg - ASVZ artificial turf / grass pitch (booking pending confirmation)</a>\n<strong>Coordinator:</strong> Timon Fopp (<a class="link" href="mailto:timon.fopp@cssz.ch" target="_blank" rel="noopener">timon.fopp@cssz.ch</a>, <a class="link" href="tel:&#43;41783309888">+41783309888</a>)\n<strong>Registration:</strong> <a href="https://docs.google.com/forms/d/e/1FAIpQLSe4fkls22YuAI-N17_7LjNYZOOb-6txq0gvTh12p2gpYm8sWw/viewform?usp=publish-editor" target="_blank" rel="noopener">Registration form</a>\n\n<p>It&rsquo;s match time! ⚽ <strong>CSSZ – Czech and Slovak Students in Zurich</strong> vs. <strong>Czech &amp; Slovak Union</strong> (<a class="link" href="https://www.instagram.com/czechslovakunion/" target="_blank" rel="noopener">Instagram</a>) in a friendly football match at ETH Hönggerberg.</p> <h2 id="date--time">Date &amp; Time</h2> <p><strong>Thursday, October 22, 2026 at 18:00</strong></p> <h2 id="location">Location</h2> <p><strong>ETH Hönggerberg – ASVZ</strong>, artificial turf / grass pitch (Kunstrasen / Rasenspielfeld).</p> <p>⚠️ <em>We&rsquo;re still waiting for the booking to be confirmed. We&rsquo;ll update this page with the exact pitch as soon as we know.</em></p>
+UID:20261022T180000-2026-10-23-football-match@cssz.ch
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20261022T180000
+DTSTART:20261022T180000
+DTEND:20261022T200000
+LOCATION;ALTREP="https://www.google.com/maps/search/?api=1&query=ASVZ+Sport+Center+H%C3%B6nggerberg":ETH Hönggerberg - ASVZ artificial turf / grass pitch (booking pending confirmation)
+URL:https://cssz.ch/events/2026-10-23-football-match/
+END:VEVENT
+
+END:VCALENDAR
+
